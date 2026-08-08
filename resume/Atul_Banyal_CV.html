@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atul Banyal — Resume</title>
+  <style>
+    @page { size: A4; margin: 0.55in 0.6in; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      color: #1a1a1a;
+      font-size: 10.5pt;
+      line-height: 1.38;
+      background: #fff;
+    }
+    .page { max-width: 820px; margin: 0 auto; }
+    h1 {
+      font-size: 22pt;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: #111;
+    }
+    .title {
+      font-size: 11.5pt;
+      color: #2c5282;
+      font-weight: 600;
+      margin-top: 2px;
+    }
+    .contact {
+      margin-top: 6px;
+      font-size: 9.5pt;
+      color: #444;
+    }
+    .contact span + span::before {
+      content: "  |  ";
+      color: #999;
+    }
+    h2 {
+      font-size: 10.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #2c5282;
+      border-bottom: 1.5px solid #2c5282;
+      padding-bottom: 2px;
+      margin: 14px 0 7px;
+    }
+    p.summary { text-align: justify; }
+    .skills-grid {
+      display: grid;
+      grid-template-columns: 140px 1fr;
+      gap: 3px 10px;
+    }
+    .skills-grid dt {
+      font-weight: 650;
+      color: #222;
+    }
+    .skills-grid dd { color: #333; }
+    .job-header, .edu-header, .project-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+    }
+    .job-header .role { font-weight: 700; font-size: 11pt; }
+    .job-header .dates, .edu-header .dates, .project-header .tech {
+      font-size: 9.5pt;
+      color: #555;
+      white-space: nowrap;
+    }
+    .company {
+      font-style: italic;
+      color: #333;
+      margin-bottom: 4px;
+    }
+    ul {
+      margin: 2px 0 8px 16px;
+      padding: 0;
+    }
+    li { margin-bottom: 3px; }
+    .project-name { font-weight: 700; }
+    .project-tech {
+      font-size: 9.5pt;
+      color: #444;
+      margin: 1px 0 3px;
+    }
+    a { color: inherit; text-decoration: none; }
+    @media print {
+      body { font-size: 10pt; }
+      a { color: inherit; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <h1>Atul Banyal</h1>
+      <div class="title">Software Engineer</div>
+      <div class="contact">
+        <span>Mohali, Punjab, India</span>
+        <span>+91 63518 06327</span>
+        <span>atulbanyalreal@gmail.com</span>
+      </div>
+    </header>
+
+    <h2>Professional Summary</h2>
+    <p class="summary">
+      Software Engineer with 2+ years of experience and a B.Tech specialization in Artificial Intelligence.
+      Builds fullstack products across fintech, industrial analytics, and operations platforms using
+      Ruby on Rails, Python (FastAPI), Vue.js, React.js, and Next.js. Comfortable owning features end to end —
+      APIs, frontend integration, blockchain/payment flows, and cloud DevOps (Docker, Kubernetes, CI/CD, AWS).
+      Uses Cursor and AI-assisted workflows to ship reliable production software faster.
+    </p>
+
+    <h2>Technical Skills</h2>
+    <dl class="skills-grid">
+      <dt>Languages</dt>
+      <dd>Ruby, Python, JavaScript, Shell Script</dd>
+      <dt>Backend</dt>
+      <dd>Ruby on Rails, FastAPI, RESTful APIs, Sidekiq, Microservices</dd>
+      <dt>Frontend</dt>
+      <dd>Vue.js, React.js, Next.js</dd>
+      <dt>AI &amp; Tools</dt>
+      <dd>Cursor, AI-assisted coding workflows, Artificial Intelligence (academic specialization)</dd>
+      <dt>Blockchain &amp; APIs</dt>
+      <dd>Ethereum, Bitcoin, Solana, TRON, Web3 APIs; Binance, Kraken, CoinMarketCap</dd>
+      <dt>DevOps &amp; Data</dt>
+      <dd>Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; PostgreSQL, MySQL, Redis</dd>
+      <dt>Other</dt>
+      <dd>Openware Stack (Peatio, Barong, Finex), Postman, Apidog</dd>
+    </dl>
+
+    <h2>Professional Experience</h2>
+    <div class="job-header">
+      <div class="role">Software Developer</div>
+      <div class="dates">June 2024 – Present</div>
+    </div>
+    <div class="company">Skyach Software Solutions Pvt. Ltd. | Mohali, India</div>
+    <ul>
+      <li>Developed and maintained production Ruby on Rails applications serving 1,000+ daily active users on a live cryptocurrency exchange platform.</li>
+      <li>Built RESTful APIs and microservices using Rails to support high-volume trading, account, and wallet operations for 1,000+ users.</li>
+      <li>Integrated 2 blockchain networks (Ethereum, Bitcoin) for deposits, withdrawals, and on-chain transaction processing.</li>
+      <li>Designed secure wallet management and transaction modules with Rails and PostgreSQL, ensuring reliability and auditability for financial operations.</li>
+      <li>Connected 2 third-party exchange APIs (Binance, Kraken) for real-time market data and liquidity aggregation.</li>
+      <li>Built GitHub Actions CI/CD pipelines that build Docker images on every push and deploy them to staging/production Kubernetes clusters for zero-touch rollouts.</li>
+      <li>Led development of a construction management platform in Ruby on Rails, delivering 5 core modules for project tracking, contracts, payments, workforce, and vendor management.</li>
+      <li>Built backend APIs with Python FastAPI and Vue.js frontend features for the Mantex industrial analytics platform, supporting biomass measurement workflows, data visualization, and system integrations.</li>
+    </ul>
+
+    <h2>Key Projects</h2>
+
+    <div class="project-header">
+      <div class="project-name">Mantex — Biomass Analytics Platform</div>
+    </div>
+    <div class="project-tech">Technologies: Python, FastAPI, Vue.js, PostgreSQL, REST APIs</div>
+    <ul>
+      <li>Developed FastAPI backend services for Mantex, an industrial platform that analyzes biomass and wood-based raw materials (moisture, ash content, and energy value) for bioenergy and pulp industries.</li>
+      <li>Built Vue.js interfaces to visualize measurement results, support operator workflows, and present analysis data in a clear, usable UI.</li>
+      <li>Implemented REST APIs for measurement data handling and integrations so analysis results could connect with downstream business systems and workflows.</li>
+      <li>Worked across backend and frontend to deliver reliable end-to-end features for industrial users who depend on fast, accurate material analysis.</li>
+    </ul>
+
+    <div class="project-header">
+      <div class="project-name">Crypto Exchange Platform</div>
+    </div>
+    <div class="project-tech">Technologies: Ruby on Rails, Openware Stack, Docker, Kubernetes</div>
+    <ul>
+      <li>Architected a multi-blockchain cryptocurrency exchange using Openware Stack, supporting 1,000+ daily active users with secure onboarding and account management.</li>
+      <li>Engineered a real-time order matching and trading engine optimized for production-level transaction throughput.</li>
+      <li>Expanded liquidity by integrating 2+ external exchange APIs across multiple trading pairs.</li>
+    </ul>
+
+    <div class="project-header">
+      <div class="project-name">Construction Management Platform</div>
+    </div>
+    <div class="project-tech">Technologies: Ruby on Rails</div>
+    <ul>
+      <li>Designed and shipped end-to-end Rails workflows for builders and service providers, automating contracts, payments, workforce scheduling, and vendor coordination.</li>
+    </ul>
+
+    <h2>Education</h2>
+    <div class="edu-header">
+      <div>
+        <strong>Bachelor of Technology in Computer Science and Engineering</strong><br />
+        Specialization in Artificial Intelligence<br />
+        <span class="company">ITM SLS Baroda University | Vadodara, Gujarat</span>
+      </div>
+      <div class="dates">2020 – 2024<br />CGPA: 7.7</div>
+    </div>
+  </div>
+</body>
+</html>
