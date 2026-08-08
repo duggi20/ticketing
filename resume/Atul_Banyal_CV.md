@@ -7,7 +7,7 @@ Mohali, Punjab, India | +91 63518 06327 | atulbanyalreal@gmail.com
 
 ## Professional Summary
 
-Software Engineer with 2+ years of experience and a B.Tech specialization in Artificial Intelligence. Builds fullstack products across fintech, industrial analytics, and operations platforms using Ruby on Rails, Python (FastAPI), Vue.js, React.js, and Next.js. Comfortable owning features end to end — APIs, frontend integration, blockchain/payment flows, and cloud DevOps (Docker, Kubernetes, CI/CD, AWS). Uses Cursor and AI-assisted workflows to ship reliable production software faster.
+Software Engineer with 2+ years of experience and a B.Tech specialization in Artificial Intelligence. Builds fullstack products across fintech, tree care, and operations platforms using Ruby on Rails, Python (FastAPI), Vue.js, React.js, and Next.js. Comfortable owning features end to end — APIs, frontend integration, blockchain/payment flows, and cloud DevOps (Docker, Kubernetes, CI/CD, AWS). Uses Cursor and AI-assisted workflows to ship reliable production software faster.
 
 ---
 
@@ -36,19 +36,19 @@ Software Engineer with 2+ years of experience and a B.Tech specialization in Art
 - Connected 2 third-party exchange APIs (Binance, Kraken) for real-time market data and liquidity aggregation.
 - Built GitHub Actions CI/CD pipelines that build Docker images on every push and deploy them to staging/production Kubernetes clusters for zero-touch rollouts.
 - Led development of a construction management platform in Ruby on Rails, delivering 5 core modules for project tracking, contracts, payments, workforce, and vendor management.
-- Built backend APIs with Python FastAPI and Vue.js frontend features for the Mantex industrial analytics platform, supporting biomass measurement workflows, data visualization, and system integrations.
+- Built Python FastAPI backend APIs and Vue.js frontend features for a tree care platform used by companies that buy, sell, and cut trees.
 
 ---
 
 ## Key Projects
 
-### Mantex — Biomass Analytics Platform
+### Tree Care Platform
 **Technologies:** Python, FastAPI, Vue.js, PostgreSQL, REST APIs
 
-- Developed FastAPI backend services for Mantex, an industrial platform that analyzes biomass and wood-based raw materials (moisture, ash content, and energy value) for bioenergy and pulp industries.
-- Built Vue.js interfaces to visualize measurement results, support operator workflows, and present analysis data in a clear, usable UI.
-- Implemented REST APIs for measurement data handling and integrations so analysis results could connect with downstream business systems and workflows.
-- Worked across backend and frontend to deliver reliable end-to-end features for industrial users who depend on fast, accurate material analysis.
+- Developed FastAPI backend services for a tree care marketplace/platform where different companies manage buying, selling, and cutting trees.
+- Built Vue.js interfaces for company workflows such as listings, orders, and tree service operations.
+- Implemented REST APIs to connect frontend flows with backend business logic for multi-company tree product and service management.
+- Worked across backend and frontend to deliver end-to-end features for companies operating in the tree care supply chain.
 
 ### Crypto Exchange Platform
 **Technologies:** Ruby on Rails, Openware Stack, Docker, Kubernetes
