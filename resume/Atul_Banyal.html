@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Atul Banyal — Software Engineer</title>
+<style>
+  @page { size: A4; margin: 10mm 12mm; }
+
+  * { box-sizing: border-box; }
+
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8.9pt;
+    line-height: 1.3;
+    color: #16191d;
+  }
+
+  header { text-align: center; margin-bottom: 6pt; }
+
+  h1 {
+    font-size: 17pt;
+    letter-spacing: 0.6pt;
+    margin: 0 0 1pt;
+    font-weight: 700;
+  }
+
+  .role {
+    font-size: 9.8pt;
+    font-weight: 600;
+    color: #34424f;
+    margin: 0 0 2pt;
+  }
+
+  .contact { font-size: 8.6pt; color: #3c464f; }
+  .contact a { color: #3c464f; text-decoration: none; }
+
+  h2 {
+    font-size: 9.2pt;
+    text-transform: uppercase;
+    letter-spacing: 0.9pt;
+    font-weight: 700;
+    color: #16191d;
+    margin: 7pt 0 3pt;
+    padding-bottom: 1.5pt;
+    border-bottom: 0.9pt solid #16191d;
+  }
+
+  p { margin: 0 0 2pt; }
+
+  ul { margin: 1.5pt 0 0; padding-left: 11pt; }
+  li { margin-bottom: 1.5pt; }
+
+  .skills li { margin-bottom: 1.8pt; list-style: none; }
+  .skills ul { padding-left: 0; }
+  .skills strong { color: #16191d; }
+
+  .job-head, .proj-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8pt;
+  }
+
+  .job-title { font-weight: 700; }
+  .job-dates { font-size: 8.6pt; color: #3c464f; white-space: nowrap; }
+  .job-meta { font-size: 8.8pt; color: #34424f; margin-bottom: 1pt; }
+
+  .proj { margin-top: 4pt; }
+  .proj:first-of-type { margin-top: 1.5pt; }
+  .proj-name { font-weight: 700; }
+  .stack { font-size: 8.6pt; color: #3c464f; font-style: italic; margin: 0 0 1pt; }
+
+  .edu-degree { font-weight: 600; }
+  .edu-meta { font-size: 8.8pt; color: #34424f; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Atul Banyal</h1>
+  <p class="role">Software Engineer</p>
+  <p class="contact">
+    Mohali, Punjab, India &nbsp;|&nbsp; +91 63518 06327 &nbsp;|&nbsp;
+    <a href="mailto:atulbanyalreal@gmail.com">atulbanyalreal@gmail.com</a>
+  </p>
+</header>
+
+<section>
+  <h2>Professional Summary</h2>
+  <p>
+    Software Engineer with 2+ years of experience and a B.Tech specialization in Artificial
+    Intelligence, building full-stack platforms with Ruby on Rails and Python (FastAPI),
+    alongside Vue.js, React.js, and Next.js. Delivers production APIs and UI workflows for
+    fintech/cryptocurrency and tree care products. Uses Cursor and AI-assisted development to
+    ship faster, with Docker, Kubernetes, CI/CD, and AWS supporting 1,000+ daily active users.
+  </p>
+</section>
+
+<section class="skills">
+  <h2>Technical Skills</h2>
+  <ul>
+    <li><strong>Languages:</strong> Ruby, Python, JavaScript, Shell Script</li>
+    <li><strong>Backend:</strong> Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq</li>
+    <li><strong>Frontend:</strong> Vue.js, React.js, Next.js</li>
+    <li><strong>AI &amp; Development:</strong> Cursor, AI-assisted coding workflows, Artificial Intelligence (academic specialization)</li>
+    <li><strong>Blockchain &amp; APIs:</strong> Ethereum, Bitcoin, Solana, TRON, Web3 APIs; Binance, Kraken, CoinMarketCap</li>
+    <li><strong>DevOps &amp; Databases:</strong> Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; MySQL, PostgreSQL, Redis</li>
+    <li><strong>Tools:</strong> Openware Stack (Peatio, Barong, Finex), Postman, Apidog</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Professional Experience</h2>
+  <div class="job-head">
+    <span class="job-title">Software Developer</span>
+    <span class="job-dates">June 2024 &ndash; August 2026</span>
+  </div>
+  <p class="job-meta">Skyach Software Solutions Pvt. Ltd. | Mohali, India</p>
+  <ul>
+    <li>Developed and maintained production Ruby on Rails applications serving 1,000+ daily active users on a live cryptocurrency exchange.</li>
+    <li>Built Rails REST APIs and wallet/trading modules with PostgreSQL; integrated Ethereum and Bitcoin for deposits, withdrawals, and on-chain processing.</li>
+    <li>Connected Binance and Kraken APIs for market data and liquidity; shipped GitHub Actions CI/CD with Docker images to Kubernetes.</li>
+    <li>Designed and built Python FastAPI backend services for a tree care platform used by companies that buy, sell, and cut trees, covering listings, orders, and service operations.</li>
+    <li>Implemented FastAPI REST endpoints with MySQL models and request/response validation for multi-company product and service workflows.</li>
+    <li>Developed Vue.js frontend features integrated with FastAPI APIs for company dashboards, order flows, and tree service management.</li>
+    <li>Defined API contracts and backend business logic connecting Vue.js clients to FastAPI services for end-to-end tree care operations.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Key Projects</h2>
+
+  <div class="proj">
+    <div class="proj-head"><span class="proj-name">Crypto Exchange Platform</span></div>
+    <p class="stack">Ruby on Rails, Openware Stack, Docker, Kubernetes</p>
+    <ul>
+      <li>Built a multi-blockchain cryptocurrency exchange on Openware Stack supporting 1,000+ daily active users with secure onboarding and accounts.</li>
+      <li>Engineered real-time order matching and trading flows, and integrated 2+ external exchange APIs for liquidity across trading pairs.</li>
+    </ul>
+  </div>
+
+  <div class="proj">
+    <div class="proj-head"><span class="proj-name">Tree Care Platform</span></div>
+    <p class="stack">Python, FastAPI, Vue.js, MySQL</p>
+    <ul>
+      <li>Architected FastAPI backend services for multi-company tree buy/sell/cut workflows, including listings, orders, and service operations.</li>
+      <li>Modeled MySQL schemas and FastAPI endpoints with typed request/response handling for reliable REST APIs.</li>
+      <li>Built Vue.js interfaces for company users and wired them to FastAPI for end-to-end tree product and service management.</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>Education</h2>
+  <p class="edu-degree">Bachelor of Technology in Computer Science and Engineering, Specialization in Artificial Intelligence</p>
+  <p class="edu-meta">ITM SLS Baroda University | Vadodara, Gujarat | CGPA: 7.7 | 2020 &ndash; 2024</p>
+</section>
+
+</body>
+</html>
