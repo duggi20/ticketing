@@ -13,8 +13,8 @@
   body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 8.35pt;
-    line-height: 1.25;
+    font-size: 8.8pt;
+    line-height: 1.3;
     color: #16191d;
   }
 
@@ -43,17 +43,17 @@
     letter-spacing: 0.9pt;
     font-weight: 700;
     color: #16191d;
-    margin: 5.5pt 0 2.5pt;
-    padding-bottom: 1.2pt;
+    margin: 7pt 0 3pt;
+    padding-bottom: 1.5pt;
     border-bottom: 0.9pt solid #16191d;
   }
 
   p { margin: 0 0 2pt; }
 
-  ul { margin: 1pt 0 0; padding-left: 10pt; }
-  li { margin-bottom: 1pt; }
+  ul { margin: 1.5pt 0 0; padding-left: 11pt; }
+  li { margin-bottom: 1.6pt; }
 
-  .skills li { margin-bottom: 1.2pt; list-style: none; }
+  .skills li { margin-bottom: 1.8pt; list-style: none; }
   .skills ul { padding-left: 0; }
   .skills strong { color: #16191d; }
 
@@ -92,12 +92,11 @@
   <h2>Professional Summary</h2>
   <p>
     Software Engineer with 2+ years of experience and a B.Tech specialization in Artificial
-    Intelligence, building full-stack platforms with Ruby on Rails and Python (FastAPI),
-    alongside Vue.js, React.js, and Next.js. Delivers production APIs and UI workflows for
-    fintech/cryptocurrency and tree care products. Also builds OLTP-to-OLAP data pipelines,
-    replicating MySQL into Snowflake via log-based CDC to serve analytics and BI workloads off
-    the production path. Uses Cursor and AI-assisted development to ship faster, with Docker,
-    Kubernetes, CI/CD, and AWS supporting 1,000+ daily active users.
+    Intelligence, specializing in backend development with Ruby on Rails and Python (FastAPI).
+    Delivers production REST APIs for fintech/cryptocurrency and tree care products. Also builds
+    OLTP-to-OLAP data pipelines, replicating MySQL into Snowflake via log-based CDC to serve
+    analytics and BI workloads off the production path. Uses Cursor and AI-assisted development
+    to ship faster, with Docker, Kubernetes, CI/CD, and AWS supporting 1,000+ daily active users.
   </p>
 </section>
 
@@ -106,7 +105,6 @@
   <ul>
     <li><strong>Languages:</strong> Ruby, Python, JavaScript, Shell Script</li>
     <li><strong>Backend:</strong> Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq</li>
-    <li><strong>Frontend:</strong> Vue.js, React.js, Next.js</li>
     <li><strong>AI &amp; Development:</strong> Cursor, AI-assisted coding workflows, Artificial Intelligence (academic specialization)</li>
     <li><strong>Blockchain &amp; APIs:</strong> Ethereum, Bitcoin, Solana, TRON, Web3 APIs; Binance, Kraken, CoinMarketCap</li>
     <li><strong>Data &amp; Analytics:</strong> Snowflake (OLAP), Airbyte (log-based CDC), dbt, ETL/ELT pipelines, OLTP/OLAP architecture</li>
@@ -128,8 +126,7 @@
     <li>Connected Binance and Kraken APIs for market data and liquidity; shipped GitHub Actions CI/CD with Docker images to Kubernetes.</li>
     <li>Designed and built Python FastAPI backend services for a tree care platform used by companies that buy, sell, and cut trees, covering listings, orders, and service operations.</li>
     <li>Implemented FastAPI REST endpoints with MySQL models and request/response validation for multi-company product and service workflows.</li>
-    <li>Developed Vue.js frontend features integrated with FastAPI APIs for company dashboards, order flows, and tree service management.</li>
-    <li>Defined API contracts and backend business logic connecting Vue.js clients to FastAPI services for end-to-end tree care operations.</li>
+    <li>Defined API contracts and backend business logic exposing FastAPI services to client applications for end-to-end tree care operations.</li>
   </ul>
 </section>
 
@@ -146,22 +143,16 @@
   </div>
 
   <div class="proj">
-    <div class="proj-head"><span class="proj-name">Tree Care Platform</span></div>
-    <p class="stack">Python, FastAPI, Vue.js, MySQL</p>
+    <div class="proj-head">
+      <span class="proj-name">Tree Care Platform &mdash; Analytics Pipeline</span>
+      <span class="job-dates">Personal project</span>
+    </div>
+    <p class="stack">Python, FastAPI, MySQL, Airbyte CDC, Snowflake, dbt, Docker</p>
     <ul>
-      <li>Architected FastAPI backend services for multi-company tree buy/sell/cut workflows, including listings, orders, and service operations.</li>
-      <li>Modeled MySQL schemas and FastAPI endpoints with typed request/response handling for reliable REST APIs.</li>
-      <li>Built Vue.js interfaces for company users and wired them to FastAPI for end-to-end tree product and service management.</li>
-    </ul>
-  </div>
-
-  <div class="proj">
-    <div class="proj-head"><span class="proj-name">Tree Care Analytics Pipeline</span></div>
-    <p class="stack">Python, FastAPI, MySQL, Airbyte CDC, Snowflake, dbt</p>
-    <ul>
-      <li>Built a dual-store platform separating transactional and analytical workloads: FastAPI serving order and listing writes against MySQL (OLTP), replicated by log-based CDC into Snowflake (OLAP) for BI dashboards.</li>
-      <li>Configured MySQL binlog replication (ROW format, GTIDs) and Airbyte CDC to stream changes into Snowflake without adding query load to the production database.</li>
-      <li>Modeled staging and mart layers in dbt, serving pre-aggregated results to API endpoints instead of scanning five years of orders per request.</li>
+      <li>Architected FastAPI backend services for multi-company tree buy/sell/cut workflows, modeling MySQL schemas for listings, orders, service appointments, and invoices with typed request/response validation.</li>
+      <li>Separated transactional and analytical workloads across two stores: FastAPI writes served from MySQL (OLTP) in milliseconds, replicated into Snowflake (OLAP) for BI dashboards and multi-year aggregates.</li>
+      <li>Configured MySQL binlog replication (ROW format, GTIDs) and Airbyte log-based CDC to stream inserts, updates, and deletes into Snowflake without adding query load to the operational database.</li>
+      <li>Modeled staging and mart layers in dbt, serving pre-aggregated results to API endpoints instead of scanning five years of orders per request; kept warehouse reads off the hot path with caching and a thread-pooled connector.</li>
     </ul>
   </div>
 </section>
