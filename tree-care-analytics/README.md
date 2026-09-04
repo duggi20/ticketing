@@ -11,6 +11,12 @@ something you have operated rather than something you have read about. Work
 through the layers in order; each one has a checkpoint you should be able to
 answer out loud before moving on.
 
+**Start with [WALKTHROUGH.md](WALKTHROUGH.md)** for the full build order and the
+version compatibility matrix, which was checked by resolving the requirement
+files rather than by reading release notes. It covers the one hard conflict in
+this stack (the 5.x Snowflake connector against dbt), the MySQL 8.4 CDC trap, and
+one widely repeated compatibility claim that turns out to be false.
+
 ## Why the split exists
 
 MySQL is row-oriented and tuned for transactions: fetch or modify a handful of
@@ -114,12 +120,34 @@ pool. Two deliberate details in that file:
   this stack from people who have only read about it.
 
 Modelling raw replicated tables into clean marts is dbt's job; see
-[dbt/README.md](dbt/README.md).
+[dbt/README.md](dbt/README.md). Install dbt in a **separate virtualenv** —
+`dbt-snowflake` pins `certifi <2025.4.26`, which would otherwise apply to your
+whole app environment.
 
 **Checkpoint:** explain why the zip-code rollup is fast in Snowflake. The answer
 is columnar storage (only the columns in the query are read), micro-partition
 pruning, and compute isolation — the analyst's warehouse is not the one serving
 your API.
+
+## Layer 4 — BI (dashboards and analytics)
+
+The layer that makes the architecture visible. Full detail in
+[dashboard/README.md](dashboard/README.md).
+
+```bash
+docker compose up -d metabase          # http://localhost:3000
+# or, Python-native:
+streamlit run dashboard/app.py
+```
+
+`dashboard/app.py` is a working Streamlit dashboard reading the dbt marts —
+revenue by zip code, monthly order trend, service mix. Metabase is the
+recommended option for feeling what a BI tool is like to an analyst, and its
+Snowflake driver ships in the image, so there is nothing to install.
+
+**Checkpoint:** run a heavy dashboard query and place an order through the API at
+the same time. The write still returns in milliseconds. Explain why, then do the
+same against `/analytics/revenue-by-zip-oltp` and explain the difference.
 
 ## Where this leaves your resume
 

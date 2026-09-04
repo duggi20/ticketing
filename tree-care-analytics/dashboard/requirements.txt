@@ -1,0 +1,13 @@
+# BI layer. Install in its own virtualenv, or alongside requirements.txt —
+# both keep snowflake-connector-python below 5.0.0, so they resolve together.
+#
+# st.connection("snowflake") wants snowflake-snowpark-python available.
+# snowpark has historically carried an upper bound on the Python version, so if
+# install fails on Python 3.13+, that is the cause. Python 3.12 is the safe
+# baseline for this whole project.
+
+streamlit>=1.40
+snowflake-snowpark-python>=1.20
+snowflake-connector-python>=4.2.0,<5.0.0
+pandas>=2.2
+altair>=5.4

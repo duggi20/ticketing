@@ -1,0 +1,12 @@
+# Transform environment. Install into a SEPARATE virtualenv from
+# requirements.txt:
+#
+#   python -m venv .venv-dbt && .venv-dbt/bin/pip install -r requirements-dbt.txt
+#
+# dbt-snowflake 1.12 requires Python 3.10+ and pins
+# snowflake-connector-python >=4.2.0,<5.0.0 plus certifi <2025.4.26. It does
+# resolve alongside requirements.txt, but the certifi pin then applies to the
+# whole environment, which is not a trade worth making for a web app.
+
+dbt-core>=1.10
+dbt-snowflake>=1.12,<2.0

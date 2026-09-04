@@ -28,5 +28,20 @@ services:
       timeout: 5s
       retries: 20
 
+  # BI layer. Metabase ships a Snowflake driver in the image, so unlike Superset
+  # it needs no snowflake-sqlalchemy install — which keeps that dialect, and its
+  # SQLAlchemy 1.4 pin, away from the app environment.
+  metabase:
+    image: metabase/metabase:latest
+    container_name: treecare-metabase
+    ports:
+      - "3000:3000"
+    volumes:
+      - treecare-metabase-data:/metabase.db
+    environment:
+      MB_DB_TYPE: h2
+      MB_DB_FILE: /metabase.db/metabase.db
+
 volumes:
   treecare-mysql-data:
+  treecare-metabase-data:
