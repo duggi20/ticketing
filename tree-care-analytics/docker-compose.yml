@@ -1,0 +1,47 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: treecare-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpw
+      MYSQL_DATABASE: treecare
+      MYSQL_USER: treecare
+      MYSQL_PASSWORD: treecarepw
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./mysql/init:/docker-entrypoint-initdb.d:ro
+      - treecare-mysql-data:/var/lib/mysql
+    command:
+      - --server-id=1
+      - --log-bin=mysql-bin
+      - --binlog-format=ROW
+      - --binlog-row-image=FULL
+      # Airbyte re-runs a full snapshot if it reconnects after the binlog it
+      # needs has already been purged. 7 days is slack for a paused sync.
+      - --binlog-expire-logs-seconds=604800
+      - --gtid-mode=ON
+      - --enforce-gtid-consistency=ON
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-prootpw"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  # BI layer. Metabase ships a Snowflake driver in the image, so unlike Superset
+  # it needs no snowflake-sqlalchemy install — which keeps that dialect, and its
+  # SQLAlchemy 1.4 pin, away from the app environment.
+  metabase:
+    image: metabase/metabase:latest
+    container_name: treecare-metabase
+    ports:
+      - "3000:3000"
+    volumes:
+      - treecare-metabase-data:/metabase.db
+    environment:
+      MB_DB_TYPE: h2
+      MB_DB_FILE: /metabase.db/metabase.db
+
+volumes:
+  treecare-mysql-data:
+  treecare-metabase-data:
