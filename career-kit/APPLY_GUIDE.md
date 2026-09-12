@@ -2,13 +2,60 @@
 
 Fill your **phone number** on every PDF. LinkedIn showed SkyAch as **Jun 2024 – Aug 2026**. If you are still employed there, change the end date to **Present** before you apply — on **both** the PDF and LinkedIn.
 
-Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** GitLab/Groww/Amazon. Recruiters open the profile the same hour they open the PDF.
+Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** you apply. Recruiters open the profile the same hour they open the PDF.
 
-You have **2 years 2 months**. JPMorgan is dropped. Apply only the eight jobs whose posted floor is **2 years or less** (or Intermediate / SDE I). Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, or GitLab Senior — those say **3+ years** or Senior. Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #9–13 first** (new big MNCs). Batch 1 (#1–8) was already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. Do not upload the `.md` files.
 
-## 1. GitLab — Intermediate Backend Engineer (do this first)
+## New this round (big MNC, not #1–8)
+
+### 9. Deloitte USI — Managed Services Engineer I, Node.js & Angular (do this first)
+
+[usijobs 353054](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Customer-DFO-I-Digital-Front-End-Development-Node-JS-Angular-JS-Combination-Managed-Services-Engineer-I/353054) · Bengaluru
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Deloitte_Node.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Node.pdf`
+- Posted **2–3 years** full stack. **Angular is a ramp**; Node.js + React production.
+- Same Deloitte account as #10 — applying twice is OK (different reqs).
+
+### 10. Deloitte USI — Software Engineer I, Full stack (Python)
+
+[usijobs 353711](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-C-M-AM-C-Full-stack-engineering-Python-Software-Engineer-I/353711) · Bengaluru
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Deloitte_Python.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Python.pdf`
+- Posted **2–3 years**. React/REST/Mongo/AWS match. **FastAPI/Django is a ramp.**
+
+### 11. IBM — Software Engineer, Confluent
+
+[IBM 126243](https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineer-Confluent/126243) · IBM India
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_IBM.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_IBM.pdf`
+- Posted **1–2 years** (header 1–4). Confirm Bengaluru on the form. **Java/Go/Kafka are ramps.** IBM recruiters suggest not applying to more than 3 IBM roles in a year.
+
+### 12. Cisco — Software Engineer, Bengaluru
+
+[Talent Bridge](https://talentbridge.cisco.com/en/job/software-engineer-56214) · Bengaluru
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Cisco.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Cisco.pdf`
+- Posted **BS + 1–3 years**. Wireless C/C++ posting — **only apply if you will interview on C/Python/networking fundamentals**, not only React/Node.
+
+### 13. Capgemini — Software Engineer, Bangalore
+
+[Capgemini](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1413215233/) · Bangalore · ref 515534
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Capgemini.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Capgemini.pdf`
+- Grade: **more than a year** of relevant work. Generic SWE — still a large MNC Bangalore seat.
+
+---
+
+## Batch 1 (already given)
+
+## 1. GitLab — Intermediate Backend Engineer
 
 [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) · Bangalore, remote-first
 

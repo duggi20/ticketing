@@ -4,6 +4,63 @@ You have **2 years 2 months** (SkyAch **Jun 2024 – Aug 2026**). Re-read every 
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
+**Already given (batch 1, #1–8):** GitLab Intermediate ×2, Groww SDE-I, Amazon SDE I FinOps / Payments / Merchant Tech, Accenture ATCI-R1-S1891558, JumpCloud Full Stack. Do not re-send those as “new.”
+
+# New this round — big MNCs, not the same eight (floor ≤ 2 years)
+
+These are **IBM, Cisco, Deloitte, Capgemini** — large firms, not a FAANG-only list. Cisco C/C++/Wi-Fi and IBM Java/Go are honest ramps.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 9 | **Deloitte USI — Managed Services Engineer I, Node.js & Angular** | **2 – 3 years** hands-on full stack | Bengaluru (also HYD/Pune/Chennai/Kolkata) | [usijobs 353054](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Customer-DFO-I-Digital-Front-End-Development-Node-JS-Angular-JS-Combination-Managed-Services-Engineer-I/353054) | `Atul_Banyal_Resume_Deloitte_Node.pdf` | `Atul_Banyal_Cover_Deloitte_Node.pdf` |
+| 10 | **Deloitte USI — Software Engineer I, Full stack (Python)** | **2–3 years** full stack | Bengaluru (also HYD/Pune/Chennai/Kolkata) | [usijobs 353711](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-C-M-AM-C-Full-stack-engineering-Python-Software-Engineer-I/353711) | `Atul_Banyal_Resume_Deloitte_Python.pdf` | `Atul_Banyal_Cover_Deloitte_Python.pdf` |
+| 11 | **IBM — Software Engineer, Confluent** | **1–2 years** hands-on (new grads welcome). Header **Years of Experience: 1–4** | IBM India (Bengaluru org; confirm city on the form) | [IBM 126243](https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineer-Confluent/126243) | `Atul_Banyal_Resume_IBM.pdf` | `Atul_Banyal_Cover_IBM.pdf` |
+| 12 | **Cisco — Software Engineer, Bengaluru** | **MS + 0–2 or BS + 1–3 years** | Bengaluru 560103 | [Talent Bridge](https://talentbridge.cisco.com/en/job/software-engineer-56214) | `Atul_Banyal_Resume_Cisco.pdf` | `Atul_Banyal_Cover_Cisco.pdf` |
+| 13 | **Capgemini — Software Engineer, Bangalore** | Grade: **more than a year** of relevant work | Bangalore | [Capgemini 1413215233](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1413215233/) | `Atul_Banyal_Resume_Capgemini.pdf` | `Atul_Banyal_Cover_Capgemini.pdf` |
+
+## 9. Deloitte USI — Managed Services Engineer I (Node.js + Angular)
+
+- **Req:** 353054  
+- **Posted YOE:** **2 – 3 years** of hands-on experience in Full Stack Developer or similar role.  
+- **JD:** Node.js + Angular 2+, HTML/CSS, async/AJAX, Jasmine, Webpack. Bengaluru listed.  
+- **Your match:** 2y2m sits inside 2–3. Node.js/Express personal stack + React production UI. **Angular is a ramp**, not production.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Node.pdf`
+
+## 10. Deloitte USI — Software Engineer I (Python full stack)
+
+- **Req:** 353711  
+- **Posted YOE:** **2–3 years** of experience in full stack development.  
+- **JD:** React/Angular/Vue, Python FastAPI/Django/Flask, REST, MongoDB/SQL, Git, AWS; Docker/K8s good-to-have.  
+- **Your match:** React, REST, MongoDB, Git, AWS, Docker/K8s. **Python web frameworks are a ramp** (personal ML Python only).  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Python.pdf`
+
+## 11. IBM — Software Engineer, Confluent
+
+- **Job:** 126243  
+- **Posted YOE:** **1–2 years** hands-on software development (new grads welcome); Years of Experience **1–4**.  
+- **JD:** Scoped USM/C3 work with mentorship; tests, reviews, logs; Java, Go, or similar; Kafka curiosity. Company IBM India Pvt Ltd.  
+- **Your match:** 2y2m + tested microservices on K8s. **Java/Go and Kafka are ramps** (Ruby/JS/Node + NATS in personal work).  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_IBM.pdf`
+
+## 12. Cisco — Software Engineer, Bengaluru
+
+- **Posted YOE:** **MS + 0–2 years or BS + 1–3 years**.  
+- **JD:** Full-stack wireless (AP/controller/management): C/C++, Python, tests, automation, log/packet debug.  
+- **Your match:** BS + 2y2m; implement-through-validation and log debugging. **C/C++ and 802.11 are ramps.** Skip if you only want web stack.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Cisco.pdf`
+
+## 13. Capgemini — Software Engineer, Bangalore
+
+- **Ref:** 515534 · posting 1413215233  
+- **Posted YOE:** **more than a year** of relevant work experience (Experienced Professionals, Permanent).  
+- **JD:** Develop/maintain/optimize software; programming concepts; work to direction with minimal supervision; team player.  
+- **Your match:** 2y2m product engineering. Generic SWE req — still a large MNC Bangalore seat.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Capgemini.pdf`
+
+---
+
+# Already given — batch 1 (do not treat as new)
+
 | # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
 |---|----------------|------------|----------|-------|------------|-----------|
 | 1 | **GitLab — Intermediate Backend Engineer** | No numeric floor. Intermediate = ship production backends; GitLab’s Intermediate band is the 2-year level | Bangalore (remote-first, no visa) | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) | `Atul_Banyal_Resume_GitLab_Backend.pdf` | `Atul_Banyal_Cover_GitLab_Backend.pdf` |
@@ -37,6 +94,8 @@ Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matchi
 - **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_JumpCloud_Fullstack.pdf`
 
 Other 2+ year listings checked today that were **closed or wrong stack**: GitLab Intermediate SSCS / Security / Fullstack Data Products (not on live Greenhouse API), Postman Collections 2–4 (gone; Bangalore board is Senior/Staff only), Diligent SWE I 1–2 (gone; remaining SWE II is 3–5 or Canada), Intuit SWE 2 frontend (jobs.intuit.com 404), Toddle Fullstack (careers 404).
+
+**Checked 12 Sep 2026 and skipped (new search, not duplicates of #1–8):** Cisco IQ Bangalore 2023390 (**Minimum 3 years** professional SWE), Cisco Workday 2021804 (preferred **Bachelor’s + 3 years**), Accenture ATCI-5100914 (redirected off the JD), Accenture React ATCI-5440347 / ATCI-5235961 (**min 3 years React**), Deloitte SWE II 356554 (**3–5 years**), EY Associate Full Stack (**3–5 years**), HSBC Avaloq 288703 (Poland), Amazon extra SDE I FTCs 2927738/2903514 (404).
 
 Skipped earlier (wrong level, wrong stack, or already used): Stripe Internal Systems (8+ years Ruby), Ping Identity FE (4–6 years), Coinbase EAA (Workato), Coinbase Security (3+ Go/Java), MongoDB Application Engineer (4–7 Java), Intuit Staff, CRED (no SWE), Freshworks Lever (empty), Thoughtworks India (Solution Architect only).
 

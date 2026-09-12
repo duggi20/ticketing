@@ -6,7 +6,19 @@ The Claude share could not be opened (login wall). Resumes use your public Linke
 
 **Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, SkyAch bullets, Featured GitHub). Recruiters will open that profile the same day they open your PDF.
 
-## Apply these 8 (YOE fits 2y2m)
+## Apply these 5 first (new big MNCs — not the earlier eight)
+
+| # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
+|---|---------|------|------------|------------|-----------|-------|
+| 9 | Deloitte USI | Managed Services Engineer I, Node.js & Angular | **2–3 years** | `resumes/pdf/Atul_Banyal_Resume_Deloitte_Node.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Node.pdf` | [Job](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Customer-DFO-I-Digital-Front-End-Development-Node-JS-Angular-JS-Combination-Managed-Services-Engineer-I/353054) |
+| 10 | Deloitte USI | Software Engineer I, Full stack (Python) | **2–3 years** | `resumes/pdf/Atul_Banyal_Resume_Deloitte_Python.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Python.pdf` | [Job](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-C-M-AM-C-Full-stack-engineering-Python-Software-Engineer-I/353711) |
+| 11 | IBM | Software Engineer, Confluent | **1–2 years** (header 1–4) | `resumes/pdf/Atul_Banyal_Resume_IBM.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_IBM.pdf` | [Job](https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineer-Confluent/126243) |
+| 12 | Cisco | Software Engineer, Bengaluru | **BS + 1–3 years** | `resumes/pdf/Atul_Banyal_Resume_Cisco.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Cisco.pdf` | [Job](https://talentbridge.cisco.com/en/job/software-engineer-56214) |
+| 13 | Capgemini | Software Engineer, Bangalore | **> 1 year** relevant | `resumes/pdf/Atul_Banyal_Resume_Capgemini.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Capgemini.pdf` | [Job](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1413215233/) |
+
+Cisco C/C++/Wi-Fi and IBM Java/Go are **ramps** — the PDFs say so. Prefer #9–10–13 if you want web stack only.
+
+## Already given (batch 1 — do not treat as new)
 
 | # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
 |---|---------|------|------------|------------|-----------|-------|
@@ -19,7 +31,7 @@ The Claude share could not be opened (login wall). Resumes use your public Linke
 | 7 | Amazon | SDE I, Payments | **1+ years** | `resumes/pdf/Atul_Banyal_Resume_Amazon_Payments.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Amazon_Payments.pdf` | [Job](https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments) |
 | 8 | Amazon | SDE I, Merchant Tech | **1+ years** | `resumes/pdf/Atul_Banyal_Resume_Amazon_SDE.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Amazon_SDE.pdf` | [Job](https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech) |
 
-**Do not apply:** JumpCloud LDAP (**3–5 years**), Okta PS R&D (**3+ years**), Accenture ATCI-5218598 (**min 3 years Node**), GitLab Senior. YOE quotes: [`JOBS.md`](JOBS.md). How to apply: [`APPLY_GUIDE.md`](APPLY_GUIDE.md).
+**Do not apply:** JumpCloud LDAP (**3–5 years**), Okta PS R&D (**3+ years**), Accenture ATCI-5218598 (**min 3 years Node**), GitLab Senior, Cisco IQ 2023390 (**min 3 years**). YOE quotes: [`JOBS.md`](JOBS.md). How to apply: [`APPLY_GUIDE.md`](APPLY_GUIDE.md).
 
 Upload the **PDFs**, not markdown and not a screenshot.
 
@@ -29,3 +41,4 @@ Upload the **PDFs**, not markdown and not a screenshot.
 - The ticketing app in this GitHub repo is labeled **personal**, not employer work. Project bullets are reframed to sound like GitLab/Groww/Amazon work; they are still that personal stack.
 - No Java production experience is claimed. No PostgreSQL-at-GitLab-scale experience is claimed.
 - JumpCloud Full Stack: **Vue 3 is a ramp**, not production.
+- Deloitte Node/Angular: **Angular is a ramp**. Deloitte Python SWE I: **FastAPI/Django is a ramp**. IBM Confluent: **Java/Go/Kafka are ramps**. Cisco wireless: **C/C++ and 802.11 are ramps**.
