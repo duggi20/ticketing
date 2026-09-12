@@ -4,9 +4,63 @@ You have **2 years 2 months** (SkyAch **Jun 2024 – Aug 2026**). Re-read every 
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-**Already given (batch 1, #1–8):** GitLab Intermediate ×2, Groww SDE-I, Amazon SDE I FinOps / Payments / Merchant Tech, Accenture ATCI-R1-S1891558, JumpCloud Full Stack. Do not re-send those as “new.”
+**Already given:** batch 1 (#1–8) and batch 2 (#9–13). Do not re-send those as “new.”
 
-# New this round — big MNCs, not the same eight (floor ≤ 2 years)
+# New this round — batch 3 (#14–18)
+
+Web-stack overlap first. Honeywell Hyderabad is the only non-Bengaluru seat (same as Amazon Payments #7). Capgemini 536176 is a **different req** from #13.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 14 | **Accenture — Application Developer, React.js** | Header **2–5 years**. Body **Minimum 2 year(s)** and **minimum 2 years of experience in React.js** | Bengaluru | [ATCI-4977558-S1857293](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4977558-S1857293_en) | `Atul_Banyal_Resume_Accenture_React.pdf` | `Atul_Banyal_Cover_Accenture_React.pdf` |
+| 15 | **Honeywell — Software Engr I** (DevOps/SRE) | **1–2 years** DevOps, SRE, cloud ops, sysadmin, or related | Bengaluru, hybrid | [Honeywell 156419](https://careers.honeywell.com/en/sites/Honeywell/job/156419) | `Atul_Banyal_Resume_Honeywell_DevOps.pdf` | `Atul_Banyal_Cover_Honeywell_DevOps.pdf` |
+| 16 | **Honeywell — Software Engr I** (React/Node) | **SE-I, 1+ years**; essential: React 18 + Node.js/TypeScript Express | Hyderabad | [Honeywell 157479](https://careers.honeywell.com/en/sites/Honeywell/job/157479) | `Atul_Banyal_Resume_Honeywell_Fullstack.pdf` | `Atul_Banyal_Cover_Honeywell_Fullstack.pdf` |
+| 17 | **Airbus — Skywise Foundry Developer** | **1–5 years** software development | Bangalore | [JR10437380](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Bangalore-Area/Skywise-Foundry-Developer_JR10437380) | `Atul_Banyal_Resume_Airbus.pdf` | `Atul_Banyal_Cover_Airbus.pdf` |
+| 18 | **Capgemini — Software Engineer, Bangalore** | Grade: **more than a year** of relevant work | Bangalore | [1426945733](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1426945733/) | `Atul_Banyal_Resume_Capgemini_536176.pdf` | `Atul_Banyal_Cover_Capgemini_536176.pdf` |
+
+## 14. Accenture — Application Developer (React.js)
+
+- **Job No:** ATCI-4977558-S1857293  
+- **Posted YOE:** Header **Experience: 2–5 years**. Body: **Minimum 2 year(s) of experience is required** and **minimum 2 years of experience in React.js**.  
+- **JD:** React.js, component architecture, state management, REST, Git, responsive/mobile-first. Good-to-have: Oracle, SQL. Bengaluru. 15 years full-time education.  
+- **Your match:** 2y2m professional React.js/Next.js. **Oracle/SQL is a ramp** (MongoDB + REST in production). Different req from #5 (Node.js S1891558).  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Accenture_React.pdf`
+
+## 15. Honeywell — Software Engr I, Bengaluru (DevOps)
+
+- **Job:** 156419 · posted 25 Aug 2026  
+- **Posted YOE:** **1–2 years** in DevOps, SRE, Cloud Operations, System Administration, or a related role.  
+- **JD:** Linux, Git, Docker/Kubernetes, CI/CD, AWS/Azure/GCP basics, incident troubleshooting. Hybrid Bengaluru.  
+- **Your match:** Docker/K8s/CI/CD/AWS/Git/JavaScript from product + personal ticketing. **Terraform, Ansible, Grafana/Prometheus are ramps.**  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Honeywell_DevOps.pdf`
+
+## 16. Honeywell — Software Engr I, Hyderabad (React/Node)
+
+- **Job:** 157479 · posted 12 Sep 2026  
+- **Posted YOE:** **SE-I, 1+ years**; essential competencies list **around 1 years** React 18 / Node.js/TypeScript Express.  
+- **JD:** Full-stack features, REST/GraphQL, MongoDB, tests, Agile, Docker. **Location is Hyderabad**, not Bengaluru.  
+- **Your match:** React production + personal Express/TS/Mongo/Jest/Docker. **AngularJS, GraphQL/Apollo, Redis are ramps.**  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Honeywell_Fullstack.pdf`
+
+## 17. Airbus — Skywise Foundry Developer, Bangalore
+
+- **JR:** 10437380 · posted 27 Aug 2026  
+- **Posted YOE:** **1–5 years** of software development.  
+- **JD:** Python, PySpark, SQL, TypeScript, HTML/CSS, REST, GitHub, CI/CD. Palantir Foundry / Skywise platform skills.  
+- **Your match:** 2y2m TS/JS/HTML/CSS/REST/Git plus personal Python. **Foundry, PySpark, Skywise modules are ramps.**  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Airbus.pdf`
+
+## 18. Capgemini — Software Engineer, Bangalore (ref 536176)
+
+- **Ref:** 536176 · posting 1426945733 · posted 17 Aug 2026  
+- **Posted YOE:** **more than a year** of relevant work experience. Different req from #13 (515534 / 1413215233).  
+- **JD:** Same generic SWE grade as #13: develop/maintain/optimize software; work to direction; team player.  
+- **Your match:** 2y2m product engineering. Apply only if you still want another Capgemini Bangalore seat.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Capgemini_536176.pdf`
+
+---
+
+# Already given — batch 2 (#9–13)
 
 These are **IBM, Cisco, Deloitte, Capgemini** — large firms, not a FAANG-only list. Cisco C/C++/Wi-Fi and IBM Java/Go are honest ramps.
 

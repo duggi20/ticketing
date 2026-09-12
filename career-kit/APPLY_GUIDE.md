@@ -4,13 +4,57 @@ Fill your **phone number** on every PDF. LinkedIn showed SkyAch as **Jun 2024 �
 
 Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** you apply. Recruiters open the profile the same hour they open the PDF.
 
-You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #9–13 first** (new big MNCs). Batch 1 (#1–8) was already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #14–18 first** (new big MNCs). Batches 1–2 (#1–13) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. Do not upload the `.md` files.
 
-## New this round (big MNC, not #1–8)
+## New this round (batch 3 — not #1–13)
 
-### 9. Deloitte USI — Managed Services Engineer I, Node.js & Angular (do this first)
+### 14. Accenture — Application Developer, React.js (do this first)
+
+[ATCI-4977558-S1857293](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4977558-S1857293_en) · Bengaluru
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Accenture_React.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Accenture_React.pdf`
+- Posted **min 2 years React.js**. Different req from #5 (Node.js). **Oracle/SQL is a ramp.**
+
+### 15. Honeywell — Software Engr I, Bengaluru (DevOps)
+
+[Honeywell 156419](https://careers.honeywell.com/en/sites/Honeywell/job/156419) · Bengaluru hybrid
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Honeywell_DevOps.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Honeywell_DevOps.pdf`
+- Posted **1–2 years** DevOps/SRE/cloud ops or related. **Terraform/Ansible/Grafana are ramps.**
+
+### 16. Honeywell — Software Engr I, Hyderabad (React/Node)
+
+[Honeywell 157479](https://careers.honeywell.com/en/sites/Honeywell/job/157479) · Hyderabad
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Honeywell_Fullstack.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Honeywell_Fullstack.pdf`
+- Posted **~1 year** React + Node/Express. Best Honeywell stack fit. **AngularJS/GraphQL are ramps.** Location is Hyderabad.
+
+### 17. Airbus — Skywise Foundry Developer
+
+[JR10437380](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Bangalore-Area/Skywise-Foundry-Developer_JR10437380) · Bangalore
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Airbus.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Airbus.pdf`
+- Posted **1–5 years**. TS/JS/Python/REST match. **Palantir Foundry / PySpark are ramps.**
+
+### 18. Capgemini — Software Engineer, Bangalore (ref 536176)
+
+[Capgemini 1426945733](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1426945733/) · Bangalore · ref 536176
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Capgemini_536176.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Capgemini_536176.pdf`
+- Grade: **more than a year**. Different posting from #13. Same generic SWE grade.
+
+---
+
+## Batch 2 (already given)
+
+### 9. Deloitte USI — Managed Services Engineer I, Node.js & Angular
 
 [usijobs 353054](https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Customer-DFO-I-Digital-Front-End-Development-Node-JS-Angular-JS-Combination-Managed-Services-Engineer-I/353054) · Bengaluru
 

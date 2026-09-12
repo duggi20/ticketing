@@ -6,7 +6,19 @@ The Claude share could not be opened (login wall). Resumes use your public Linke
 
 **Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, SkyAch bullets, Featured GitHub). Recruiters will open that profile the same day they open your PDF.
 
-## Apply these 5 first (new big MNCs — not the earlier eight)
+## Apply these 5 first (batch 3 — not #1–13)
+
+| # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
+|---|---------|------|------------|------------|-----------|-------|
+| 14 | Accenture | Application Developer, React.js | **Min 2 years React** | `resumes/pdf/Atul_Banyal_Resume_Accenture_React.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Accenture_React.pdf` | [Job](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-4977558-S1857293_en) |
+| 15 | Honeywell | Software Engr I (DevOps) | **1–2 years** | `resumes/pdf/Atul_Banyal_Resume_Honeywell_DevOps.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Honeywell_DevOps.pdf` | [Job](https://careers.honeywell.com/en/sites/Honeywell/job/156419) |
+| 16 | Honeywell | Software Engr I (React/Node) | **~1 year** full stack | `resumes/pdf/Atul_Banyal_Resume_Honeywell_Fullstack.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Honeywell_Fullstack.pdf` | [Job](https://careers.honeywell.com/en/sites/Honeywell/job/157479) |
+| 17 | Airbus | Skywise Foundry Developer | **1–5 years** | `resumes/pdf/Atul_Banyal_Resume_Airbus.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Airbus.pdf` | [Job](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Bangalore-Area/Skywise-Foundry-Developer_JR10437380) |
+| 18 | Capgemini | Software Engineer, Bangalore (ref 536176) | **> 1 year** relevant | `resumes/pdf/Atul_Banyal_Resume_Capgemini_536176.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Capgemini_536176.pdf` | [Job](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1426945733/) |
+
+Prefer **#14 then #16** for React/Node. #15 is DevOps-adjacent. #17 Foundry/PySpark is a ramp. #18 is another Capgemini Bangalore seat (not the same posting as #13). Honeywell #16 is **Hyderabad**.
+
+## Already given (batch 2 — do not treat as new)
 
 | # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
 |---|---------|------|------------|------------|-----------|-------|
@@ -16,7 +28,7 @@ The Claude share could not be opened (login wall). Resumes use your public Linke
 | 12 | Cisco | Software Engineer, Bengaluru | **BS + 1–3 years** | `resumes/pdf/Atul_Banyal_Resume_Cisco.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Cisco.pdf` | [Job](https://talentbridge.cisco.com/en/job/software-engineer-56214) |
 | 13 | Capgemini | Software Engineer, Bangalore | **> 1 year** relevant | `resumes/pdf/Atul_Banyal_Resume_Capgemini.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Capgemini.pdf` | [Job](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1413215233/) |
 
-Cisco C/C++/Wi-Fi and IBM Java/Go are **ramps** — the PDFs say so. Prefer #9–10–13 if you want web stack only.
+Cisco C/C++/Wi-Fi and IBM Java/Go are **ramps** — the PDFs say so.
 
 ## Already given (batch 1 — do not treat as new)
 
@@ -42,3 +54,4 @@ Upload the **PDFs**, not markdown and not a screenshot.
 - No Java production experience is claimed. No PostgreSQL-at-GitLab-scale experience is claimed.
 - JumpCloud Full Stack: **Vue 3 is a ramp**, not production.
 - Deloitte Node/Angular: **Angular is a ramp**. Deloitte Python SWE I: **FastAPI/Django is a ramp**. IBM Confluent: **Java/Go/Kafka are ramps**. Cisco wireless: **C/C++ and 802.11 are ramps**.
+- Accenture React #14: **Oracle/SQL is a ramp**. Honeywell DevOps #15: **Terraform/Ansible/Grafana are ramps**. Honeywell full stack #16: **AngularJS/GraphQL are ramps**. Airbus #17: **Palantir Foundry / PySpark are ramps**.
