@@ -1,5 +1,7 @@
 # Career kit for Atul Banyal
 
+**Next job search:** start from [`SOURCE.md`](SOURCE.md) and Atul’s own PDFs in `source-resumes/` (plus `Atul_Banyal_CV.pdf` / `Atul_Banyal_CV_Latest.pdf` when uploaded). Stay close to those files and the JD for ATS. Do not invent React/Node/ticketing.
+
 You have **2 years 2 months** (Jun 2024 – Aug 2026). **JPMorgan dropped.** Apply only jobs whose posted floor is **2 years or less** (or Intermediate / SDE I with no 3+ minimum). Links re-checked **open on 12 Sep 2026**.
 
 Contact on PDFs is email + LinkedIn only — no GitHub URL. **Add your phone number** before sending PDFs.
