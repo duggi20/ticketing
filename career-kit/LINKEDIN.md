@@ -1,7 +1,7 @@
 # LinkedIn edits — Atul Banyal
 
 Public profile reviewed: [linkedin.com/in/atul-banyal-6629a2185](https://www.linkedin.com/in/atul-banyal-6629a2185)  
-Date: 12 Sep 2026. LinkedIn itself is a login wall, so this uses the public headline/About/experience/education plus GitHub.
+Date: 12 Sep 2026. LinkedIn itself is a login wall, so this uses the public headline/About/experience/education.
 
 **Do these in LinkedIn. Do not upload this file.** After you paste, the profile should match the PDFs you are sending.
 
@@ -14,7 +14,7 @@ Date: 12 Sep 2026. LinkedIn itself is a login wall, so this uses the public head
    - Left in August → keep Aug 2026 and turn **Open to Work** on (recruiters + GitLab/Groww/Amazon).
 2. **Education is listed twice** (ITM Group of Institutions *and* ITM SLS Baroda University). Keep **one**: B.Tech, Computer Science and Engineering (AI), ITM SLS Baroda University, **2020 – 2024**. Delete the duplicate.
 3. **Headline is too crypto-only.** GitLab / Groww / Amazon recruiters bounce on “Crypto Exchanges | Blockchain Integrations”. Use the headline below.
-4. **GitHub on the profile is `banyalatul`**, which has **one forked repo** and no bio. Your real public work is [`github.com/duggi20/ticketing`](https://github.com/duggi20/ticketing). Add that under Contact + Featured. Keep `banyalatul` as a second link if you want.
+4. **Do not add GitHub** on Contact, Featured, or the resume/cover PDFs. You asked not to list git links.
 
 ---
 
@@ -70,12 +70,9 @@ Do **not** list the ticketing app here. That is personal.
 
 ---
 
-## Featured (add these)
+## Featured
 
-1. GitHub: https://github.com/duggi20/ticketing  
-   Caption: Personal — event-driven orders/payments on Node.js, Next.js, Kubernetes (not SkyAch).
-2. GitHub profile: https://github.com/banyalatul (optional)
-3. Do **not** Featured-pin a resume PDF that is Amazon-only or GitLab-only. Recruiter at Groww should not see a GitLab-titled file. If you pin a resume, pin the **master** PDF only.
+Do **not** pin GitHub. Do **not** Featured-pin a resume PDF that is Amazon-only or GitLab-only. Recruiter at Groww should not see a GitLab-titled file. If you pin a resume, pin the **master** PDF only.
 
 ---
 
@@ -115,27 +112,12 @@ Ask 3–5 SkyAch or college people for endorsements on Rails, React, REST, Docke
 
 - Email: atulbanyalreal@gmail.com  
 - Phone: add it  
-- Website / GitHub: https://github.com/duggi20  **and** https://github.com/banyalatul  
+- Do not add a GitHub or website URL  
 - Custom URL is already fine (`atul-banyal-6629a2185`). Strip `utm_source=share_via` when you paste the link into applications — use  
   `https://www.linkedin.com/in/atul-banyal-6629a2185`
 
 ---
 
-## GitHub (5 minutes, helps the LinkedIn click)
-
-On **banyalatul**:
-- Name: Atul Banyal  
-- Bio: Software Engineer · Rails / React / Next.js · ticketing on @duggi20  
-- Pin or README-link: https://github.com/duggi20/ticketing  
-- Location: Vadodara · Open to Bengaluru  
-
-On **duggi20**:
-- Name: Atul Banyal (so it does not look like a second person)  
-- Bio: same  
-- Add a 4-line README on `ticketing` so the repo is not a blank listing.
-
----
-
 ## After you save
 
-Open the profile in a private window. Recruiter view should show: new headline, one education, Present or Open-to-Work, Featured ticketing, no crypto-only headline.
+Open the profile in a private window. Recruiter view should show: new headline, one education, Present or Open-to-Work, no crypto-only headline, no GitHub link.
