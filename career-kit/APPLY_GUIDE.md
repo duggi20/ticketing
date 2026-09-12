@@ -1,44 +1,55 @@
 # How to apply
 
-Fill your **phone number** on every PDF. Dates on LinkedIn showed SkyAch as **Jun 2024 – Aug 2026**. If you are still employed there, change the resume to **Present** before you apply.
+Fill your **phone number** on every PDF. LinkedIn showed SkyAch as **Jun 2024 – Aug 2026**. If you are still employed there, change the end date to **Present** before you apply.
 
-## Amazon (priority)
+JPMorgan is dropped. Apply these five (Bengaluru / remote-first). Re-open each link the day you apply.
 
-Apply on amazon.jobs while logged into the same candidate account for every req.
+## 1. GitLab — Intermediate Backend Engineer (do this first)
 
-1. [Payments SDE I — Hyderabad](https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments)  
-2. [FinOps SDE I — Bengaluru](https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a)  
-3. [Merchant Tech SDE I — Bengaluru](https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech)
+[Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) · Bangalore, remote-first · PDF: `Atul_Banyal_Resume_GitLab_Backend.pdf`
 
-Upload the matching PDF. In the portal, set preferred locations to **Hyderabad and Bengaluru**.
+- Location: Bangalore / India; visa sponsorship: **No**.
+- Paste `cover-letters/GitLab_Backend.md` into Cover Letter.
+- LinkedIn URL in the form. GitLab username optional (leave blank if you do not have one).
+- Interview: Rails/backend ownership, tests, written communication, how you review AI-generated code.
 
-**Interview prep (Amazon):** LeetCode arrays/hash maps/trees/graphs (medium), one page of Leadership Principles stories (Ownership, Dive Deep, Deliver Results, Learn and Be Curious, Customer Obsession). Your SkyAch production bugs and the ticketing payments service are enough for LP stories if you keep them specific.
+## 2. GitLab — Intermediate Backend, Database Change Management
 
-Do **not** lead with the University Talent Acquisition req unless the three SDE I roles above reject you. Some university reqs are limited to 2025/2026 grads; you graduated **2024**.
+[Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) · Bangalore, remote-first · PDF: `Atul_Banyal_Resume_GitLab_Database.pdf`
 
-## Accenture
+- Same form pattern as #1. Cover: `cover-letters/GitLab_Database.md`.
+- Be honest in interview: production Rails + schema/API compatibility; PostgreSQL at GitLab scale is the learning edge. Do not claim fleet-level Postgres DBA work.
 
-Open [ATCI-R1-S1891558](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-R1-S1891558_en) and confirm the Apply button is still there. Location is **Bengaluru**. Be ready to talk Node.js/Express, REST, MongoDB, and React — including the personal ticketing services.
+## 3. Groww — SDE-I
 
-Accenture often uses a coding test plus a client-technology interview. They ask for **15 years full-time education** (school + B.Tech); you meet that.
+[Greenhouse](https://job-boards.eu.greenhouse.io/growwreferrals/jobs/4953090101) · Bengaluru-VTP · PDF: `Atul_Banyal_Resume_Groww.pdf`
 
-## JPMorganChase
+- Cover: `cover-letters/Groww.md`.
+- JD is culture-heavy; talk **customer-facing investing/trading**, 1,000+ DAU, money-movement correctness.
+- Interview: DSA + product sense on orders/wallets/payments.
 
-1. Apply to the [Experienced Software Engineer cohort](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-cohort). Expect a coding screen (HackerRank-style) then a Super Day.  
-2. Also search [India Software Engineer jobs](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=Software%20Engineer&location=India&mode=location) for **Software Engineer II** in Mumbai / Bengaluru / Hyderabad and apply the same week.
+## 4. Amazon — SDE I, FinOps FP&A
 
-Python is the language to practice for the OA. You do not need prior banking experience.
+[amazon.jobs](https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a) · Bengaluru · PDF: `Atul_Banyal_Resume_Amazon_FinOps.pdf`
 
-## Microsoft / Google / Goldman Sachs
+- Same Amazon candidate account as any other Amazon req.
+- Cover / application summary: `cover-letters/Amazon_FinOps.md`.
+- Preferred locations: **Bengaluru** (and Hyderabad if you also apply Payments).
+- Interview: LeetCode medium (arrays/maps/trees/graphs) + Leadership Principles. SkyAch production bugs and the ticketing payments service are enough LP stories if they stay specific.
 
-Careers sites did not keep stable job IDs when checked. Search the same day:
+Extra Amazon shots (same account):
 
-- Microsoft: Software Engineer 2, India  
-- Google: Software Engineer II or III, Bengaluru/Hyderabad (avoid PhD-only)  
-- Goldman: Associate Software Engineering, Bengaluru
+1. [Payments SDE I — Hyderabad](https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments) → `Atul_Banyal_Resume_Amazon_Payments.pdf`
+2. [Merchant Tech SDE I — Bengaluru](https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech) → `Atul_Banyal_Resume_Amazon_SDE.pdf`
 
-Use the **master** resume. These loops are DSA-heavy.
+## 5. Accenture — Custom SWE, Node.js
+
+[ATCI-R1-S1891558](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-R1-S1891558_en) · Bengaluru · PDF: `Atul_Banyal_Resume_Accenture.pdf`
+
+- Cover: `cover-letters/Accenture.md`.
+- Talk Node.js/Express, REST, MongoDB, React — including the **personal** ticketing services.
+- Coding test + client-technology interview. They ask for **15 years full-time education**; you meet that.
 
 ## After you apply
 
-Track date, req ID, and status in a spreadsheet. Re-open `JOBS.md` links if more than a week passes before you apply — several listings in this search had already 404’d.
+Track date, req ID, and status in a spreadsheet. Re-check `JOBS.md` links if more than a week passes — several listings in the first search had already 404’d.

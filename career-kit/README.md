@@ -1,30 +1,25 @@
 # Career kit for Atul Banyal
 
-Job search pack for **large firms** (Amazon, Accenture, JPMorganChase, plus search links for Microsoft, Google, Goldman Sachs, IBM, and others).
+Tailored 1-page resumes. **JPMorgan dropped.** Apply these five (Bengaluru / remote-first). Links were re-checked **open on 12 Sep 2026**.
 
-The Claude share you sent could not be opened (it requires a Claude login). Resumes are based on your public LinkedIn/GitHub and this repo. **Add your phone number** before sending PDFs.
+The Claude share could not be opened (login wall). Resumes use your public LinkedIn/GitHub and this repo. **Add your phone number** before sending PDFs.
 
-## Start here
+## Apply these 5
 
-1. Read [`JOBS.md`](JOBS.md) — every link was checked **open vs closed on 12 Sep 2026**.
-2. Print the matching HTML resume to PDF (Chrome → Print → Save as PDF, letter size, default margins).
-3. Use the short cover letter in [`cover-letters/`](cover-letters/).
-4. Follow [`APPLY_GUIDE.md`](APPLY_GUIDE.md) for Amazon/Accenture/JPM specifics.
+| # | Company | Role | Location | Resume PDF | Apply |
+|---|---------|------|----------|------------|-------|
+| 1 | GitLab | Intermediate Backend Engineer | Bangalore (remote-first) | `resumes/pdf/Atul_Banyal_Resume_GitLab_Backend.pdf` | [Job](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) |
+| 2 | GitLab | Intermediate Backend, Database Change Management | Bangalore (remote-first) | `resumes/pdf/Atul_Banyal_Resume_GitLab_Database.pdf` | [Job](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) |
+| 3 | Groww | SDE-I | Bengaluru-VTP | `resumes/pdf/Atul_Banyal_Resume_Groww.pdf` | [Job](https://job-boards.eu.greenhouse.io/growwreferrals/jobs/4953090101) |
+| 4 | Amazon | SDE I, FinOps FP&A | Bengaluru | `resumes/pdf/Atul_Banyal_Resume_Amazon_FinOps.pdf` | [Job](https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a) |
+| 5 | Accenture | Custom SWE, Node.js | Bengaluru | `resumes/pdf/Atul_Banyal_Resume_Accenture.pdf` | [Job](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-R1-S1891558_en) |
 
-## Files
+Tracker, extra Amazon, closed roles: [`JOBS.md`](JOBS.md). How to apply: [`APPLY_GUIDE.md`](APPLY_GUIDE.md). Cover letters: [`cover-letters/`](cover-letters/).
 
-| File | Use for |
-|------|---------|
-| `resumes/Atul_Banyal_Resume_Amazon_Payments.html` | Amazon Payments + FinOps |
-| `resumes/Atul_Banyal_Resume_Amazon_SDE.html` | Amazon Merchant Tech + University SDE I |
-| `resumes/Atul_Banyal_Resume_Accenture.html` | Accenture Node.js Bengaluru |
-| `resumes/Atul_Banyal_Resume_JPM.html` | JPMorganChase |
-| `resumes/Atul_Banyal_Resume_Master.html` | Microsoft / Google / Goldman / IBM / Flipkart when the JD is generic SWE |
-
-HTML is ATS-friendly (single column, no tables, standard headings). Do not screenshot the resume into the application.
+HTML is ATS-friendly (single column, no tables, standard headings). Upload the **PDF**, not a screenshot.
 
 ## Honest constraints (do not inflate)
 
-- SkyAch work is described only as publicly listed: Rails, React/Next.js, crypto exchange, 1,000+ DAU, REST, blockchain integrations, Docker/Kubernetes/CI/CD/AWS, Cursor.
-- The ticketing app in this GitHub repo is labeled **personal**, not employer work.
-- No Java production experience is claimed. That is why Java-only Accenture/Amazon-3-year roles are marked stretch or skip.
+- SkyAch work is the same product, rewritten in each company’s language: Rails, React/Next.js, crypto exchange, 1,000+ DAU, REST, blockchain integrations, Docker/Kubernetes/CI/CD/AWS, Cursor.
+- The ticketing app in this GitHub repo is labeled **personal**, not employer work. Project bullets are reframed to sound like GitLab/Groww/Amazon work; they are still that personal stack.
+- No Java production experience is claimed. No PostgreSQL-at-GitLab-scale experience is claimed.
