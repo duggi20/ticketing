@@ -6,17 +6,17 @@ The Claude share could not be opened (login wall). Resumes use your public Linke
 
 ## Apply these 5
 
-| # | Company | Role | Location | Resume PDF | Apply |
-|---|---------|------|----------|------------|-------|
-| 1 | GitLab | Intermediate Backend Engineer | Bangalore (remote-first) | `resumes/pdf/Atul_Banyal_Resume_GitLab_Backend.pdf` | [Job](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) |
-| 2 | GitLab | Intermediate Backend, Database Change Management | Bangalore (remote-first) | `resumes/pdf/Atul_Banyal_Resume_GitLab_Database.pdf` | [Job](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) |
-| 3 | Groww | SDE-I | Bengaluru-VTP | `resumes/pdf/Atul_Banyal_Resume_Groww.pdf` | [Job](https://job-boards.eu.greenhouse.io/growwreferrals/jobs/4953090101) |
-| 4 | Amazon | SDE I, FinOps FP&A | Bengaluru | `resumes/pdf/Atul_Banyal_Resume_Amazon_FinOps.pdf` | [Job](https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a) |
-| 5 | Accenture | Custom SWE, Node.js | Bengaluru | `resumes/pdf/Atul_Banyal_Resume_Accenture.pdf` | [Job](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-R1-S1891558_en) |
+| # | Company | Role | Location | Resume PDF | Cover PDF | Apply |
+|---|---------|------|----------|------------|-----------|-------|
+| 1 | GitLab | Intermediate Backend Engineer | Bangalore (remote-first) | `resumes/pdf/Atul_Banyal_Resume_GitLab_Backend.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_GitLab_Backend.pdf` | [Job](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) |
+| 2 | GitLab | Intermediate Backend, Database Change Management | Bangalore (remote-first) | `resumes/pdf/Atul_Banyal_Resume_GitLab_Database.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_GitLab_Database.pdf` | [Job](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) |
+| 3 | Groww | SDE-I | Bengaluru-VTP | `resumes/pdf/Atul_Banyal_Resume_Groww.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Groww.pdf` | [Job](https://job-boards.eu.greenhouse.io/growwreferrals/jobs/4953090101) |
+| 4 | Amazon | SDE I, FinOps FP&A | Bengaluru | `resumes/pdf/Atul_Banyal_Resume_Amazon_FinOps.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Amazon_FinOps.pdf` | [Job](https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a) |
+| 5 | Accenture | Custom SWE, Node.js | Bengaluru | `resumes/pdf/Atul_Banyal_Resume_Accenture.pdf` | `cover-letters/pdf/Atul_Banyal_Cover_Accenture.pdf` | [Job](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-R1-S1891558_en) |
 
-Tracker, extra Amazon, closed roles: [`JOBS.md`](JOBS.md). How to apply: [`APPLY_GUIDE.md`](APPLY_GUIDE.md). Cover letters: [`cover-letters/`](cover-letters/).
+Tracker, extra Amazon, closed roles: [`JOBS.md`](JOBS.md). How to apply: [`APPLY_GUIDE.md`](APPLY_GUIDE.md).
 
-HTML is ATS-friendly (single column, no tables, standard headings). Upload the **PDF**, not a screenshot.
+Upload the **PDFs**, not markdown and not a screenshot.
 
 ## Honest constraints (do not inflate)
 

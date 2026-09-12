@@ -2,15 +2,15 @@
 
 JPMorgan Chase is out. These are **one step below FAANG/big-bank**, verified **open** on **12 Sep 2026** (Apply / Greenhouse form still live). Prefer **Bengaluru or remote-first**.
 
-Upload the matching **PDF** from `career-kit/resumes/pdf/`. Cover letters in `career-kit/cover-letters/`.
+Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-| # | Company / role | Location | Apply | Resume PDF |
-|---|----------------|----------|-------|------------|
-| 1 | **GitLab — Intermediate Backend Engineer** | Bangalore (remote-first, no visa) | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) | `Atul_Banyal_Resume_GitLab_Backend.pdf` |
-| 2 | **GitLab — Intermediate Backend, Database Change Management** | Bangalore (remote-first) | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) | `Atul_Banyal_Resume_GitLab_Database.pdf` |
-| 3 | **Groww — SDE-I** | Bengaluru-VTP | [Greenhouse](https://job-boards.eu.greenhouse.io/growwreferrals/jobs/4953090101) | `Atul_Banyal_Resume_Groww.pdf` |
-| 4 | **Amazon — SDE I, FinOps FP&A** (payments + GenAI) | Bengaluru | [amazon.jobs](https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a) | `Atul_Banyal_Resume_Amazon_FinOps.pdf` |
-| 5 | **Accenture — Custom SWE, Node.js** | Bengaluru | [Accenture](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-R1-S1891558_en) | `Atul_Banyal_Resume_Accenture.pdf` |
+| # | Company / role | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|----------|-------|------------|-----------|
+| 1 | **GitLab — Intermediate Backend Engineer** | Bangalore (remote-first, no visa) | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) | `Atul_Banyal_Resume_GitLab_Backend.pdf` | `Atul_Banyal_Cover_GitLab_Backend.pdf` |
+| 2 | **GitLab — Intermediate Backend, Database Change Management** | Bangalore (remote-first) | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) | `Atul_Banyal_Resume_GitLab_Database.pdf` | `Atul_Banyal_Cover_GitLab_Database.pdf` |
+| 3 | **Groww — SDE-I** | Bengaluru-VTP | [Greenhouse](https://job-boards.eu.greenhouse.io/growwreferrals/jobs/4953090101) | `Atul_Banyal_Resume_Groww.pdf` | `Atul_Banyal_Cover_Groww.pdf` |
+| 4 | **Amazon — SDE I, FinOps FP&A** (payments + GenAI) | Bengaluru | [amazon.jobs](https://www.amazon.jobs/en/jobs/10432823/software-development-engineer-i-finops-fp-a) | `Atul_Banyal_Resume_Amazon_FinOps.pdf` | `Atul_Banyal_Cover_Amazon_FinOps.pdf` |
+| 5 | **Accenture — Custom SWE, Node.js** | Bengaluru | [Accenture](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-R1-S1891558_en) | `Atul_Banyal_Resume_Accenture.pdf` | `Atul_Banyal_Cover_Accenture.pdf` |
 
 **Why these, not FAANG/JPM:** Amazon is still in the set (FinOps + earlier Hyderabad/Merchant PDFs). GitLab is a public DevOps/SaaS company with a real Rails product and India hiring. Groww is a large India fintech (closest to your exchange work). Accenture is the open Node.js Bengaluru req that still matches. Goldman, PhonePe Android, PayPal 2026-grad, Shopify Americas, Google Uni Grad, and JPM were skipped or already closed.
 
@@ -25,43 +25,43 @@ Upload the matching **PDF** from `career-kit/resumes/pdf/`. Cover letters in `ca
 - **ID:** 8736877002  
 - **JD:** Rails/Go, ship to production, tests, AI tools, async remote, ~2+ years.  
 - **Your match:** 2+ years Rails at SkyAch; Next.js; Docker/K8s; Cursor; GitLab CI mention is honest if you have used GitLab or GitHub Actions — the resume says GitLab CI/CD as a skill because GitLab's product *is* CI; if you have only used GitHub Actions, say "GitHub Actions / CI pipelines" in the application form.  
-- **Cover:** `cover-letters/GitLab_Backend.md`
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_GitLab_Backend.pdf`
 
 ## 2. GitLab — Intermediate Backend, Database Change Management
 
 - **ID:** 8722304002  
 - **JD:** Rails + PostgreSQL, safe migrations, GitLab upgrade path, ~2 years.  
 - **Your match:** SkyAch schema/API compatibility on fintech data; personal ticketing uses **MongoDB + events + K8s**, not PostgreSQL. Stretch on “Postgres at GitLab scale”; strong on Rails + migration-safety mindset.  
-- **Cover:** `cover-letters/GitLab_Database.md`
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_GitLab_Database.pdf`
 
 ## 3. Groww — SDE-I
 
 - **ID:** 4953090101  
 - **JD:** Culture-heavy ("humane, ambitious, 10x"); Bengaluru-VTP. Treat as **fintech product engineer**.  
 - **Your match:** Crypto exchange, 1,000+ DAU, KYC, payments, React/Next.  
-- **Cover:** `cover-letters/Groww.md`
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Groww.pdf`
 
 ## 4. Amazon — SDE I FinOps FP&A
 
 - **ID:** 10432823  
 - **Team:** Payments platform, AWS, GenAI on financial data.  
 - **Your match:** Payments/trading APIs, Docker/K8s, AWS, Cursor.  
-- **Cover:** `cover-letters/Amazon_FinOps.md`
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Amazon_FinOps.pdf`
 
 ## 5. Accenture — Custom SWE Node.js
 
 - **Req:** ATCI-R1-S1891558  
 - **JD:** Node.js, REST, SQL/NoSQL, Docker, optional K8s, 2–5 years.  
-- **Cover:** `cover-letters/Accenture.md`
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Accenture.pdf`
 
 ---
 
 ## Also still open (extra Amazon)
 
-| Role | Location | Link | Resume |
-|------|----------|------|--------|
-| Amazon Payments SDE I | Hyderabad | https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments | `Atul_Banyal_Resume_Amazon_Payments.pdf` |
-| Amazon Merchant Tech SDE I | Bengaluru | https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech | `Atul_Banyal_Resume_Amazon_SDE.pdf` |
+| Role | Location | Link | Resume PDF | Cover PDF |
+|------|----------|------|------------|-----------|
+| Amazon Payments SDE I | Hyderabad | https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments | `Atul_Banyal_Resume_Amazon_Payments.pdf` | `Atul_Banyal_Cover_Amazon_Payments.pdf` |
+| Amazon Merchant Tech SDE I | Bengaluru | https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech | `Atul_Banyal_Resume_Amazon_SDE.pdf` | `Atul_Banyal_Cover_Amazon_SDE.pdf` |
 
 ---
 

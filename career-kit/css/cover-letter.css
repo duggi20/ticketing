@@ -1,0 +1,79 @@
+@page {
+  size: Letter;
+  margin: 0.7in 0.85in;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #111;
+  font-family: Calibri, "Segoe UI", Arial, Helvetica, sans-serif;
+  font-size: 11pt;
+  line-height: 1.38;
+}
+
+.page {
+  max-width: 8.5in;
+  margin: 0 auto;
+}
+
+.sender {
+  text-align: left;
+  margin: 0 0 18px;
+}
+
+.sender .name {
+  font-size: 16pt;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  margin: 0 0 2px;
+}
+
+.sender .meta {
+  font-size: 10pt;
+  color: #222;
+  margin: 0;
+  font-style: normal;
+  display: block;
+}
+
+.sender a {
+  color: #111;
+  text-decoration: none;
+}
+
+.date {
+  margin: 0 0 16px;
+}
+
+.recipient {
+  margin: 0 0 14px;
+}
+
+.recipient p {
+  margin: 0;
+}
+
+.salutation {
+  margin: 0 0 10px;
+}
+
+.body p {
+  margin: 0 0 10px;
+}
+
+.closing {
+  margin: 16px 0 0;
+}
+
+.closing p {
+  margin: 0;
+}
+
+.sign {
+  margin-top: 18px;
+  font-weight: 700;
+}
