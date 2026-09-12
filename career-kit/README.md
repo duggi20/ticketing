@@ -1,10 +1,10 @@
 # Career kit for Atul Banyal
 
-**Next job search:** start from [`SOURCE.md`](SOURCE.md) and Atul’s own PDFs in `source-resumes/` (plus `Atul_Banyal_CV.pdf` / `Atul_Banyal_CV_Latest.pdf` when uploaded). Stay close to those files and the JD for ATS. Do not invent React/Node/ticketing.
+**Next job search:** use [`SOURCE.md`](SOURCE.md) — union of `Atul_Banyal_CV_Latest.pdf` + `Atul_Banyal_CV.pdf` + `Atul_Banyal.pdf`, then the JD for ATS. Vue/React/Next are on his CVs. Do not invent Node/ticketing/Angular. Do not rewrite the current #1–18 PDFs unless asked.
 
 You have **2 years 2 months** (Jun 2024 – Aug 2026). **JPMorgan dropped.** Apply only jobs whose posted floor is **2 years or less** (or Intermediate / SDE I with no 3+ minimum). Links re-checked **open on 12 Sep 2026**.
 
-Contact on PDFs is email + LinkedIn only — no GitHub URL. **Add your phone number** before sending PDFs.
+Phone **+91 63518 06327** is on his actual CVs. No GitHub URL.
 
 **Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, SkyAch bullets). Do not add a GitHub link. Recruiters will open that profile the same day they open your PDF.
 

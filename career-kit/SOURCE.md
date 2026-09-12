@@ -1,75 +1,73 @@
 # Source of truth — Atul Banyal
 
-**For future job searches only.** Do not rewrite the current #1–18 application PDFs in this round. Atul said to keep this for next time.
+**For future job searches only.** Do not rewrite the current #1–18 application PDFs unless Atul asks. Next search: use **all three** of his PDFs together, then overlay the JD for ATS.
 
-Use **all** of Atul’s own resumes, then overlay the JD for ATS. Do not invent a second career.
+Never drop a skill, product, or bullet that appears on **any** of the three. Union, not the shortest file.
 
-| File | Status |
+| File | In kit |
 |------|--------|
-| `source-resumes/Atul_Banyal.pdf` | **Received** (this run). Canonical until the other two arrive. |
-| `Atul_Banyal_CV.pdf` | **Not uploaded** — re-send this file. |
-| `Atul_Banyal_CV_Latest.pdf` | **Not uploaded** — re-send this file. |
+| [`source-resumes/Atul_Banyal_CV_Latest.pdf`](source-resumes/Atul_Banyal_CV_Latest.pdf) | Fullstack: Rails, FastAPI, **Vue.js, React.js, Next.js**; crypto + **construction** + tree care (Vue) |
+| [`source-resumes/Atul_Banyal_CV.pdf`](source-resumes/Atul_Banyal_CV.pdf) | Same three products; Vue on tree care; React/Next in skills |
+| [`source-resumes/Atul_Banyal.pdf`](source-resumes/Atul_Banyal.pdf) | Backend/data extra: **Snowflake, Airbyte CDC, dbt**, OLTP/OLAP (tree care analytics). No frontend line |
 
-When the CV / CV_Latest PDFs arrive, extract them into `source-resumes/`, merge every fact into this file, and **keep** facts that appear on any of the three. Never drop a skill or bullet that is on an actual resume.
+Extracted text: `source-resumes/*.extracted.txt`
 
-Plain text of the received PDF: [`source-resumes/Atul_Banyal.extracted.txt`](source-resumes/Atul_Banyal.extracted.txt)
-
-## Profile (from Atul_Banyal.pdf)
+## Profile (union)
 
 - **Name:** Atul Banyal
 - **Headline:** Software Engineer
-- **Location:** Mohali, Punjab, India
+- **Title at work:** Software Developer
+- **Company:** Skyach Software Solutions Pvt. Ltd. (spell **Skyach**)
+- **Location:** Mohali, Punjab, India · work in Mohali
 - **Phone:** +91 63518 06327
 - **Email:** atulbanyalreal@gmail.com
-- **LinkedIn (applications only, not on the original PDF):** https://www.linkedin.com/in/atul-banyal-6629a2185
-- **No GitHub URL** on resumes, covers, or LinkedIn. GitHub Actions as a CI tool is on the resume; that is not a profile link.
-
-### Experience
-
-- **Title:** Software Developer
-- **Company:** Skyach Software Solutions Pvt. Ltd. (spell **Skyach**)
-- **Location:** Mohali, India
 - **Dates:** June 2024 – August 2026 (**2 years 2 months**)
-- Two production products:
-  1. **Crypto exchange** — Ruby on Rails, Openware (Peatio, Barong, Finex), PostgreSQL, Ethereum/Bitcoin wallets, Binance/Kraken APIs, GitHub Actions, Docker, Kubernetes, 1,000+ DAU
-  2. **Tree care platform** — Python FastAPI, MySQL, REST to client apps, Airbyte log-based CDC into Snowflake, dbt marts, OLTP/OLAP split
+- **LinkedIn (applications only):** https://www.linkedin.com/in/atul-banyal-6629a2185
+- **No GitHub URL.** GitHub Actions as CI is on the CVs; that is not a profile link.
+- **Education:** B.Tech CSE, specialization in Artificial Intelligence, ITM SLS Baroda University, Vadodara, Gujarat, CGPA **7.7**, 2020–2024
 
-### Skills (only these unless a later CV adds more)
+### Three Skyach products (keep all)
+
+1. **Crypto exchange** — Ruby on Rails, Openware (Peatio, Barong, Finex), PostgreSQL, Ethereum/Bitcoin wallets, Binance/Kraken APIs, GitHub Actions → Docker → Kubernetes, 1,000+ DAU
+2. **Construction management** — Ruby on Rails; five modules: project tracking, contracts, payments, workforce, vendor management
+3. **Tree care platform** — Python FastAPI + **Vue.js** frontend, MySQL (and PostgreSQL on Latest), REST APIs for listings/orders/services; from `Atul_Banyal.pdf` also Airbyte CDC → Snowflake + dbt marts (OLTP/OLAP)
+
+### Skills (union)
 
 - Languages: Ruby, Python, JavaScript, Shell Script
 - Backend: Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq
+- Frontend: **Vue.js, React.js, Next.js** (on both CVs; Vue is also in experience bullets)
 - AI: Cursor, AI-assisted coding, AI academic specialization
-- Blockchain/APIs: Ethereum, Bitcoin, Solana, TRON, Web3; Binance, Kraken, CoinMarketCap
-- Data: Snowflake (OLAP), Airbyte CDC, dbt, ETL/ELT, OLTP/OLAP
-- DevOps/DBs: Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; MySQL, PostgreSQL, Redis, Snowflake
+- Blockchain/APIs: Ethereum, Bitcoin, Solana, TRON, Web3, Node Setup; Binance, Kraken, CoinMarketCap
+- Data (from `Atul_Banyal.pdf`): Snowflake (OLAP), Airbyte CDC, dbt, ETL/ELT, OLTP/OLAP
+- DevOps/DBs: Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; MySQL, PostgreSQL, Redis
 - Tools: Openware Stack, Postman, Apidog
-- Education: B.Tech CSE (AI), ITM SLS Baroda University, Vadodara, Gujarat, CGPA **7.7**, 2020–2024
 
-Honest ATS aliases (same facts, JD wording): **SQL** (MySQL / PostgreSQL / Snowflake), **REST APIs**, **CI/CD**, **microservices**, **Python**, **Ruby**.
+Honest ATS aliases: **SQL** (MySQL/PostgreSQL/Snowflake), **REST APIs**, **CI/CD**, **fullstack**, **Python**, **Ruby**.
 
-## Do not invent (not on the received resume)
+## Do not invent (still not on any of the three)
 
-- React.js, Next.js, Angular, Vue as production
-- Node.js / Express / MongoDB / NATS / Stripe ticketing
+- Angular, Node.js/Express, MongoDB, NATS, Stripe ticketing
 - TypeScript as a listed skill
 - Personal GitHub projects, MediaPipe, TensorFlow as work
 - Java, Go, C++, Kafka, Terraform, Ansible, Grafana as experience
 
-JavaScript is a language on the resume. That is not 2 years of React.
+React.js / Next.js / Vue.js **are** on his CVs. Do not treat them as ramps. Vue is the frontend named on the tree-care job bullets; React/Next are in skills and summary.
 
-## How to tailor (ATS)
+## How to tailor (ATS) — future searches
 
-1. Start from this file + `Atul_Banyal_Resume_Master.html` (or the raw PDF text). Keep Skyach bullets and both projects almost verbatim.
-2. Read the JD. Put overlapping skills **first** in Technical Skills (ATS scans the top). Add one summary clause that names the role and the overlapping tools.
-3. You may repeat true JD words that already exist (Python, FastAPI, REST APIs, SQL, Docker, Kubernetes, GitHub Actions, AWS, Git, CI/CD, microservices).
-4. If the JD’s main language is React / Node / Java / C++ / Go and it is not on the resume, say **ramp** in the cover — or skip the job. Do not write “2 years React.”
+1. Start from this file + `Atul_Banyal_Resume_Master.html`. Keep Skyach products; do not replace them with a ticketing app.
+2. Read the JD. Put overlapping skills **first**. Add one summary clause that names the role and the overlapping tools from this union.
+3. Repeat true JD words that already exist (Python, FastAPI, Rails, Vue.js, React.js, Next.js, REST, SQL, Docker, Kubernetes, GitHub Actions, AWS, Snowflake, dbt).
+4. If the JD’s main language is Java / C++ / Go / Angular and it is not on the CVs, say **ramp** in the cover — or skip the job.
 5. Apply only where the posted floor is **2 years or less**. Prefer Bengaluru or remote India. Hyderabad is OK when the stack matches.
-6. One page. Phone + email + LinkedIn on application PDFs. No GitHub URL.
+6. One page. Phone + email + LinkedIn. No GitHub URL.
 
-## Prefer these JDs
+## Prefer these JDs next
 
+Fullstack / frontend: **Vue.js, React.js, Next.js, JavaScript, REST**  
 Backend / API: **Python FastAPI, Ruby on Rails, REST, MySQL/PostgreSQL, Redis**  
 Data: **Snowflake, dbt, Airbyte/CDC, SQL, ETL**  
 Platform: **Docker, Kubernetes, GitHub Actions, AWS, Git**
 
-Skip as a primary match: minimum 2 years **React.js**, Angular/Vue required, Java/Go/C++ as the job’s main language.
+Skip as a primary match: Java/Go/C++/Angular as the job’s main language, or posted **3+ years**.
