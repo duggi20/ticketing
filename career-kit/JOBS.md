@@ -16,7 +16,53 @@ Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matchi
 
 **Honesty:** SkyAch job text is **the same product**, rewritten in each company's language. The ticketing stack is **personal**, described like GitLab/Groww/Amazon work — do not list it under SkyAch.
 
-**Stretch (not in the 5):** [GitLab Senior Backend / Rails, Bangalore](https://job-boards.greenhouse.io/gitlab/jobs/8695815002) — GraphQL, PG at scale, mentoring. Use the Database PDF if you apply; expect a harder bar.
+---
+
+# Batch 2 — five more (verified open 12 Sep 2026)
+
+Same treatment: one resume PDF + one cover PDF per JD. Prefer these after the first five, or in parallel.
+
+| # | Company / role | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|----------|-------|------------|-----------|
+| 6 | **JumpCloud — Full Stack SWE, Front-End Focus** (2–4 YOE, best new match) | Bangalore, remote-first (India) | [Lever](https://jobs.lever.co/jumpcloud/4ebbdea9-39c2-465d-bbdf-bf379a8e4a06) | `Atul_Banyal_Resume_JumpCloud_Fullstack.pdf` | `Atul_Banyal_Cover_JumpCloud_Fullstack.pdf` |
+| 7 | **JumpCloud — LDAP Software Engineer** (3–5 YOE listed; Node/K8s/AWS/Cursor match, no LDAP tenure) | Bangalore, remote-first (India) | [Lever](https://jobs.lever.co/jumpcloud/756b176a-817b-4088-8eda-af8fbb389f9a) | `Atul_Banyal_Resume_JumpCloud_LDAP.pdf` | `Atul_Banyal_Cover_JumpCloud_LDAP.pdf` |
+| 8 | **Okta — Software Engineer, Professional Services R&D** (3+ YOE Node/React; stretch) | Bengaluru (onsite) | [Okta](https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119) | `Atul_Banyal_Resume_Okta.pdf` | `Atul_Banyal_Cover_Okta.pdf` |
+| 9 | **Accenture — Custom SWE, Node.js** (min 3 years Node; different req from #5) | Bengaluru | [Accenture](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5218598-S1915173_en) | `Atul_Banyal_Resume_Accenture_Node3.pdf` | `Atul_Banyal_Cover_Accenture_Node3.pdf` |
+| 10 | **GitLab — Senior Backend Engineer** (stretch; they already have Intermediate #1) | Bangalore, remote-first | [Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8736862002) | `Atul_Banyal_Resume_GitLab_Senior.pdf` | `Atul_Banyal_Cover_GitLab_Senior.pdf` |
+
+## 6. JumpCloud — Full Stack, Front-End Focus
+
+- **JD:** 2–4 years; 80% UI (Vue 3 / TypeScript) / 20% backend; Node, Mongo, REST, K8s, AWS, Cursor, on-call, remote India.  
+- **Your match:** React/Next production UI + Node/Express personal stack + K8s/AWS/Cursor. **Vue is a ramp**, not a lie — say that in the interview.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_JumpCloud_Fullstack.pdf`
+
+## 7. JumpCloud — LDAP Software Engineer
+
+- **JD:** 3–5 years backend; Go/C++/Node/Python; LDAP protocol; Docker/K8s/AWS; AI tools; on-call.  
+- **Your match:** Node/Rails APIs, JWT auth, K8s/AWS, Cursor. **Do not claim OpenLDAP.** Cover letter already says that.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_JumpCloud_LDAP.pdf`
+
+## 8. Okta — SWE, Professional Services R&D
+
+- **JD:** 3+ years; Java/Python/Node/C#; React; AWS/CI/CD; reusable delivery assets; IAM nice-to-have.  
+- **Your match:** Node + React + AWS/CI; JWT auth as identity-adjacent. Stretch on years.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Okta.pdf`
+
+## 9. Accenture — Custom SWE Node.js (ATCI-5218598-S1915173)
+
+- **JD:** Node.js, REST, MongoDB/MySQL, JS frameworks, Git, min **3 years** Node, Bengaluru, 15 years education.  
+- **Your match:** Same as #5 plus a Node microservices project. Req is stricter on Node years — apply anyway; do not claim 3 years of Node as an employer title.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Accenture_Node3.pdf`
+
+## 10. GitLab — Senior Backend Engineer
+
+- **JD:** High-scope backend, architecture, mentoring, AI in production, remote async, Bangalore.  
+- **Your match:** Same Rails production loop as #1. Senior bar is a stretch; Intermediate is the honest level.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_GitLab_Senior.pdf`
+
+Skipped this round (wrong level, wrong stack, or already used): Stripe Internal Systems (8+ years Ruby), Ping Identity FE (4–6 years), Coinbase EAA (Workato), Coinbase Security (3+ Go/Java), MongoDB Application Engineer (4–7 Java), Amazon unlabeled SDEs (3+ years / games copy-paste), Intuit Bengaluru (Staff only), CRED (no SWE), Freshworks Lever (empty), Thoughtworks India (Solution Architect only).
+
+**Extra GitLab Senior (Rails/GraphQL, different req):** [8695815002](https://job-boards.greenhouse.io/gitlab/jobs/8695815002) — GraphQL + PG at scale + mentoring. Job #10 uses 8736862002. If you apply to 8695815002, use the Senior PDF and expect a harder bar.
 
 ---
 
