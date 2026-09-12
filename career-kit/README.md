@@ -4,6 +4,8 @@ Tailored 1-page resumes. **JPMorgan dropped.** Apply these five (Bengaluru / rem
 
 The Claude share could not be opened (login wall). Resumes use your public LinkedIn/GitHub and this repo. **Add your phone number** before sending PDFs.
 
+**Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, SkyAch bullets, Featured GitHub). Recruiters will open that profile the same day they open your PDF.
+
 ## Apply these 5
 
 | # | Company | Role | Location | Resume PDF | Cover PDF | Apply |

@@ -1,6 +1,8 @@
 # How to apply
 
-Fill your **phone number** on every PDF. LinkedIn showed SkyAch as **Jun 2024 – Aug 2026**. If you are still employed there, change the end date to **Present** before you apply.
+Fill your **phone number** on every PDF. LinkedIn showed SkyAch as **Jun 2024 – Aug 2026**. If you are still employed there, change the end date to **Present** before you apply — on **both** the PDF and LinkedIn.
+
+Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** GitLab/Groww/Amazon. Recruiters open the profile the same hour they open the PDF.
 
 JPMorgan is dropped. Apply these five (Bengaluru / remote-first). Re-open each link the day you apply.
 
