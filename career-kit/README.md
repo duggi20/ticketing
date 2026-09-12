@@ -2,9 +2,9 @@
 
 You have **2 years 2 months** (Jun 2024 – Aug 2026). **JPMorgan dropped.** Apply only jobs whose posted floor is **2 years or less** (or Intermediate / SDE I with no 3+ minimum). Links re-checked **open on 12 Sep 2026**.
 
-The Claude share could not be opened (login wall). Resumes use your public LinkedIn/GitHub and this repo. **Add your phone number** before sending PDFs.
+Contact on PDFs is email + LinkedIn only — no GitHub URL. **Add your phone number** before sending PDFs.
 
-**Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, SkyAch bullets, Featured GitHub). Recruiters will open that profile the same day they open your PDF.
+**Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, SkyAch bullets). Do not add a GitHub link. Recruiters will open that profile the same day they open your PDF.
 
 ## Apply these 5 first (batch 3 — not #1–13)
 
@@ -50,7 +50,7 @@ Upload the **PDFs**, not markdown and not a screenshot.
 ## Honest constraints (do not inflate)
 
 - SkyAch work is the same product, rewritten in each company’s language: Rails, React/Next.js, crypto exchange, 1,000+ DAU, REST, blockchain integrations, Docker/Kubernetes/CI/CD/AWS, Cursor.
-- The ticketing app in this GitHub repo is labeled **personal**, not employer work. Project bullets are reframed to sound like GitLab/Groww/Amazon work; they are still that personal stack.
+- The ticketing app is labeled **personal**, not employer work. Project bullets are reframed to each JD’s vocabulary; they are still that personal stack.
 - No Java production experience is claimed. No PostgreSQL-at-GitLab-scale experience is claimed.
 - JumpCloud Full Stack: **Vue 3 is a ramp**, not production.
 - Deloitte Node/Angular: **Angular is a ramp**. Deloitte Python SWE I: **FastAPI/Django is a ramp**. IBM Confluent: **Java/Go/Kafka are ramps**. Cisco wireless: **C/C++ and 802.11 are ramps**.

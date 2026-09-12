@@ -160,7 +160,7 @@ Skipped earlier (wrong level, wrong stack, or already used): Stripe Internal Sys
 - **ID:** 8736877002  
 - **Posted YOE:** No numeric years. Asks for professional experience shipping production backends (Intermediate band).  
 - **JD:** Rails/Go, ship to production, tests, AI tools, async remote.  
-- **Your match:** 2+ years Rails at SkyAch; Next.js; Docker/K8s; Cursor; GitLab CI mention is honest if you have used GitLab or GitHub Actions — the resume says GitLab CI/CD as a skill because GitLab's product *is* CI; if you have only used GitHub Actions, say "GitHub Actions / CI pipelines" in the application form.  
+- **Your match:** 2+ years Rails at SkyAch; Next.js; Docker/K8s; Cursor. The resume says GitLab CI/CD because that is GitLab’s product; on the form, say CI/CD pipelines if you have not used GitLab CI as an employee.  
 - **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_GitLab_Backend.pdf`
 
 ## 2. GitLab — Intermediate Backend, Database Change Management
