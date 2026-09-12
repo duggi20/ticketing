@@ -4,7 +4,7 @@ Fill your **phone number** on every PDF. LinkedIn showed SkyAch as **Jun 2024 �
 
 Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** GitLab/Groww/Amazon. Recruiters open the profile the same hour they open the PDF.
 
-JPMorgan is dropped. Apply these five (Bengaluru / remote-first). Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. Apply only the eight jobs whose posted floor is **2 years or less** (or Intermediate / SDE I). Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, or GitLab Senior — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. Do not upload the `.md` files.
 
@@ -43,12 +43,7 @@ Upload **two PDFs** on every form that allows a cover letter: resume + cover. Do
 - Cover: `cover-letters/pdf/Atul_Banyal_Cover_Amazon_FinOps.pdf`
 - Same Amazon candidate account as any other Amazon req.
 - Preferred locations: **Bengaluru** (and Hyderabad if you also apply Payments).
-- Interview: LeetCode medium (arrays/maps/trees/graphs) + Leadership Principles. SkyAch production bugs and the ticketing payments service are enough LP stories if they stay specific.
-
-Extra Amazon shots (same account):
-
-1. [Payments SDE I — Hyderabad](https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments) → resume `Atul_Banyal_Resume_Amazon_Payments.pdf` + cover `Atul_Banyal_Cover_Amazon_Payments.pdf`
-2. [Merchant Tech SDE I — Bengaluru](https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech) → resume `Atul_Banyal_Resume_Amazon_SDE.pdf` + cover `Atul_Banyal_Cover_Amazon_SDE.pdf`
+- Interview: LeetCode medium (arrays/maps/trees/graphs) + Leadership Principles. SkyAch production bugs and the ticketing payments service are enough LP stories if they stay specific. Same Amazon account as #7–8.
 
 ## 5. Accenture — Custom SWE, Node.js
 
@@ -59,52 +54,21 @@ Extra Amazon shots (same account):
 - Talk Node.js/Express, REST, MongoDB, React — including the **personal** ticketing services.
 - Coding test + client-technology interview. They ask for **15 years full-time education**; you meet that.
 
-## Batch 2 — five more (same PDF treatment)
-
-Re-open each link the day you apply. Upload resume PDF + cover PDF.
-
-## 6. JumpCloud — Full Stack SWE, Front-End Focus (best new match)
+## 6. JumpCloud — Full Stack SWE, Front-End Focus (2–4 years — fits)
 
 [Lever](https://jobs.lever.co/jumpcloud/4ebbdea9-39c2-465d-bbdf-bf379a8e4a06) · Bangalore, remote-first (India)
 
 - Resume: `resumes/pdf/Atul_Banyal_Resume_JumpCloud_Fullstack.pdf`
 - Cover: `cover-letters/pdf/Atul_Banyal_Cover_JumpCloud_Fullstack.pdf`
-- JD is 2–4 YOE, ~80% UI (Vue 3) / 20% backend, Node/Mongo/K8s/AWS/Cursor.
+- JD: **2 to 4 years**, ~80% UI (Vue 3) / 20% backend, Node/Mongo/K8s/AWS/Cursor.
 - **Honesty:** React/Next production + Node personal stack. **Vue is a ramp**, not production experience — the cover letter already says that.
 
-## 7. JumpCloud — LDAP Software Engineer
+## 7–8. Extra Amazon SDE I (1+ years — fits)
 
-[Lever](https://jobs.lever.co/jumpcloud/756b176a-817b-4088-8eda-af8fbb389f9a) · Bangalore, remote-first (India)
+Same Amazon candidate account as #4.
 
-- Resume: `resumes/pdf/Atul_Banyal_Resume_JumpCloud_LDAP.pdf`
-- Cover: `cover-letters/pdf/Atul_Banyal_Cover_JumpCloud_LDAP.pdf`
-- JD lists 3–5 YOE and LDAP protocol. Your match is Node/Rails APIs, JWT auth, K8s/AWS, Cursor.
-- **Honesty:** Do not claim OpenLDAP. Cover letter already says you are not an LDAP specialist.
-
-## 8. Okta — SWE, Professional Services R&D (stretch on years)
-
-[Okta](https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119) · Bengaluru onsite
-
-- Resume: `resumes/pdf/Atul_Banyal_Resume_Okta.pdf`
-- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Okta.pdf`
-- JD: 3+ years Node/React, AWS/CI/CD, reusable delivery assets. IAM is nice-to-have.
-- **Honesty:** JWT/auth is identity-adjacent, not Okta tenure. Years are a stretch.
-
-## 9. Accenture — Custom SWE Node.js (different req from #5)
-
-[ATCI-5218598-S1915173](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5218598-S1915173_en) · Bengaluru
-
-- Resume: `resumes/pdf/Atul_Banyal_Resume_Accenture_Node3.pdf`
-- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Accenture_Node3.pdf`
-- Min **3 years Node** listed. Apply with 2+ professional + personal Express/Mongo. Do not claim 3 years of Node as an employer title.
-
-## 10. GitLab — Senior Backend Engineer (stretch)
-
-[Greenhouse](https://job-boards.greenhouse.io/gitlab/jobs/8736862002) · Bangalore, remote-first
-
-- Resume: `resumes/pdf/Atul_Banyal_Resume_GitLab_Senior.pdf`
-- Cover: `cover-letters/pdf/Atul_Banyal_Cover_GitLab_Senior.pdf`
-- Same Rails production loop as #1. Senior is a stretch; Intermediate (#1) is the honest level. Apply if you want the extra shot; recruiters may down-level.
+1. [Payments SDE I — Hyderabad](https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments) → `Atul_Banyal_Resume_Amazon_Payments.pdf` + `Atul_Banyal_Cover_Amazon_Payments.pdf`
+2. [Merchant Tech SDE I — Bengaluru](https://www.amazon.jobs/en/jobs/10511883/software-development-engineer-i-iesp-merchant-tech) → `Atul_Banyal_Resume_Amazon_SDE.pdf` + `Atul_Banyal_Cover_Amazon_SDE.pdf`
 
 ## After you apply
 
