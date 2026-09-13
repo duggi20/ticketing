@@ -21,6 +21,7 @@ Prefer **#31** for the Bengaluru Helios campus (big buildings on Outer Ring Road
 - Resume: [Atul_Banyal_Resume_Canonical_K8s.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_K8s.pdf)
 - Cover: [Atul_Banyal_Cover_Canonical_K8s.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_K8s.pdf)
 - No 3+ floor. Python/Docker/K8s/AWS match. **Linux package management and alerting ownership are ramps.** Travel 1–2×/year.
+- Form boxes (Python / DevOps / qualification): paste from [`canonical-form-answers.md`](canonical-form-answers.md). Don’t run them through ChatGPT again.
 
 ### 30. Canonical — Python/K8s SWE, Data, Workflows, AI/ML (remote worldwide)
 
