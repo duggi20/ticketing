@@ -4,7 +4,18 @@ Do not search the repo. Click a file name — GitHub opens the PDF. Use **Downlo
 
 Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf)
 
-## Batch 4 — apply these first (#19–22)
+## Batch 5 — apply these first (#23–26)
+
+Product / Fortune-style firms (Optum, GE Vernova, HP, LSEG) — not the consulting mill.
+
+| # | Role | Resume | Cover |
+|---|------|--------|-------|
+| 23 | Optum / UHG Software Engineer | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Optum.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Optum.pdf) |
+| 24 | GE Vernova Software Engineer | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GE_Vernova.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GE_Vernova.pdf) |
+| 25 | HP Cloud Automation & Platform | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_HP.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_HP.pdf) |
+| 26 | LSEG Site Reliability Engineering | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_LSEG.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_LSEG.pdf) |
+
+## Batch 4 (#19–22)
 
 | # | Role | Resume | Cover |
 |---|------|--------|-------|

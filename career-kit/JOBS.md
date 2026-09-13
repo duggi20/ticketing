@@ -4,9 +4,58 @@ You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every 
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-**Already given:** batches 1–3 (#1–18). Do not re-send those as “new.”
+**Already given:** batches 1–4 (#1–22). Do not re-send those as “new.”
 
-# New this round — batch 4 (#19–22)
+# New this round — batch 5 (#23–26)
+
+Product / Fortune-style firms — **not** Accenture / Capgemini / Cognizant / Deloitte / IBM / TCS. Official JDs re-opened **13 Sep 2026**.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 23 | **Optum / UHG — Software Engineer (Java, Python, SQL, AI, ML)** | **1+ years** software development | Bengaluru | [2377743](https://uhg.taleo.net/careersection/10020/jobapply.ftl?job=2377743) | `Atul_Banyal_Resume_Optum.pdf` | `Atul_Banyal_Cover_Optum.pdf` |
+| 24 | **GE Vernova — Software Engineer** | **1+ years** hands-on software development | Hyderabad | [R5052607](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineer_R5052607-2/apply) | `Atul_Banyal_Resume_GE_Vernova.pdf` | `Atul_Banyal_Cover_GE_Vernova.pdf` |
+| 25 | **HP — Cloud Automation & Platform Engineer** | **Typically 2–4 years** (or advanced degree with little/no experience) | Bengaluru | [3167675](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1/apply) | `Atul_Banyal_Resume_HP.pdf` | `Atul_Banyal_Cover_HP.pdf` |
+| 26 | **LSEG — Engineer, Site Reliability Engineering** | **Career Stage: Associate** (no 3+ floor) | Bengaluru (Divyasree Technopolis) | [R0119021](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer--Site-Reliability-Engineering_R0119021-1/apply) | `Atul_Banyal_Resume_LSEG.pdf` | `Atul_Banyal_Cover_LSEG.pdf` |
+
+## 23. Optum / UnitedHealth Group — Software Engineer (Java, Python, SQL, AI, ML)
+
+- **Req:** 2377743 · posted 09 Sep 2026  
+- **Posted YOE:** **1+ years of software development experience**  
+- **JD:** Python and/or Java; REST APIs and microservices; GitHub Actions / CI/CD; Git; SQL; cloud; Agile; OOP. Preferred: Docker, Kubernetes, GenAI/LangChain/TF/PyTorch.  
+- **Official JD:** https://careers.unitedhealthgroup.com/job/bengaluru/software-engineer-java-python-sql-ai-ml/34088/100415592240  
+- **Your match:** 2y2m production Python FastAPI, REST, SQL, GitHub Actions, Docker/K8s. **Core Java and TensorFlow/PyTorch/LangChain are ramps.** Healthcare domain is preferred, not required.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Optum.pdf`
+
+## 24. GE Vernova — Software Engineer (apply this week)
+
+- **Job ID:** R5052607 · posted 11 Sep 2026 · **ends 18 Sep 2026**  
+- **Posted YOE:** **Minimum of 1+ years of hands-on experience in software development**  
+- **JD:** Proficiency in Python and core Java; OOP; PostgreSQL/Timeseries/MongoDB; Agile/Jira. IEC-61850 and HVDC are advantageous. Hyderabad.  
+- **Official JD:** https://careers.gevernova.com/software-engineer/job/R5052607  
+- **Your match:** 2y2m Python FastAPI + PostgreSQL. **Core Java, IEC-61850, HVDC, and embedded hardware are ramps.** Hyderabad is OK because Python is a real match.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_GE_Vernova.pdf`
+
+## 25. HP — Cloud Automation & Platform Engineer
+
+- **Job:** 3167675 · posted 07 Sep 2026 · Workday `canApply=true`  
+- **Posted YOE:** **Typically has 2–4 years** of work experience in distributed & cloud computing, software & cloud design, programming languages, or related **or an advanced degree with little or no work experience**.  
+- **JD:** Cloud-native apps, containers, CI/CD; skills list Python, JavaScript, React.js, SQL, APIs, Docker, Kubernetes, AWS, fullstack, microservices. Java/Angular/Azure also listed. Relocation assistance: No.  
+- **Official JD:** https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1  
+- **Your match:** 2y2m sits inside 2–4. Python/JS/React/SQL/Docker/K8s/AWS/CI/CD are real. **Java, Angular, and Azure are ramps.** Relocate to Bengaluru on your own.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_HP.pdf`
+
+## 26. LSEG — Engineer, Site Reliability Engineering
+
+- **Req:** R0119021 · Career Stage **Associate** · Bengaluru Divyasree Technopolis · Workday `canApply=true`  
+- **Posted YOE:** No numeric 3+ floor. Required skills are tooling, not a year bar.  
+- **JD:** Kubernetes, Docker, GitHub Actions, AWS, Snowflake, Python, Bash. Also Terraform, Jenkins, Datadog, Kong, Azure, ServiceNow/ITIL. Risk Intelligence product suite.  
+- **Official JD:** https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer--Site-Reliability-Engineering_R0119021-1  
+- **Your match:** Docker/K8s/GitHub Actions/AWS/Python/Snowflake are real from Skyach. **Terraform, Datadog, ServiceNow, Azure, Kong are ramps.** This is SRE/platform, not a feature-SE seat.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_LSEG.pdf`
+
+---
+
+# Already given — batch 4 (#19–22)
 
 Source of truth is the **union of your three CVs** (`SOURCE.md`). Resumes keep Skyach products. Hybrid/office = Bengaluru (Cognizant also lists Chennai). Remote worldwide at this YOE that still hire India is thin — GitLab Intermediate seats were already given in batch 1.
 

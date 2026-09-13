@@ -1,6 +1,6 @@
 # Career kit for Atul Banyal
 
-**Next job search:** use [`SOURCE.md`](SOURCE.md) — union of `Atul_Banyal_CV_Latest.pdf` + `Atul_Banyal_CV.pdf` + `Atul_Banyal.pdf`, then the JD for ATS. Vue/React/Next are on his CVs. Do not invent Node/ticketing/Angular. Do not rewrite the current #1–18 PDFs unless asked.
+**Next job search:** use [`SOURCE.md`](SOURCE.md) — union of `Atul_Banyal_CV_Latest.pdf` + `Atul_Banyal_CV.pdf` + `Atul_Banyal.pdf`, then the JD for ATS. Vue/React/Next are on his CVs. Do not invent Node/ticketing/Angular. Do not rewrite the current #1–22 PDFs unless asked.
 
 You have **2 years 2 months** (Jun 2024 – Aug 2026). **JPMorgan dropped.** Apply only jobs whose posted floor is **2 years or less** (or Intermediate / SDE I with no 3+ minimum). Links re-checked **open on 13 Sep 2026**.
 
@@ -10,7 +10,18 @@ Phone **+91 63518 06327** is on his actual CVs. No GitHub URL.
 
 **Click PDFs here (do not search the repo):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/PDF_LINKS.md)
 
-## Apply these 4 first (batch 4 — not #1–18)
+## Apply these 4 first (batch 5 — product firms, not #1–22)
+
+| # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
+|---|---------|------|------------|------------|-----------|-------|
+| 23 | Optum / UHG | Software Engineer (Java, Python, SQL, AI, ML) | **1+ years** | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Optum.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Optum.pdf) | [2377743](https://uhg.taleo.net/careersection/10020/jobapply.ftl?job=2377743) |
+| 24 | GE Vernova | Software Engineer | **1+ years** · **closes 18 Sep 2026** | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GE_Vernova.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GE_Vernova.pdf) | [R5052607](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineer_R5052607-2/apply) |
+| 25 | HP | Cloud Automation & Platform Engineer | **Typically 2–4 years** | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_HP.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_HP.pdf) | [3167675](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1/apply) |
+| 26 | LSEG | Engineer, Site Reliability Engineering | Associate (no 3+ floor) | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_LSEG.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_LSEG.pdf) | [R0119021](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer--Site-Reliability-Engineering_R0119021-1/apply) |
+
+Prefer **#24 first** (closes 18 Sep), then **#23**, then **#25**. #26 is SRE/platform — Docker/K8s/Python/Snowflake match; Terraform/Datadog are ramps. GE Vernova is **Hyderabad**. Java is a ramp on #23 and #24.
+
+## Already given (batch 4 — not #1–18)
 
 | # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
 |---|---------|------|------------|------------|-----------|-------|
@@ -71,3 +82,4 @@ Upload the **PDFs**, not markdown and not a screenshot.
 - Deloitte Node/Angular: **Angular is a ramp**. Deloitte Python SWE I: **FastAPI/Django is a ramp**. IBM Confluent: **Java/Go/Kafka are ramps**. Cisco wireless: **C/C++ and 802.11 are ramps**.
 - Accenture React #14: **Oracle/SQL is a ramp**. Honeywell DevOps #15: **Terraform/Ansible/Grafana are ramps**. Honeywell full stack #16: **AngularJS/GraphQL are ramps**. Airbus #17: **Palantir Foundry / PySpark are ramps**.
 - Batch 4 PDFs use the **union CVs** (Rails, FastAPI, Vue/React/Next, Snowflake/dbt). Accenture Python #19 is a real FastAPI match. Cognizant #20: **RAG/LangChain/agent tools are ramps**. Capgemini GenAI #21: **TensorFlow/PyTorch/model fine-tune are ramps**. Capgemini Connectivity #22 is a generic backend grade.
+- Batch 5 is product/Fortune firms, not consulting mills. Optum #23: **Java and TensorFlow/PyTorch/LangChain are ramps**. GE Vernova #24: **core Java, IEC-61850, HVDC, embedded are ramps**. HP #25: **Java/Angular/Azure are ramps**. LSEG #26: **Terraform/Datadog/ServiceNow/Azure/Kong are ramps** (SRE seat).

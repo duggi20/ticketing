@@ -4,13 +4,51 @@ Fill your **phone number** on every PDF. LinkedIn showed Skyach as **Jun 2024 �
 
 Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** you apply. Recruiters open the profile the same hour they open the PDF.
 
-You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #19–22 first** (new MNCs from your real CVs). Batches 1–3 (#1–18) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #23–26 first** (product / Fortune-style firms, not Accenture/Capgemini). Batches 1–4 (#1–22) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. Do not upload the `.md` files.
 
 **Open PDFs by click (no repo search):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/PDF_LINKS.md) · [all resumes](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf)
 
-## New this round (batch 4 — not #1–18)
+## New this round (batch 5 — not #1–22)
+
+Prefer **#24 first** (GE Vernova closes **18 Sep 2026**), then **#23 Optum**, then **#25 HP**. #26 LSEG is Associate SRE.
+
+### 23. Optum / UHG — Software Engineer (Bengaluru)
+
+[Apply 2377743](https://uhg.taleo.net/careersection/10020/jobapply.ftl?job=2377743) · [JD](https://careers.unitedhealthgroup.com/job/bengaluru/software-engineer-java-python-sql-ai-ml/34088/100415592240)
+
+- Resume: [Atul_Banyal_Resume_Optum.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Optum.pdf)
+- Cover: [Atul_Banyal_Cover_Optum.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Optum.pdf)
+- Posted **1+ years**. Python/REST/SQL/GitHub Actions match. **Java and GenAI frameworks are ramps.**
+
+### 24. GE Vernova — Software Engineer (Hyderabad) — closes 18 Sep
+
+[Apply R5052607](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Software-Engineer_R5052607-2/apply) · [JD](https://careers.gevernova.com/software-engineer/job/R5052607)
+
+- Resume: [Atul_Banyal_Resume_GE_Vernova.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GE_Vernova.pdf)
+- Cover: [Atul_Banyal_Cover_GE_Vernova.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GE_Vernova.pdf)
+- Posted **1+ years**. Python + PostgreSQL match. **Core Java, IEC-61850, HVDC, embedded are ramps.**
+
+### 25. HP — Cloud Automation & Platform Engineer (Bengaluru)
+
+[Apply 3167675](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1/apply) · [JD](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1)
+
+- Resume: [Atul_Banyal_Resume_HP.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_HP.pdf)
+- Cover: [Atul_Banyal_Cover_HP.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_HP.pdf)
+- Posted **typically 2–4 years**. Python/JS/React/Docker/K8s/AWS match. **Java/Angular/Azure are ramps.** Relocate on your own (HP lists relocation: No).
+
+### 26. LSEG — Engineer, Site Reliability Engineering (Bengaluru)
+
+[Apply R0119021](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer--Site-Reliability-Engineering_R0119021-1/apply) · [JD](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer--Site-Reliability-Engineering_R0119021-1)
+
+- Resume: [Atul_Banyal_Resume_LSEG.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_LSEG.pdf)
+- Cover: [Atul_Banyal_Cover_LSEG.pdf](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_LSEG.pdf)
+- Associate grade, no 3+ floor. Docker/K8s/GitHub Actions/AWS/Python/Snowflake match. **Terraform/Datadog/ServiceNow are ramps.**
+
+---
+
+## Already given (batch 4 — not #1–18)
 
 Prefer **#19 then #20**. #21 is Python with a GenAI ramp. #22 is another Capgemini Bangalore backend seat.
 
