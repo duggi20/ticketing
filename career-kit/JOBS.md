@@ -1,12 +1,57 @@
 # Jobs — apply only where the posted floor is 2 years or less
 
-You have **2 years 2 months** (SkyAch **Jun 2024 – Aug 2026**). Re-read every JD on **12 Sep 2026**. **Do not apply** where the posting says **3+ / 3–5 / minimum 3 years**. Intermediate / SDE I with no numeric 3+ floor is in.
+You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every JD on **13 Sep 2026**. **Do not apply** where the posting says **3+ / 3–5 / minimum 3 years**. Intermediate / SDE I with no numeric 3+ floor is in.
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-**Already given:** batch 1 (#1–8) and batch 2 (#9–13). Do not re-send those as “new.”
+**Already given:** batches 1–3 (#1–18). Do not re-send those as “new.”
 
-# New this round — batch 3 (#14–18)
+# New this round — batch 4 (#19–22)
+
+Source of truth is the **union of your three CVs** (`SOURCE.md`). Resumes keep Skyach products. Hybrid/office = Bengaluru (Cognizant also lists Chennai). Remote worldwide at this YOE that still hire India is thin — GitLab Intermediate seats were already given in batch 1.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 19 | **Accenture — Web Developer (Python)** | Header **2–5 years**. Body **Minimum 2 year(s)** and **minimum 2 years of experience in Python** | Bengaluru office | [ATCI-5236192-S1918653](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5236192-S1918653_en) | `Atul_Banyal_Resume_Accenture_Python.pdf` | `Atul_Banyal_Cover_Accenture_Python.pdf` |
+| 20 | **Cognizant — AI Customer Engineer** | No numeric 3+ floor. JD says apply if you meet minimums listed (FastAPI/Python/Docker/Git) | Bangalore / Chennai, **5 days onsite** | [00067697574](https://careers.cognizant.com/india-en/jobs/00067697574/ai-engineer-forward-deployed-engineer/) | `Atul_Banyal_Resume_Cognizant_AI.pdf` | `Atul_Banyal_Cover_Cognizant_AI.pdf` |
+| 21 | **Capgemini Invent — Python With Gen AI Developer** | Experienced Professionals; JD has **no 3+ floor**. TensorFlow/PyTorch/model fine-tune are ramps | Bangalore (also HYD/Pune) | [1413584933](https://careers.capgemini.com/job/Bangalore-Python-With-Gen-AI-Developer/1413584933/) | `Atul_Banyal_Resume_Capgemini_Python_GenAI.pdf` | `Atul_Banyal_Cover_Capgemini_Python_GenAI.pdf` |
+| 22 | **Capgemini Engineering — Connectivity Backend Developer** | Grade: **more than a year** of relevant work | Bangalore | [1428168533](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1428168533/) | `Atul_Banyal_Resume_Capgemini_Connectivity.pdf` | `Atul_Banyal_Cover_Capgemini_Connectivity.pdf` |
+
+## 19. Accenture — Web Developer (Python)
+
+- **Job No:** ATCI-5236192-S1918653  
+- **Posted YOE:** Header **Experience: 2–5 years**. Body: **Minimum 2 year(s) of experience is required** and **minimum 2 years of experience in Python (Programming Language)**.  
+- **JD:** Python web frameworks, HTML/CSS/JavaScript, databases, version control, document designs, Bengaluru office, 15 years full-time education.  
+- **Your match:** 2y2m production **Python FastAPI** + Vue.js UI + SQL + Git. Strongest new stack fit. Different req from #5 (Node) and #14 (React min 2).  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Accenture_Python.pdf`
+
+## 20. Cognizant — AI Customer Engineer, Bangalore / Chennai
+
+- **Job:** 00067697574 · published 3 Jun 2026  
+- **Posted YOE:** No “minimum 3 years.” Title is customer/AI engineer; they ask you to apply if you meet the listed skills.  
+- **JD:** Python FastAPI REST APIs, Docker, GitHub version control, microservices/cloud basics, UI/API integration. Also RAG, LangChain, Hugging Face, OpenAI, agent tools (CrewAI, AutoGen, Google ADK, Copilot Studio). **5 days onsite** Bangalore or Chennai.  
+- **Your match:** FastAPI + Docker + Git + REST + Vue/React UI integration are real. **RAG / LangChain / agent frameworks are ramps.** Cursor + AI degree are the honest AI line.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Cognizant_AI.pdf`
+
+## 21. Capgemini Invent — Python With Gen AI Developer
+
+- **Posting:** 1413584933 · posted 6 Sep 2026  
+- **Posted YOE:** Experienced Professionals; JD does **not** say 3+ years.  
+- **JD:** Develop/maintain Python applications; Gen AI solutions; TensorFlow/PyTorch; model fine-tune. Bangalore / Hyderabad / Pune.  
+- **Your match:** Production Python FastAPI. **TensorFlow, PyTorch, and generative-model training are ramps** — the PDF says so. Prefer Bengaluru.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Capgemini_Python_GenAI.pdf`
+
+## 22. Capgemini Engineering — Connectivity Backend Developer (ref 538768)
+
+- **Ref:** 538768 · posting 1428168533 · posted 20 Aug 2026  
+- **Posted YOE:** **more than a year** of relevant work. Different req from #13 (515534) and #18 (536176).  
+- **JD:** Backend software engineering grade; develop/maintain/optimize software; work to direction. Bangalore.  
+- **Your match:** 2y2m Rails + FastAPI backends, Docker/K8s/CI/CD. Generic Engineering backend seat.  
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Capgemini_Connectivity.pdf`
+
+---
+
+# Already given — batch 3 (#14–18)
 
 Web-stack overlap first. Honeywell Hyderabad is the only non-Bengaluru seat (same as Amazon Payments #7). Capgemini 536176 is a **different req** from #13.
 

@@ -1,14 +1,52 @@
 # How to apply
 
-Fill your **phone number** on every PDF. LinkedIn showed SkyAch as **Jun 2024 – Aug 2026**. If you are still employed there, change the end date to **Present** before you apply — on **both** the PDF and LinkedIn.
+Fill your **phone number** on every PDF. LinkedIn showed Skyach as **Jun 2024 – Aug 2026**. If you are still employed there, change the end date to **Present** before you apply — on **both** the PDF and LinkedIn.
 
 Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** you apply. Recruiters open the profile the same hour they open the PDF.
 
-You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #14–18 first** (new big MNCs). Batches 1–2 (#1–13) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #19–22 first** (new MNCs from your real CVs). Batches 1–3 (#1–18) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. Do not upload the `.md` files.
 
-## New this round (batch 3 — not #1–13)
+## New this round (batch 4 — not #1–18)
+
+Prefer **#19 then #20**. #21 is Python with a GenAI ramp. #22 is another Capgemini Bangalore backend seat.
+
+### 19. Accenture — Web Developer, Python (do this first)
+
+[ATCI-5236192-S1918653](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5236192-S1918653_en) · Bengaluru
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Accenture_Python.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Accenture_Python.pdf`
+- Posted **min 2 years Python**. FastAPI + JS/SQL/Git match. Different req from #5 and #14.
+
+### 20. Cognizant — AI Customer Engineer
+
+[00067697574](https://careers.cognizant.com/india-en/jobs/00067697574/ai-engineer-forward-deployed-engineer/) · Bangalore / Chennai, 5 days onsite
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Cognizant_AI.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Cognizant_AI.pdf`
+- FastAPI/Docker/Git are real. **RAG/LangChain/agent tools are ramps.**
+
+### 21. Capgemini Invent — Python With Gen AI Developer
+
+[1413584933](https://careers.capgemini.com/job/Bangalore-Python-With-Gen-AI-Developer/1413584933/) · Bangalore (also HYD/Pune)
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Capgemini_Python_GenAI.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Capgemini_Python_GenAI.pdf`
+- Python apps match. **TensorFlow/PyTorch/model fine-tune are ramps.**
+
+### 22. Capgemini Engineering — Connectivity Backend Developer (ref 538768)
+
+[1428168533](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1428168533/) · Bangalore · ref 538768
+
+- Resume: `resumes/pdf/Atul_Banyal_Resume_Capgemini_Connectivity.pdf`
+- Cover: `cover-letters/pdf/Atul_Banyal_Cover_Capgemini_Connectivity.pdf`
+- Grade: **more than a year**. Different posting from #13 and #18.
+
+---
+
+## Batch 3 (already given — not #1–13)
 
 ### 14. Accenture — Application Developer, React.js (do this first)
 

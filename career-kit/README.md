@@ -2,13 +2,24 @@
 
 **Next job search:** use [`SOURCE.md`](SOURCE.md) — union of `Atul_Banyal_CV_Latest.pdf` + `Atul_Banyal_CV.pdf` + `Atul_Banyal.pdf`, then the JD for ATS. Vue/React/Next are on his CVs. Do not invent Node/ticketing/Angular. Do not rewrite the current #1–18 PDFs unless asked.
 
-You have **2 years 2 months** (Jun 2024 – Aug 2026). **JPMorgan dropped.** Apply only jobs whose posted floor is **2 years or less** (or Intermediate / SDE I with no 3+ minimum). Links re-checked **open on 12 Sep 2026**.
+You have **2 years 2 months** (Jun 2024 – Aug 2026). **JPMorgan dropped.** Apply only jobs whose posted floor is **2 years or less** (or Intermediate / SDE I with no 3+ minimum). Links re-checked **open on 13 Sep 2026**.
 
 Phone **+91 63518 06327** is on his actual CVs. No GitHub URL.
 
-**Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, SkyAch bullets). Do not add a GitHub link. Recruiters will open that profile the same day they open your PDF.
+**Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, Skyach bullets). Do not add a GitHub link. Recruiters will open that profile the same day they open your PDF.
 
-## Apply these 5 first (batch 3 — not #1–13)
+## Apply these 4 first (batch 4 — not #1–18)
+
+| # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
+|---|---------|------|------------|------------|-----------|-------|
+| 19 | Accenture | Web Developer, Python | **Min 2 years Python** | `Atul_Banyal_Resume_Accenture_Python.pdf` | `Atul_Banyal_Cover_Accenture_Python.pdf` | [Job](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5236192-S1918653_en) |
+| 20 | Cognizant | AI Customer Engineer | No 3+ floor; FastAPI/Docker/Git | `Atul_Banyal_Resume_Cognizant_AI.pdf` | `Atul_Banyal_Cover_Cognizant_AI.pdf` | [Job](https://careers.cognizant.com/india-en/jobs/00067697574/ai-engineer-forward-deployed-engineer/) |
+| 21 | Capgemini Invent | Python With Gen AI Developer | No 3+ floor; TF/PyTorch ramp | `Atul_Banyal_Resume_Capgemini_Python_GenAI.pdf` | `Atul_Banyal_Cover_Capgemini_Python_GenAI.pdf` | [Job](https://careers.capgemini.com/job/Bangalore-Python-With-Gen-AI-Developer/1413584933/) |
+| 22 | Capgemini Engineering | Connectivity Backend Developer | **> 1 year** relevant | `Atul_Banyal_Resume_Capgemini_Connectivity.pdf` | `Atul_Banyal_Cover_Capgemini_Connectivity.pdf` | [Job](https://careers.capgemini.com/job/Bangalore-Software-Engineer/1428168533/) |
+
+Prefer **#19 then #20**. #21 GenAI model training is a ramp. #22 is another Capgemini Bangalore backend seat (not #13/#18). All four are Bengaluru office (Cognizant also Chennai; Capgemini Invent also HYD/Pune).
+
+## Already given (batch 3 — not #1–13)
 
 | # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
 |---|---------|------|------------|------------|-----------|-------|
@@ -57,3 +68,4 @@ Upload the **PDFs**, not markdown and not a screenshot.
 - JumpCloud Full Stack: **Vue 3 is a ramp**, not production.
 - Deloitte Node/Angular: **Angular is a ramp**. Deloitte Python SWE I: **FastAPI/Django is a ramp**. IBM Confluent: **Java/Go/Kafka are ramps**. Cisco wireless: **C/C++ and 802.11 are ramps**.
 - Accenture React #14: **Oracle/SQL is a ramp**. Honeywell DevOps #15: **Terraform/Ansible/Grafana are ramps**. Honeywell full stack #16: **AngularJS/GraphQL are ramps**. Airbus #17: **Palantir Foundry / PySpark are ramps**.
+- Batch 4 PDFs use the **union CVs** (Rails, FastAPI, Vue/React/Next, Snowflake/dbt). Accenture Python #19 is a real FastAPI match. Cognizant #20: **RAG/LangChain/agent tools are ramps**. Capgemini GenAI #21: **TensorFlow/PyTorch/model fine-tune are ramps**. Capgemini Connectivity #22 is a generic backend grade.
