@@ -1,0 +1,56 @@
+Atul Banyal
+Software Engineer
+Mohali, Punjab, India  |  +91 63518 06327  |  atulbanyalreal@gmail.com
+PROFESSIONAL SUMMARY
+Backend-focused Software Engineer with 2+ years of experience and a B.Tech specialization in Artificial Intelligence, building
+production REST APIs with Python (FastAPI) and Ruby on Rails for fintech/cryptocurrency and tree care products. Designs OLTP/OLAP
+data architectures that keep heavy reporting queries off the production path, using MySQL for transactional workloads and replicating it
+into Snowflake through log-based CDC (Airbyte) for analytics and BI dashboards. Ships with Docker, Kubernetes, CI/CD, and AWS
+supporting 1,000+ daily active users, using Cursor and AI-assisted development to move faster.
+TECHNICAL SKILLS
+Languages: Ruby, Python, JavaScript, Shell Script
+Backend: Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq
+AI & Development: Cursor, AI-assisted coding workflows, Artificial Intelligence (academic specialization)
+Blockchain & APIs: Ethereum, Bitcoin, Solana, TRON, Web3 APIs; Binance, Kraken, CoinMarketCap
+Data & Analytics: Snowflake (OLAP), Airbyte (log-based CDC), dbt, ETL/ELT pipelines, OLTP/OLAP architecture
+DevOps & Databases: Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; MySQL, PostgreSQL, Redis, Snowflake
+Tools: Openware Stack (Peatio, Barong, Finex), Postman, Apidog
+PROFESSIONAL EXPERIENCE
+Software Developer
+June 2024 – August 2026
+Skyach Software Solutions Pvt. Ltd. | Mohali, India
+Developed and maintained production Ruby on Rails applications serving 1,000+ daily active users on a live cryptocurrency
+exchange.
+Built Rails REST APIs and wallet/trading modules with PostgreSQL; integrated Ethereum and Bitcoin for deposits, withdrawals, and
+on-chain processing.
+Connected Binance and Kraken APIs for market data and liquidity; shipped GitHub Actions CI/CD with Docker images to Kubernetes.
+Designed and built Python FastAPI backend services for a tree care platform used by companies that buy, sell, and cut trees,
+covering listings, orders, and service operations.
+Implemented FastAPI REST endpoints with MySQL models and request/response validation for multi-company product and service
+workflows.
+Built ETL/CDC pipelines replicating operational MySQL data into Snowflake, moving reporting and BI workloads off the production
+transaction path.
+Modeled Snowflake analytics tables and dbt marts powering company dashboards and multi-year revenue aggregates for internal
+stakeholders.
+Defined API contracts and backend business logic exposing FastAPI services to client applications for end-to-end tree care
+operations.
+KEY PROJECTS
+Crypto Exchange Platform
+Ruby on Rails, Openware Stack, Docker, Kubernetes
+Built a multi-blockchain cryptocurrency exchange on Openware Stack supporting 1,000+ daily active users with secure onboarding
+and accounts.
+Engineered real-time order matching and trading flows, and integrated 2+ external exchange APIs for liquidity across trading pairs.
+Implemented wallet and settlement modules on PostgreSQL with Ethereum and Bitcoin integrations for deposits, withdrawals, and
+on-chain processing.
+Tree Care Platform & Analytics Pipeline
+Python, FastAPI, MySQL, Airbyte CDC, Snowflake, dbt, Docker
+Architected FastAPI backend services for multi-company tree buy/sell/cut workflows, modeling MySQL schemas for listings, orders,
+service appointments, and invoices with typed request/response validation.
+Separated transactional and analytical workloads across two stores: MySQL (OLTP) serving FastAPI writes in milliseconds,
+replicated into Snowflake (OLAP) by Airbyte log-based CDC (ROW binlog, GTIDs) without adding query load to the operational
+database.
+Modeled staging and mart layers in dbt, serving pre-aggregated results to API endpoints instead of scanning five years of orders per
+request; kept warehouse reads off the hot path with caching and a thread-pooled connector.
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering, Specialization in Artificial Intelligence
+ITM SLS Baroda University | Vadodara, Gujarat | CGPA: 7.7 | 2020 – 2024

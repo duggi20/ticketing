@@ -1,0 +1,70 @@
+Atul Banyal
+Software Engineer
+Mohali, Punjab, India  |  +91 63518 06327  |  atulbanyalreal@gmail.com
+PROFESSIONAL SUMMARY
+Software Engineer with 2+ years of experience and a B.Tech specialization in Artificial Intelligence, building fullstack
+platforms with Ruby on Rails and Python (FastAPI), alongside Vue.js, React.js, and Next.js. Delivers production APIs and UI
+workflows for fintech/cryptocurrency and tree care products. Uses Cursor and AI-assisted development to ship faster, with
+Docker, Kubernetes, CI/CD, and AWS supporting 1,000+ daily active users.
+TECHNICAL SKILLS
+Languages: Ruby, Python, JavaScript, Shell Script
+Backend: Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq
+Frontend: Vue.js, React.js, Next.js
+AI & Development: Cursor, AI-assisted coding workflows, Artificial Intelligence (academic specialization)
+Blockchain & APIs: Ethereum, Bitcoin, Solana, TRON, Web3 APIs; Binance, Kraken, CoinMarketCap
+DevOps & Databases: Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; MySQL, PostgreSQL, Redis
+Tools: Openware Stack (Peatio, Barong, Finex), Postman, Apidog
+PROFESSIONAL EXPERIENCE
+Software Developer
+June 2024 – August 2026
+Skyach Software Solutions Pvt. Ltd. | Mohali, India
+•
+Developed and maintained production Ruby on Rails applications serving 1,000+ daily active users on a live
+cryptocurrency exchange.
+•
+Built Rails REST APIs and wallet/trading modules with PostgreSQL; integrated Ethereum and Bitcoin for deposits,
+withdrawals, and on-chain processing.
+•
+Connected Binance and Kraken APIs for market data and liquidity; shipped GitHub Actions CI/CD with Docker images to
+Kubernetes.
+•
+Delivered a construction management platform in Ruby on Rails with modules for projects, contracts, payments,
+workforce, and vendors.
+•
+Designed and built Python FastAPI backend services for a tree care platform used by companies that buy, sell, and cut
+trees—covering listings, orders, and service operations.
+•
+Implemented FastAPI REST endpoints with MySQL models and request/response validation for multi-company product
+and service workflows.
+•
+Developed Vue.js frontend features integrated with FastAPI APIs for company dashboards, order flows, and tree service
+management.
+•
+Defined API contracts and backend business logic connecting Vue.js clients to FastAPI services for end-to-end tree care
+operations.
+KEY PROJECTS
+Crypto Exchange Platform
+Technologies: Ruby on Rails, Openware Stack, Docker, Kubernetes
+•
+Built a multi-blockchain cryptocurrency exchange on Openware Stack supporting 1,000+ daily active users with secure
+onboarding and accounts.
+•
+Engineered real-time order matching/trading flows and integrated 2+ external exchange APIs for liquidity across trading
+pairs.
+Construction Management Platform
+Technologies: Ruby on Rails, PostgreSQL
+•
+Shipped Rails workflows for builders and service providers—contracts, payments, workforce scheduling, and vendor
+coordination.
+Tree Care Platform
+Technologies: Python, FastAPI, Vue.js, MySQL
+•
+Architected FastAPI backend services for multi-company tree buy/sell/cut workflows, including listings, orders, and service
+operations.
+•
+Modeled MySQL schemas and FastAPI endpoints with typed request/response handling for reliable REST APIs.
+•
+Built Vue.js interfaces for company users and wired them to FastAPI for end-to-end tree product and service management.
+EDUCATION
+Bachelor of Technology in Computer Science and Engineering with Specialization in Artificial Intelligence
+ITM SLS Baroda University | Vadodara, Gujarat | CGPA: 7.7 | 2020 – 2024

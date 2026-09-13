@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Atul Banyal — JumpCloud LDAP Software Engineer</title>
+  <link rel="stylesheet" href="../css/resume.css" />
+</head>
+<body>
+  <div class="page">
+    <h1>Atul Banyal</h1>
+    <p class="headline">Backend Engineer &nbsp;|&nbsp; Node.js · REST APIs · Auth systems · Docker · Kubernetes · AWS</p>
+    <p class="contact">
+      Vadodara, Gujarat · Authorized to work in India · Remote-first OK<br />
+      <a href="mailto:atulbanyalreal@gmail.com">atulbanyalreal@gmail.com</a> ·
+      <a href="https://www.linkedin.com/in/atul-banyal-6629a2185">linkedin.com/in/atul-banyal-6629a2185</a>
+    </p>
+
+    <h2>Summary</h2>
+    <p class="summary">
+      Backend-leaning software engineer with 2+ years shipping production APIs and auth/session paths
+      in Ruby on Rails and Node.js/Express. Operates services on Docker, Kubernetes, and AWS; writes
+      tests before deploy; uses Cursor then reviews output. Not an LDAP specialist — production work is
+      bind-style auth, search/filter of user records, TLS-backed APIs, and keeping identity data consistent
+      across services. Ready to go deep on Cloud LDAP with mentorship on protocol details.
+    </p>
+
+    <h2>Skills matched to this role</h2>
+    <p class="skills"><b>Backend:</b> Node.js/Express, Python, Ruby on Rails, REST APIs, JWT/session auth, background jobs</p>
+    <p class="skills"><b>Data / consistency:</b> MongoDB, relational modeling, event-driven updates so user/order state does not diverge</p>
+    <p class="skills"><b>Cloud:</b> AWS, Docker, Kubernetes, CI/CD, Linux, Git, production debugging</p>
+    <p class="skills"><b>Practices:</b> Automated tests (Jest), code review, AI coding assistants with human validation, on-call style follow-up</p>
+
+    <h2>Experience</h2>
+    <h3>Software Engineer — SkyAch Software Solutions Pvt. Ltd.</h3>
+    <div class="meta">
+      <span>Backend / identity-adjacent fintech APIs</span>
+      <span>Jun 2024 – Aug 2026</span>
+    </div>
+    <ul>
+      <li>Designed REST APIs and auth for trading/user data used by 1,000+ daily users — bind, look up, and authorize rather than “just CRUD.”</li>
+      <li>Reasoned about consistency: older clients and in-flight sessions still had to work after an API or data-model change.</li>
+      <li>Operated services on AWS with Docker/Kubernetes/CI/CD; followed failures from test to runtime.</li>
+      <li>Used Cursor to draft implementations, then hardened auth and error paths before merge.</li>
+    </ul>
+
+    <h2>Selected work (personal)</h2>
+    <h3>Auth + directory-of-users services — Node.js, JWT, events, Kubernetes</h3>
+    <ul>
+      <li>Split auth from other services so identity had its own store; other services consumed users via APIs/events, not shared writes.</li>
+      <li>Covered login and order-state paths with Jest; deployed with Docker/Kubernetes.</li>
+    </ul>
+
+    <h2>Education</h2>
+    <h3>B.Tech, Computer Science and Engineering (AI specialization)</h3>
+    <div class="meta">
+      <span>ITM SLS Baroda University, Vadodara</span>
+      <span>2020 – 2024</span>
+    </div>
+  </div>
+</body>
+</html>

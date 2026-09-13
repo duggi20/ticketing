@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Atul Banyal — GitLab Database Change Management</title>
+  <link rel="stylesheet" href="../css/resume.css" />
+</head>
+<body>
+  <div class="page">
+    <h1>Atul Banyal</h1>
+    <p class="headline">Backend Engineer &nbsp;|&nbsp; Ruby on Rails · Schema and migration safety · Backward-compatible APIs</p>
+    <p class="contact">
+      Vadodara, Gujarat · Relocating to Bengaluru · Remote / async OK<br />
+      <a href="mailto:atulbanyalreal@gmail.com">atulbanyalreal@gmail.com</a> ·
+      <a href="https://www.linkedin.com/in/atul-banyal-6629a2185">linkedin.com/in/atul-banyal-6629a2185</a>
+    </p>
+
+    <h2>Summary</h2>
+    <p class="summary">
+      Rails backend engineer who treats data changes as production-risk work: schema design,
+      backward-compatible service contracts, and tests that catch problems before users feel them.
+      2+ years shipping Ruby on Rails APIs on fintech data, plus a personal multi-service platform
+      where tickets, orders, and payments each own their store and must stay consistent through
+      create / cancel / expire. Comfortable in a remote, async, write-it-down team and ready to
+      deepen PostgreSQL migration and upgrade-safety work.
+    </p>
+
+    <h2>Skills matched to this role</h2>
+    <p class="skills"><b>Must-align:</b> Ruby on Rails, backend feature design/review, schema/data modeling, migration-safety mindset, automated tests, written/async communication</p>
+    <p class="skills"><b>Data:</b> Document and relational modeling, indexes, query behavior, backward-compatible API contracts; growing PostgreSQL migration depth</p>
+    <p class="skills"><b>Also:</b> Docker, Kubernetes, CI/CD, Git, production debugging, AI coding tools with review, docs for other engineers</p>
+
+    <h2>Experience</h2>
+    <h3>Software Engineer — SkyAch Software Solutions Pvt. Ltd.</h3>
+    <div class="meta">
+      <span>Rails backends for exchange / fintech products</span>
+      <span>Jun 2024 – Aug 2026</span>
+    </div>
+    <ul>
+      <li>Designed and shipped Rails backend features that touched persistent trading/user data — APIs, validations, and data model changes reviewed before they hit 1,000+ daily users.</li>
+      <li>Reasoned about compatibility: older clients and in-flight orders still had to work after an API or schema change.</li>
+      <li>Partnered with teammates on reviews so risky data paths (funds, orders, wallets) were checked for safety, not only happy-path behavior.</li>
+      <li>Documented API behavior and rollout notes so others could operate the same systems.</li>
+    </ul>
+
+    <h2>Selected work (personal)</h2>
+    <h3>Multi-service marketplace data layer — MongoDB, events, payments</h3>
+    <ul>
+      <li>Gave each service its own store (users, tickets, orders, payments) and used events instead of shared writes — a practical stand-in for “don’t couple upgrades to a messy monolith dump.”</li>
+      <li>Modeled order lifecycle so expiration and cancellation could not double-charge or leave inventory stuck; covered the critical paths with Jest before deploy.</li>
+      <li>Ran the stack on Kubernetes so schema/code deploys were repeatable, not one-off laptop state.</li>
+    </ul>
+
+    <h2>Education</h2>
+    <h3>B.Tech, Computer Science and Engineering (AI specialization)</h3>
+    <div class="meta">
+      <span>ITM SLS Baroda University, Vadodara</span>
+      <span>2020 – 2024</span>
+    </div>
+  </div>
+</body>
+</html>
