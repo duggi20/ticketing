@@ -4,13 +4,59 @@ Fill your **phone number** on every PDF. LinkedIn showed Skyach as **Jun 2024 �
 
 Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** you apply. Recruiters open the profile the same hour they open the PDF.
 
-You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #23–26 first** (product / Fortune-style firms, not Accenture/Capgemini). Batches 1–4 (#1–22) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #29–31 first** (two Canonical remotes + Goldman Helios Bengaluru). Batches 1–6 (#1–28) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. Do not upload the `.md` files.
 
-**Open PDFs by click (no repo search):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/PDF_LINKS.md) · [all resumes](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf)
+**Open PDFs by click (no repo search):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/PDF_LINKS.md) · [all resumes](https://github.com/duggi20/ticketing/tree/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf)
 
-## New this round (batch 5 — not #1–22)
+## New this round (batch 7 — not #1–28)
+
+Prefer **#31** for the Bengaluru Helios campus (big buildings on Outer Ring Road). Prefer **#29 then #30** for fully remote.
+
+### 29. Canonical — Software Engineer, Python and K8s (remote worldwide)
+
+[Apply / JD 3752633](https://canonical.com/careers/3752633) · [Greenhouse](https://job-boards.greenhouse.io/canonical/jobs/3752633)
+
+- Resume: [Atul_Banyal_Resume_Canonical_K8s.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_K8s.pdf)
+- Cover: [Atul_Banyal_Cover_Canonical_K8s.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_K8s.pdf)
+- No 3+ floor. Python/Docker/K8s/AWS match. **Linux package management and alerting ownership are ramps.** Travel 1–2×/year.
+
+### 30. Canonical — Python/K8s SWE, Data, Workflows, AI/ML (remote worldwide)
+
+[Apply / JD 5703396](https://canonical.com/careers/5703396) · [Greenhouse](https://job-boards.greenhouse.io/canonical/jobs/5703396)
+
+- Resume: [Atul_Banyal_Resume_Canonical_Data.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Data.pdf)
+- Cover: [Atul_Banyal_Cover_Canonical_Data.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Data.pdf)
+- Professional or academic Python. Docker/K8s/dbt/Snowflake match. **Kubeflow, Airflow, and ML libraries are ramps.**
+
+### 31. Goldman Sachs — Core Risk Analyst, Software Engineering (Helios, Bengaluru)
+
+[Apply / JD 181261](https://higher.gs.com/roles/181261)
+
+- Resume: [Atul_Banyal_Resume_Goldman.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Goldman.pdf)
+- Cover: [Atul_Banyal_Cover_Goldman.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Goldman.pdf)
+- Posted **1–3 years**. Python/SQL/ETL match. **Tableau/Alteryx/Power BI/R/Java/C++ and market-risk domain are ramps.** Campus: Helios Business Park, 150 ORR, Kadubeesanahalli.
+
+## Already given (batch 6 — not #1–26)
+
+### 27. Condé Nast — Software Engineer 1 (Bengaluru MARKSQUARE)
+
+[Apply R-24733](https://condenast.wd115.myworkdayjobs.com/en-US/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Software-Engineer-1_R-24733/apply)
+
+- Resume: [Atul_Banyal_Resume_CondeNast.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_CondeNast.pdf)
+- Cover: [Atul_Banyal_Cover_CondeNast.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_CondeNast.pdf)
+- Posted **2+ years React and TypeScript**. TypeScript is experience. GraphQL/SSR/RSC are ramps.
+
+### 28. Anteriad — AI Engineer (Bangalore)
+
+[Apply 5386350004](https://job-boards.greenhouse.io/anteriad/jobs/5386350004)
+
+- Resume: [Atul_Banyal_Resume_Anteriad.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Anteriad.pdf)
+- Cover: [Atul_Banyal_Cover_Anteriad.pdf](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Anteriad.pdf)
+- Posted **1–2 years** Python + FastAPI/Flask. LangChain/RAG/agents are ramps.
+
+## Already given (batch 5 — not #1–22)
 
 Prefer **#24 first** (GE Vernova closes **18 Sep 2026**), then **#23 Optum**, then **#25 HP**. #26 LSEG is Associate SRE.
 

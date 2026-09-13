@@ -1,6 +1,6 @@
 # Career kit for Atul Banyal
 
-**Next job search:** use [`SOURCE.md`](SOURCE.md) — union of `Atul_Banyal_CV_Latest.pdf` + `Atul_Banyal_CV.pdf` + `Atul_Banyal.pdf`, then the JD for ATS. Vue/React/Next are on his CVs. Do not invent Node/ticketing/Angular. Do not rewrite the current #1–22 PDFs unless asked.
+**Next job search:** use [`SOURCE.md`](SOURCE.md) — union of `Atul_Banyal_CV_Latest.pdf` + `Atul_Banyal_CV.pdf` + `Atul_Banyal.pdf`, then the JD for ATS. Vue/React/Next are on his CVs. Do not invent Node/ticketing/Angular. Do not rewrite the current #1–28 PDFs unless asked.
 
 You have **2 years 2 months** (Jun 2024 – Aug 2026). **JPMorgan dropped.** Apply only jobs whose posted floor is **2 years or less** (or Intermediate / SDE I with no 3+ minimum). Links re-checked **open on 13 Sep 2026**.
 
@@ -8,9 +8,26 @@ Phone **+91 63518 06327** is on his actual CVs. No GitHub URL.
 
 **Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, Skyach bullets). Do not add a GitHub link. Recruiters will open that profile the same day they open your PDF.
 
-**Click PDFs here (do not search the repo):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/PDF_LINKS.md)
+**Click PDFs here (do not search the repo):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/PDF_LINKS.md)
 
-## Apply these 4 first (batch 5 — product firms, not #1–22)
+## Apply these 3 first (batch 7 — remote + Goldman Helios, not #1–28)
+
+| # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
+|---|---------|------|------------|------------|-----------|-------|
+| 29 | Canonical | Software Engineer, Python and K8s | No 3+ floor | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_K8s.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_K8s.pdf) | [3752633](https://canonical.com/careers/3752633) |
+| 30 | Canonical | Python/K8s SWE — Data, Workflows, AI/ML | No 3+ floor | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Data.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Data.pdf) | [5703396](https://canonical.com/careers/5703396) |
+| 31 | Goldman Sachs | Core Risk Analyst, Software Engineering | **1–3 years** | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Goldman.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Goldman.pdf) | [181261](https://higher.gs.com/roles/181261) |
+
+Prefer **#31** if you want the Bengaluru campus (Helios / 150 ORR Kadubeesanahalli). **#29 then #30** for fully remote. Linux package management is a ramp on #29. Kubeflow/Airflow/ML libraries are ramps on #30. Tableau/Alteryx/markets are ramps on #31.
+
+## Already given (batch 6 — not #1–26)
+
+| # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
+|---|---------|------|------------|------------|-----------|-------|
+| 27 | Condé Nast | Software Engineer 1 | **2+ years React and TypeScript** | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_CondeNast.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_CondeNast.pdf) | [R-24733](https://condenast.wd115.myworkdayjobs.com/en-US/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Software-Engineer-1_R-24733/apply) |
+| 28 | Anteriad | AI Engineer | **1–2 years** Python FastAPI/Flask | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Anteriad.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Anteriad.pdf) | [5386350004](https://job-boards.greenhouse.io/anteriad/jobs/5386350004) |
+
+## Already given (batch 5 — product firms, not #1–22)
 
 | # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
 |---|---------|------|------------|------------|-----------|-------|
@@ -19,7 +36,7 @@ Phone **+91 63518 06327** is on his actual CVs. No GitHub URL.
 | 25 | HP | Cloud Automation & Platform Engineer | **Typically 2–4 years** | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_HP.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_HP.pdf) | [3167675](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Bengaluru-Karnataka-India/Cloud-Automation---Platform-Engineer_3167675-1/apply) |
 | 26 | LSEG | Engineer, Site Reliability Engineering | Associate (no 3+ floor) | [resume](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_LSEG.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_LSEG.pdf) | [R0119021](https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer--Site-Reliability-Engineering_R0119021-1/apply) |
 
-Prefer **#24 first** (closes 18 Sep), then **#23**, then **#25**. #26 is SRE/platform — Docker/K8s/Python/Snowflake match; Terraform/Datadog are ramps. GE Vernova is **Hyderabad**. Java is a ramp on #23 and #24.
+Prefer **#24 first** (closes 18 Sep), then **#23**, then **#25**. #26 is SRE/platform — Docker/K8s/Python/Snowflake match; Terraform/Datadog are ramps. GE Vernova is **Hyderabad**. Java is a ramp on #23 and #24. These were already given — not this round.
 
 ## Already given (batch 4 — not #1–18)
 

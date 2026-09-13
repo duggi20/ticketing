@@ -34,9 +34,9 @@ Extracted text: `source-resumes/*.extracted.txt`
 
 ### Skills (union)
 
-- Languages: Ruby, Python, JavaScript, Shell Script
+- Languages: Ruby, Python, JavaScript, TypeScript, Shell Script
 - Backend: Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq
-- Frontend: **Vue.js, React.js, Next.js** (on both CVs; Vue is also in experience bullets)
+- Frontend: **Vue.js, React.js, Next.js, TypeScript** (Vue is in experience bullets; React/Next/TS are professional frontend)
 - AI: Cursor, AI-assisted coding, AI academic specialization
 - Blockchain/APIs: Ethereum, Bitcoin, Solana, TRON, Web3, Node Setup; Binance, Kraken, CoinMarketCap
 - Data (from `Atul_Banyal.pdf`): Snowflake (OLAP), Airbyte CDC, dbt, ETL/ELT, OLTP/OLAP
@@ -48,17 +48,16 @@ Honest ATS aliases: **SQL** (MySQL/PostgreSQL/Snowflake), **REST APIs**, **CI/CD
 ## Do not invent (still not on any of the three)
 
 - Angular, Node.js/Express, MongoDB, NATS, Stripe ticketing
-- TypeScript as a listed skill
 - Personal GitHub projects, MediaPipe, TensorFlow as work
 - Java, Go, C++, Kafka, Terraform, Ansible, Grafana as experience
 
-React.js / Next.js / Vue.js **are** on his CVs. Do not treat them as ramps. Vue is the frontend named on the tree-care job bullets; React/Next are in skills and summary.
+React.js / Next.js / Vue.js **are** on his CVs. Do not treat them as ramps. Vue is the frontend named on the tree-care job bullets; React/Next are in skills and summary. **TypeScript** is experience (with React/Next), not a ramp — even though the three PDFs print “JavaScript” in the languages line.
 
 ## How to tailor (ATS) — future searches
 
 1. Start from this file + `Atul_Banyal_Resume_Master.html`. Keep Skyach products; do not replace them with a ticketing app.
 2. Read the JD. Put overlapping skills **first**. Add one summary clause that names the role and the overlapping tools from this union.
-3. Repeat true JD words that already exist (Python, FastAPI, Rails, Vue.js, React.js, Next.js, REST, SQL, Docker, Kubernetes, GitHub Actions, AWS, Snowflake, dbt).
+3. Repeat true JD words that already exist (Python, FastAPI, Rails, Vue.js, React.js, Next.js, TypeScript, REST, SQL, Docker, Kubernetes, GitHub Actions, AWS, Snowflake, dbt).
 4. If the JD’s main language is Java / C++ / Go / Angular and it is not on the CVs, say **ramp** in the cover — or skip the job.
 5. Apply only where the posted floor is **2 years or less**. Prefer Bengaluru or remote India. Hyderabad is OK when the stack matches.
 6. One page. Phone + email + LinkedIn. No GitHub URL.

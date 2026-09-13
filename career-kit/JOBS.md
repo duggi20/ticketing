@@ -4,9 +4,60 @@ You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every 
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-**Already given:** batches 1–4 (#1–22). Do not re-send those as “new.”
+**Already given:** batches 1–6 (#1–28). Do not re-send those as “new.” GitLab’s extra India Intermediate Backend (8775507002) is **dead** (Greenhouse error redirect).
 
-# New this round — batch 5 (#23–26)
+# New this round — batch 7 (#29–31)
+
+Remote product firms that hire India, plus **Goldman Sachs Helios** (the big-campus Bengaluru seat). Official JDs re-opened **13 Sep 2026**. Not mill. Not #1–28.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 29 | **Canonical — Software Engineer, Python and K8s** | No 3+ floor (degree + Python/Docker/K8s/cloud) | **Remote worldwide** (home-based; India OK) | [3752633](https://canonical.com/careers/3752633) | `Atul_Banyal_Resume_Canonical_K8s.pdf` | `Atul_Banyal_Cover_Canonical_K8s.pdf` |
+| 30 | **Canonical — Python and Kubernetes SWE (Data, Workflows, AI/ML)** | No 3+ floor (professional or academic Python) | **Remote worldwide** (home-based; India OK) | [5703396](https://canonical.com/careers/5703396) | `Atul_Banyal_Resume_Canonical_Data.pdf` | `Atul_Banyal_Cover_Canonical_Data.pdf` |
+| 31 | **Goldman Sachs — Core Risk Analyst, Software Engineering** | **1–3 years** | **Bengaluru Helios Business Park**, 150 Outer Ring Road, Kadubeesanahalli | [181261](https://higher.gs.com/roles/181261) | `Atul_Banyal_Resume_Goldman.pdf` | `Atul_Banyal_Cover_Goldman.pdf` |
+
+## 29. Canonical — Software Engineer, Python and K8s (remote)
+
+- **Job:** 3752633 · Requisition 815 · **Home based - Worldwide** · `#LI-remote`
+- **Posted YOE:** No numeric 3+ floor. Asks for a STEM degree, Python, Docker/Kubernetes familiarity, Linux, one public cloud.
+- **JD:** Python opscode for open-source apps on Kubernetes; reliability, monitoring, testing, documentation; travel 1–2×/year up to 2 weeks.
+- **Official JD / apply:** https://canonical.com/careers/3752633 · Greenhouse: https://job-boards.greenhouse.io/canonical/jobs/3752633
+- **Your match:** 2y2m production Python, Docker, Kubernetes, GitHub Actions, AWS. **Debian/Ubuntu package administration, kernel/networking depth, and Prometheus/Grafana-style alerting ownership are ramps.**
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Canonical_K8s.pdf`
+
+## 30. Canonical — Python and Kubernetes SWE, Data / Workflows / AI/ML (remote)
+
+- **Job:** 5703396 · Requisition 594 · **Home based - Worldwide**
+- **Posted YOE:** No numeric 3+ floor. “Professional or academic software delivery using Python.”
+- **JD:** Data analytics / MLOps solutions (Kubeflow, MLFlow, dbt, Airflow, warehouses). Docker/K8s/public cloud listed as helpful.
+- **Official JD / apply:** https://canonical.com/careers/5703396 · Greenhouse: https://job-boards.greenhouse.io/canonical/jobs/5703396
+- **Your match:** Production Python + Docker/K8s/AWS + Airbyte CDC → Snowflake + **dbt**. **Kubeflow, MLFlow, Airflow, Temporal, Trino, ClickHouse, and ML training libraries are ramps.**
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Canonical_Data.pdf`
+
+## 31. Goldman Sachs — Core Risk Analyst, Software Engineering (Helios campus)
+
+- **Role:** 181261 · Market Risk Analytics & Reporting (A&R) inside Risk Engineering
+- **Posted YOE:** **1–3 years**, preferably financial / regulatory / consulting
+- **JD:** Python and SQL for ETL and data analysis; data quality/timeliness; BI tools (Tableau/Alteryx/Power BI) and R/Java/C++ listed as beneficial.
+- **Office:** Goldman Sachs Services Pvt. Ltd., **Helios Business Park, 150 Outer Ring Road, Kadubeesanahalli, Bengaluru 560103** — the large ORR campus, not Manyata/EGL.
+- **Official JD / apply:** https://higher.gs.com/roles/181261
+- **Your match:** 2y2m sits inside 1–3. Python/SQL/ETL (Airbyte CDC, Snowflake, dbt) are real. **Tableau, Alteryx, Power BI, R, Java, C++, and market-risk / regulatory reporting domain are ramps.** This is risk analytics engineering, not a consumer-product SE seat.
+- **Cover PDF:** `cover-letters/pdf/Atul_Banyal_Cover_Goldman.pdf`
+
+---
+
+# Already given — batch 6 (#27–28)
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 27 | **Condé Nast — Software Engineer 1** | **2+ years React and TypeScript** | Bengaluru MARKSQUARE | [R-24733](https://condenast.wd115.myworkdayjobs.com/en-US/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Software-Engineer-1_R-24733/apply) | `Atul_Banyal_Resume_CondeNast.pdf` | `Atul_Banyal_Cover_CondeNast.pdf` |
+| 28 | **Anteriad — AI Engineer** | **1–2 years** Python + FastAPI/Flask | Bangalore | [5386350004](https://job-boards.greenhouse.io/anteriad/jobs/5386350004) | `Atul_Banyal_Resume_Anteriad.pdf` | `Atul_Banyal_Cover_Anteriad.pdf` |
+
+TypeScript is experience on #27. LangChain/RAG/agents are ramps on #28.
+
+---
+
+# Already given — batch 5 (#23–26)
 
 Product / Fortune-style firms — **not** Accenture / Capgemini / Cognizant / Deloitte / IBM / TCS. Official JDs re-opened **13 Sep 2026**.
 

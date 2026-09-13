@@ -2,9 +2,26 @@
 
 Do not search the repo. Click a file name — GitHub opens the PDF. Use **Download** on that page if you need to upload it to a job form.
 
-Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/job-search-resume-2ec1/career-kit/cover-letters/pdf)
+Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf)
 
-## Batch 5 — apply these first (#23–26)
+## Batch 7 — apply these first (#29–31)
+
+Remote Canonical + Goldman Sachs Helios campus (Bengaluru ORR). Not #1–28.
+
+| # | Role | Resume | Cover |
+|---|------|--------|-------|
+| 29 | Canonical Python and K8s (remote worldwide) | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_K8s.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_K8s.pdf) |
+| 30 | Canonical Python/K8s Data Workflows AI/ML (remote worldwide) | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Data.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Data.pdf) |
+| 31 | Goldman Sachs Core Risk Analyst SWE (Helios Bengaluru) | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Goldman.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Goldman.pdf) |
+
+## Batch 6 (#27–28)
+
+| # | Role | Resume | Cover |
+|---|------|--------|-------|
+| 27 | Condé Nast Software Engineer 1 | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_CondeNast.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_CondeNast.pdf) |
+| 28 | Anteriad AI Engineer | [resume](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Anteriad.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Anteriad.pdf) |
+
+## Batch 5 (#23–26)
 
 Product / Fortune-style firms (Optum, GE Vernova, HP, LSEG) — not the consulting mill.
 
