@@ -2,9 +2,27 @@
 
 Do not search the repo. Click a file name — GitHub opens the PDF. Use **Download** on that page if you need to upload it to a job form.
 
-Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/remote-bengaluru-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/remote-bengaluru-jobs-2ec1/career-kit/cover-letters/pdf)
+Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf)
 
-## Batch 7 — apply these first (#29–31)
+## Batch 8 — apply these first (#32–42)
+
+Named-company referral + ten other live product jobs. Not #1–31.
+
+| # | Role | Resume | Cover |
+|---|------|--------|-------|
+| 32 | Barclays Software Engineer BA4 (Bengaluru referral) | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Barclays.pdf) | *(resume only)* |
+| 33 | AiPrise Software Engineer I | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Aiprise.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Aiprise.pdf) |
+| 34 | LG Ad Solutions Software Engineer I | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_LGAds.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_LGAds.pdf) |
+| 35 | Infineon Young Graduate Trainee | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Infineon.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Infineon.pdf) |
+| 36 | Canonical Python Engineer | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Python.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Python.pdf) |
+| 37 | Canonical Web Frontend | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Frontend.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Frontend.pdf) |
+| 38 | Canonical Python Container Images | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Containers.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Containers.pdf) |
+| 39 | Canonical App Stores | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_AppStores.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_AppStores.pdf) |
+| 40 | Canonical Solutions Engineering | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Solutions.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Solutions.pdf) |
+| 41 | Canonical Cloud Sustaining | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_CloudSustaining.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_CloudSustaining.pdf) |
+| 42 | Canonical Sustaining Engineering | [resume](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Canonical_Sustaining.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Canonical_Sustaining.pdf) |
+
+## Batch 7 (#29–31)
 
 Remote Canonical + Goldman Sachs Helios campus (Bengaluru ORR). Not #1–28.
 
