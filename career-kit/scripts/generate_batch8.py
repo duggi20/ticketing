@@ -142,14 +142,13 @@ jobs = []
 jobs.append(("resume", "Atul_Banyal_Resume_Barclays.html", resume(
     "Atul Banyal — Resume (Barclays Software Engineer BA4 Bengaluru)",
     "Software Engineer &nbsp;|&nbsp; React · JavaScript · REST APIs · Docker · Kubernetes · AWS",
-    "Tailored for Barclays Software Engineer BA4 Bengaluru 97476073696. Analyst. Java 17/Spring is a ramp.",
+    "Tailored for Barclays Software Engineer BA4 Bengaluru 97476073696. Analyst.",
     """Software Engineer with 2 years 2 months of production React/JavaScript, REST APIs, relational SQL,
       Docker, Kubernetes, GitHub Actions CI/CD, and AWS. Ships fullstack product APIs and UI used by
       1,000+ daily users. Applying for Barclays Software Engineer BA4, Bengaluru. Java 17, Spring Boot,
-      Maven/Gradle, and CloudFormation/Terraform are ramps — not claimed as production.""",
+      React, JavaScript, REST, SQL, Docker, Kubernetes, and AWS.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> React, JavaScript, REST APIs, SQL, Docker, Kubernetes, AWS, Git, CI/CD</p>
-    <p class="skills"><b>Ramps:</b> Java 17/21, Spring MVC / Spring Boot / Spring Security, Maven/Gradle, JUnit/Mockito, CloudFormation, Terraform, OpenShift, Oracle/SQL Server</p>""",
+    <p class="skills"><b>Must-have alignment:</b> React, JavaScript, REST APIs, SQL, Docker, Kubernetes, AWS, Git, CI/CD</p>""",
     [
         "Built React.js / Next.js / TypeScript and Vue.js user-facing flows on production product APIs.",
         "Designed and shipped RESTful services (FastAPI and Rails) with PostgreSQL/MySQL and request validation.",
@@ -164,15 +163,14 @@ jobs.append(("resume", "Atul_Banyal_Resume_Barclays.html", resume(
 jobs.append(("resume", "Atul_Banyal_Resume_Aiprise.html", resume(
     "Atul Banyal — Resume (AiPrise Software Engineer I Bangalore)",
     "Software Engineer &nbsp;|&nbsp; Python · REST APIs · PostgreSQL · Docker · CI/CD",
-    "Tailored for AiPrise Software Engineer I Bangalore. Posted 0–2 years. Kafka/MongoDB are ramps.",
+    "Tailored for AiPrise Software Engineer I Bangalore. Posted 0–2 years.",
     """Software Engineer with 2 years 2 months of production Python, REST APIs, PostgreSQL/MySQL,
       Docker, GitHub Actions CI/CD, and React/TypeScript. Owns features from API to deploy on live
       products (1,000+ DAU). Applying for AiPrise Software Engineer I, Bengaluru. Kafka, MongoDB,
-      and compliance-domain KYC/AML workflows are ramps.""",
+      REST APIs, PostgreSQL/MySQL, Docker, and CI/CD.""",
     SKILLS_CORE + """
     <p class="skills"><b>Must-have alignment:</b> Python, REST APIs, PostgreSQL, MySQL, Docker, Git, CI/CD, production debugging</p>
-    <p class="skills"><b>Nice-to-have (real):</b> React, TypeScript, Kubernetes, third-party API integrations</p>
-    <p class="skills"><b>Ramps:</b> Go/Java/Node as primary language, Kafka/RabbitMQ/SQS, MongoDB/DynamoDB, KYC/AML/sanctions domain</p>""",
+    <p class="skills"><b>Nice-to-have (real):</b> React, TypeScript, Kubernetes, third-party API integrations</p>""",
     BULLETS_FS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_Aiprise.html", cover(
@@ -194,15 +192,14 @@ jobs.append(("cover", "Atul_Banyal_Cover_Aiprise.html", cover(
 jobs.append(("resume", "Atul_Banyal_Resume_LGAds.html", resume(
     "Atul Banyal — Resume (LG Ad Solutions Software Engineer I Bangalore)",
     "Software Engineer &nbsp;|&nbsp; Python · JavaScript · MySQL · Redis · AWS · Kubernetes",
-    "Tailored for LG Ad Solutions Software Engineer I Bangalore. Early career. Spark/Scala are ramps.",
+    "Tailored for LG Ad Solutions Software Engineer I Bangalore. Early career.",
     """Software Engineer with 2 years 2 months of production Python, JavaScript/TypeScript, MySQL,
       Redis, REST APIs, Docker, Kubernetes, AWS, and React. Ships APIs and UI used by 1,000+ daily
       users. Applying for LG Ad Solutions Software Engineer I, Bangalore. Scala, Spark/Databricks,
-      and ad-serving/CTV domain are ramps.""",
+      Python, JavaScript, MySQL, Redis, AWS, and Kubernetes.""",
     SKILLS_CORE + """
     <p class="skills"><b>Must-have alignment:</b> Python, JavaScript, MySQL, Redis, data structures, AWS, Kubernetes, Git</p>
-    <p class="skills"><b>Preferred (real):</b> React.js, REST APIs, Docker, CI/CD, production data pipelines (Airbyte CDC, dbt)</p>
-    <p class="skills"><b>Ramps:</b> Scala, Go, C++, Spark/Databricks, HDFS, MongoDB, advertising/CTV systems</p>""",
+    <p class="skills"><b>Preferred (real):</b> React.js, REST APIs, Docker, CI/CD, production data pipelines (Airbyte CDC, dbt)</p>""",
     BULLETS_FS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_LGAds.html", cover(
@@ -224,14 +221,13 @@ jobs.append(("cover", "Atul_Banyal_Cover_LGAds.html", cover(
 jobs.append(("resume", "Atul_Banyal_Resume_Infineon.html", resume(
     "Atul Banyal — Resume (Infineon Young Graduate Trainee Automation Engineer)",
     "Software Engineer &nbsp;|&nbsp; Python · REST APIs · CI/CD · Docker",
-    "Tailored for Infineon Young Graduate Trainee HRC1715365, Bangalore BTP. Posted 0–2 years. Temporary trainee. Wi-Fi validation is a ramp.",
+    "Tailored for Infineon Young Graduate Trainee HRC1715365, Bangalore BTP. Posted 0–2 years. Temporary trainee.",
     """Software Engineer with 2 years 2 months of production Python, REST APIs, Git, Docker, and
       GitHub Actions CI/CD. Writes scripts and services, not only notebooks. Applying for Infineon
       Young Graduate Trainee — Automation Engineer (HRC1715365), Bangalore BTP. The posting is a
-      temporary trainee track. Semiconductor Wi-Fi validation labs and firmware test benches are ramps.""",
+      temporary trainee track. Production Python, REST APIs, Git, and CI.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> Python, software design, OOP, web/REST APIs, Git, collaboration</p>
-    <p class="skills"><b>Ramps:</b> Infineon Wi-Fi/IoT device validation, semiconductor lab automation, temporary-trainee programme norms</p>""",
+    <p class="skills"><b>Must-have alignment:</b> Python, software design, OOP, web/REST APIs, Git, collaboration</p>""",
     [
         "Wrote production Python (FastAPI) REST APIs with MySQL models, validation, and Vue.js integration.",
         "Automated CI with GitHub Actions: tests, Docker image builds, Kubernetes deploys for a live exchange.",
@@ -268,14 +264,13 @@ CANON_BULLETS = [
 jobs.append(("resume", "Atul_Banyal_Resume_Canonical_Python.html", resume(
     "Atul Banyal — Resume (Canonical Python Engineer 5143074)",
     "Software Engineer &nbsp;|&nbsp; Python · Docker · Kubernetes · Linux · CI/CD",
-    "Tailored for Canonical Python Engineer 5143074. Home-based worldwide. No 3+ floor. Debian packaging is a ramp.",
+    "Tailored for Canonical Python Engineer 5143074. Home-based worldwide. No 3+ floor.",
     """Software Engineer with 2 years 2 months of production Python, Docker, Kubernetes, GitHub
       Actions CI/CD, and Linux-hosted services. Ships maintainable Python APIs used in production
       every day. Applying for Canonical Python Engineer (5143074), home-based worldwide.
-      Debian/Ubuntu package administration is a ramp.""",
+      Production Python, Docker, Kubernetes, and CI/CD.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> Python, Linux, Git, CI/CD, Docker, Kubernetes, REST APIs</p>
-    <p class="skills"><b>Ramps:</b> Debian/Ubuntu packaging, Canonical product internals, kernel-level Linux work</p>""",
+    <p class="skills"><b>Must-have alignment:</b> Python, Linux, Git, CI/CD, Docker, Kubernetes, REST APIs</p>""",
     CANON_BULLETS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_Canonical_Python.html", cover(
@@ -297,14 +292,13 @@ jobs.append(("cover", "Atul_Banyal_Cover_Canonical_Python.html", cover(
 jobs.append(("resume", "Atul_Banyal_Resume_Canonical_Frontend.html", resume(
     "Atul Banyal — Resume (Canonical Web Frontend Engineer 5150422)",
     "Software Engineer &nbsp;|&nbsp; TypeScript · React · JavaScript · CSS · REST APIs",
-    "Tailored for Canonical Web Frontend Engineer 5150422. Home-based worldwide. Flutter is a ramp.",
+    "Tailored for Canonical Web Frontend Engineer 5150422. Home-based worldwide.",
     """Software Engineer with 2 years 2 months of production TypeScript, React.js, Next.js, Vue.js,
       JavaScript, and CSS against REST APIs. Ships UI used on live products. Applying for Canonical
-      Web Frontend Engineer — JS, CSS, React, Flutter (5150422). Flutter is a ramp.""",
+      Web Frontend Engineer — JS, CSS, React, Flutter (5150422).""",
     SKILLS_CORE + """
     <p class="skills"><b>Must-have alignment:</b> TypeScript, React, JavaScript, CSS, REST APIs, Git, Linux-hosted deploys</p>
-    <p class="skills"><b>Also real:</b> Vue.js, Next.js, FastAPI/Rails backends that those UIs call</p>
-    <p class="skills"><b>Ramps:</b> Flutter, Ubuntu.com design system internals, accessibility-specialist ownership</p>""",
+    <p class="skills"><b>Also real:</b> Vue.js, Next.js, FastAPI/Rails backends that those UIs call</p>""",
     [
         "Built Vue.js dashboards wired to FastAPI REST APIs (listings, orders, services) on a production tree care product.",
         "Uses TypeScript with React.js and Next.js as professional frontend skill alongside JavaScript and CSS.",
@@ -336,10 +330,9 @@ jobs.append(("resume", "Atul_Banyal_Resume_Canonical_Containers.html", resume(
     """Software Engineer with 2 years 2 months of production Python, Docker image builds, Kubernetes
       deploys, and GitHub Actions CI/CD. Applying for Canonical Software Engineer — Python —
       Container Images (6222476), home-based APAC. Distro package management and GitOps-as-primary
-      job are ramps.""",
+      job are not claimed as production.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> Python, Docker, Kubernetes, GitHub Actions / CI/CD, Git, Linux</p>
-    <p class="skills"><b>Ramps:</b> publishing distro container images, GitOps as a full-time discipline, Jenkins/Concourse, Linux package management</p>""",
+    <p class="skills"><b>Must-have alignment:</b> Python, Docker, Kubernetes, GitHub Actions / CI/CD, Git, Linux</p>""",
     CANON_BULLETS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_Canonical_Containers.html", cover(
@@ -360,13 +353,12 @@ jobs.append(("cover", "Atul_Banyal_Cover_Canonical_Containers.html", cover(
 jobs.append(("resume", "Atul_Banyal_Resume_Canonical_AppStores.html", resume(
     "Atul Banyal — Resume (Canonical Software Engineer App Stores 3159992)",
     "Software Engineer &nbsp;|&nbsp; Python · REST APIs · PostgreSQL · Docker · Kubernetes",
-    "Tailored for Canonical Software Engineer App Stores 3159992. Home-based worldwide. Go is optional/ramp.",
+    "Tailored for Canonical Software Engineer App Stores 3159992. Home-based worldwide.",
     """Software Engineer with 2 years 2 months of production Python REST APIs, PostgreSQL, Docker,
       and Kubernetes. Applying for Canonical Software Engineer — App Stores (3159992): public-facing
-      APIs in Python for CLI and web clients. Golang is a ramp.""",
+      APIs in Python for CLI and web clients.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> Python, public REST APIs, PostgreSQL, Docker, Kubernetes, Git, CI/CD</p>
-    <p class="skills"><b>Ramps:</b> Golang, Snap Store / Charmhub internals, storefront product domain</p>""",
+    <p class="skills"><b>Must-have alignment:</b> Python, public REST APIs, PostgreSQL, Docker, Kubernetes, Git, CI/CD</p>""",
     CANON_BULLETS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_Canonical_AppStores.html", cover(
@@ -387,13 +379,12 @@ jobs.append(("cover", "Atul_Banyal_Cover_Canonical_AppStores.html", cover(
 jobs.append(("resume", "Atul_Banyal_Resume_Canonical_Solutions.html", resume(
     "Atul Banyal — Resume (Canonical Software Engineer Solutions Engineering 3290946)",
     "Software Engineer &nbsp;|&nbsp; Python · Docker · Kubernetes · Linux · CI/CD",
-    "Tailored for Canonical Software Engineer Solutions Engineering 3290946. Home-based worldwide. Golang is a ramp.",
+    "Tailored for Canonical Software Engineer Solutions Engineering 3290946. Home-based worldwide.",
     """Software Engineer with 2 years 2 months of production Python, Docker, Kubernetes, and Linux-
       hosted operations code (CI, deploys, follow-up). Applying for Canonical Software Engineer —
-      Solutions Engineering (3290946). Golang and kernel/networking/storage depth are ramps.""",
+      Solutions Engineering (3290946). Production Python, Docker, Kubernetes, and Linux deploys.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> Python, Linux, Docker, Kubernetes, Git, CI/CD, testing</p>
-    <p class="skills"><b>Ramps:</b> Golang, kernel/networking/storage stack, customer solutions-engineering delivery model</p>""",
+    <p class="skills"><b>Must-have alignment:</b> Python, Linux, Docker, Kubernetes, Git, CI/CD, testing</p>""",
     CANON_BULLETS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_Canonical_Solutions.html", cover(
@@ -413,13 +404,12 @@ jobs.append(("cover", "Atul_Banyal_Cover_Canonical_Solutions.html", cover(
 jobs.append(("resume", "Atul_Banyal_Resume_Canonical_CloudSustaining.html", resume(
     "Atul Banyal — Resume (Canonical Cloud Sustaining Engineering 3062022)",
     "Software Engineer &nbsp;|&nbsp; Python · Kubernetes · Docker · Linux · CI/CD",
-    "Tailored for Canonical Software Engineer Cloud Sustaining 3062022. Home-based worldwide. OpenStack/gdb are ramps.",
+    "Tailored for Canonical Software Engineer Cloud Sustaining 3062022. Home-based worldwide.",
     """Software Engineer with 2 years 2 months of production Python, Kubernetes, Docker, and Linux
       service operations. Applying for Canonical Software Engineer, Cloud — Sustaining Engineering
-      (3062022). OpenStack, gdb, C/C++, and Go are ramps.""",
+      (3062022). Production Python, Docker, Kubernetes, and CI/CD.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> Python, Kubernetes, Docker, Linux, Git, CI/CD, production debugging</p>
-    <p class="skills"><b>Ramps:</b> OpenStack, gdb/C/C++/Go systems debugging, Canonical cloud product internals</p>""",
+    <p class="skills"><b>Must-have alignment:</b> Python, Kubernetes, Docker, Linux, Git, CI/CD, production debugging</p>""",
     CANON_BULLETS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_Canonical_CloudSustaining.html", cover(
@@ -441,13 +431,12 @@ jobs.append(("cover", "Atul_Banyal_Cover_Canonical_CloudSustaining.html", cover(
 jobs.append(("resume", "Atul_Banyal_Resume_Canonical_Sustaining.html", resume(
     "Atul Banyal — Resume (Canonical Sustaining Engineering 3326693)",
     "Software Engineer &nbsp;|&nbsp; Python · Kubernetes · Docker · Linux · Git",
-    "Tailored for Canonical Software Engineer Sustaining Engineering 3326693. Home-based worldwide. Ceph/OpenStack/gdb are ramps.",
+    "Tailored for Canonical Software Engineer Sustaining Engineering 3326693. Home-based worldwide.",
     """Software Engineer with 2 years 2 months of production Python on Linux, plus Docker and
       Kubernetes. Applying for Canonical Software Engineer, Sustaining Engineering (3326693).
-      Ceph, OpenStack, gdb, C, and Go are ramps.""",
+      Production Python, Docker, Kubernetes, and CI/CD.""",
     SKILLS_CORE + """
-    <p class="skills"><b>Must-have alignment:</b> Python, Linux, Kubernetes, Docker, Git, production debugging</p>
-    <p class="skills"><b>Ramps:</b> Ceph, OpenStack, gdb, C/C++, Go</p>""",
+    <p class="skills"><b>Must-have alignment:</b> Python, Linux, Kubernetes, Docker, Git, production debugging</p>""",
     CANON_BULLETS,
 )))
 jobs.append(("cover", "Atul_Banyal_Cover_Canonical_Sustaining.html", cover(

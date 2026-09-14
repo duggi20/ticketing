@@ -58,7 +58,7 @@ React.js / Next.js / Vue.js **are** on his CVs. Do not treat them as ramps. Vue 
 1. Start from this file + `Atul_Banyal_Resume_Master.html`. Keep Skyach products; do not replace them with a ticketing app.
 2. Read the JD. Put overlapping skills **first**. Add one summary clause that names the role and the overlapping tools from this union.
 3. Repeat true JD words that already exist (Python, FastAPI, Rails, Vue.js, React.js, Next.js, TypeScript, REST, SQL, Docker, Kubernetes, GitHub Actions, AWS, Snowflake, dbt).
-4. If the JD’s main language is Java / C++ / Go / Angular and it is not on the CVs, say **ramp** in the cover — or skip the job.
+4. If the JD’s main language is Java / C++ / Go / Angular and it is not on the CVs, **do not put that gap on the resume**. Skip the job, or apply only on the overlapping stack. Never add a “Ramps:” line to a CV.
 5. Apply only where the posted floor is **2 years or less**. Prefer Bengaluru or remote India. Hyderabad is OK when the stack matches.
 6. One page. Phone + email + LinkedIn. No GitHub URL.
 

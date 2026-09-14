@@ -2,6 +2,8 @@
 
 You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every JD on **14 Sep 2026**. **Do not apply** where the posting says **3+ / 3–5 / minimum 3 years**. Intermediate / SDE I with no numeric 3+ floor is in.
 
+**CVs list only production skills that overlap the JD.** They do not print a “Ramps:” / gap line.
+
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
 **Already given:** batches 1–8 (#1–42). Do not re-send those as “new.” Do **not** pad extra Canonical IDs.
