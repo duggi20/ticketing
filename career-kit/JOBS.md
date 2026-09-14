@@ -4,9 +4,102 @@ You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every 
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-**Already given:** batches 1–7 (#1–31). Do not re-send those as “new.” GitLab’s extra India Intermediate Backend (8775507002) is **dead** (Greenhouse error redirect).
+**Already given:** batches 1–8 (#1–42). Do not re-send those as “new.” Do **not** pad extra Canonical IDs.
 
-# New this round — batch 8 (#32–42)
+# New this round — batch 9 (#43–52)
+
+Ten live official seats whose posted floor is **2 years or less**. Mix: Amazon MNC (permanent SDE I + FTC + PAI), Accenture service (Mumbai/Pune), GitLab Support, CUBE RegTech (fintech-adjacent product), Nanonets (Indian product). Official pages re-opened **14 Sep 2026**. Not mill. Not #1–42.
+
+**Could not lock:** Swiggy / Zomato / Zepto / Flipkart food-product SDE I — no live official ≤2 URL. PhonePe / Razorpay / CRED / Paytm / Groww / Meesho SDE I — no live official ≤2 URL. Nexthink 1–3 TypeScript/React posting is **Madrid** on the official API (ACKO text is copy-paste) — skipped. Infosys / TCS / Wipro / Thoughtworks graduate boards had no locked experienced-hire ≤2 SWE URL. Did **not** add Canonical filler.
+
+Prefer **#52 Amazon Rewards SDE I** then **#50 CUBE FastAPI** then **#51 Nanonets** then **#49 Amazon SDE I L4** (JD leans test automation — honest ramp). Then Accenture **#47 Pune Python**. FTC **#43/#44** are contractual. GitLab **#48** is Support, not backend SWE.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 43 | **Amazon — SDE-1 (FTC), Cross Border Tech** | **1+ years** | Bengaluru | [10525643](https://www.amazon.jobs/en/jobs/10525643) | `Atul_Banyal_Resume_Amazon_FTC_CrossBorder.pdf` | `Atul_Banyal_Cover_Amazon_FTC_CrossBorder.pdf` |
+| 44 | **Amazon — SDE (Fixed Term), International FBA Tech** | **1+ years** | Bengaluru | [10492771](https://www.amazon.jobs/en/jobs/10492771) | `Atul_Banyal_Resume_Amazon_FTC_FBA.pdf` | `Atul_Banyal_Cover_Amazon_FTC_FBA.pdf` |
+| 45 | **Amazon — Programmer Analyst I** | Preferred **1+** (no 3+ floor) | Bengaluru / Hyderabad / Gurugram | [10375986](https://www.amazon.jobs/en/jobs/10375986) | `Atul_Banyal_Resume_Amazon_PAI.pdf` | `Atul_Banyal_Cover_Amazon_PAI.pdf` |
+| 46 | **Accenture — Web Developer Associate** | **0–2 / 1–3** React | **Mumbai** | [AIOC-S01652011](https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01652011_en) | `Atul_Banyal_Resume_Accenture_Web_Mumbai.pdf` | `Atul_Banyal_Cover_Accenture_Web_Mumbai.pdf` |
+| 47 | **Accenture — Application Developer (Python)** | **Min 2 years Python** | **Pune** | [ATCI-5180677-S1905710](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5180677-S1905710_en) | `Atul_Banyal_Resume_Accenture_Python_Pune.pdf` | `Atul_Banyal_Cover_Accenture_Python_Pune.pdf` |
+| 48 | **GitLab — Intermediate Support Engineer** | Intermediate (no 3+ floor) | Bangalore | [8687026002](https://job-boards.greenhouse.io/gitlab/jobs/8687026002) | `Atul_Banyal_Resume_GitLab_Support.pdf` | `Atul_Banyal_Cover_GitLab_Support.pdf` |
+| 49 | **Amazon — Software Dev Engineer I, L4** | **1 to 3 years** as an SDE | Bengaluru | [10531567](https://www.amazon.jobs/en/jobs/10531567) | `Atul_Banyal_Resume_Amazon_SDEI_L4.pdf` | `Atul_Banyal_Cover_Amazon_SDEI_L4.pdf` |
+| 50 | **CUBE — Software Engineer** | **2–3 years** Python FastAPI | Bangalore | [39e748ee](https://jobs.ashbyhq.com/cube/39e748ee-3c02-4608-ad4a-ebacff139eb4) | `Atul_Banyal_Resume_Cube.pdf` | `Atul_Banyal_Cover_Cube.pdf` |
+| 51 | **Nanonets — Forward Deployed Engineer** | **2+ years** SWE | Bangalore (on-site) | [c3715ba7](https://jobs.ashbyhq.com/nanonets/c3715ba7-2924-4432-b78e-3acc56b8e823) | `Atul_Banyal_Resume_Nanonets.pdf` | `Atul_Banyal_Cover_Nanonets.pdf` |
+| 52 | **Amazon — SDE I, Amazon Rewards** | **1+ years** | Bengaluru | [10523331](https://www.amazon.jobs/en/jobs/10523331) | `Atul_Banyal_Resume_Amazon_Rewards.pdf` | `Atul_Banyal_Cover_Amazon_Rewards.pdf` |
+
+## 43. Amazon — SDE-1 (FTC), Cross Border Tech (Bengaluru)
+
+- **Job ID:** 10525643 · **Fixed-term contract**, not FTE
+- **Posted YOE:** **1+ years** non-internship professional software development
+- **Official apply:** https://www.amazon.jobs/en/jobs/10525643
+- **Your match:** 2y2m Python/Rails REST, SQL, Docker, K8s, CI. **Java as Amazon’s primary service language is a ramp if the team requires it.**
+
+## 44. Amazon — SDE (Fixed Term), International FBA Tech (Bengaluru)
+
+- **Job ID:** 10492771 · **Fixed-term contract**. Different team from #43
+- **Posted YOE:** **1+ years**
+- **Official apply:** https://www.amazon.jobs/en/jobs/10492771
+- **Your match:** same core as #43. **FBA domain and Java-as-primary are ramps.**
+
+## 45. Amazon — Programmer Analyst I
+
+- **Job ID:** 10375986 · Bengaluru / Hyderabad / Gurugram
+- **Posted YOE:** Preferred **1+**; no 3+ floor. Java/C++/C# preferred
+- **Official apply:** https://www.amazon.jobs/en/jobs/10375986
+- **Your match:** Python/Ruby/SQL, Git, CI. **Java/C++/C# and DynamoDB as primary store are ramps.** Weaker title than #49/#52.
+
+## 46. Accenture — Web Developer Associate (Mumbai)
+
+- **Job:** AIOC-S01652011 · **Mumbai office** (honest location)
+- **Posted YOE:** **0–2 / 1–3** React
+- **Official apply:** https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01652011_en
+- **Your match:** React.js / TypeScript / JavaScript. **Marketing-ops CMS and rotational shifts are ramps.** Willing to relocate to Mumbai.
+
+## 47. Accenture — Application Developer, Python (Pune)
+
+- **Job:** ATCI-5180677-S1905710 · **Pune office**
+- **Posted YOE:** **Minimum 2 years Python**
+- **Official apply:** https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5180677-S1905710_en
+- **Your match:** 2y2m production FastAPI. **Django/Flask are ramps.**
+
+## 48. GitLab — Intermediate Support Engineer (Bangalore)
+
+- **Greenhouse:** 8687026002 · **Support track**, not Intermediate Backend (#1/#2)
+- **Posted YOE:** Intermediate; no 3+ floor
+- **Official apply:** https://job-boards.greenhouse.io/gitlab/jobs/8687026002
+- **Your match:** Rails, Linux, Git, production logs. **Customer-facing Support as the day job is a ramp.**
+
+## 49. Amazon — Software Dev Engineer I, L4 (Bengaluru)
+
+- **Job ID:** 10531567 · **Permanent**
+- **Posted YOE:** **1 to 3 years as an SDE** plus CS/Engineering bachelor’s
+- **Official apply:** https://www.amazon.jobs/en/jobs/10531567
+- **JD lean:** extend automation frameworks / test tools (SDET-style). Cover states that honestly.
+- **Your match:** 2y2m inside 1–3; production code + CI. **Test automation as the primary day job is a ramp.**
+
+## 50. CUBE — Software Engineer (Bangalore)
+
+- **Company:** CUBE (global RegTech / regulatory-intelligence SaaS for financial services)
+- **Posted YOE:** **2–3 years** Python with FastAPI, Django, or similar
+- **Official apply:** https://jobs.ashbyhq.com/cube/39e748ee-3c02-4608-ad4a-ebacff139eb4
+- **Your match:** production FastAPI, REST, PostgreSQL, Docker, CI/CD, AWS. **Django, Scrapy/Playwright, LangChain, Celery/Kafka, vector DBs are ramps.**
+
+## 51. Nanonets — Forward Deployed Engineer (Bangalore, on-site)
+
+- **Posted YOE:** **2+ years** as FDE / SWE / ML engineer
+- **Official apply:** https://jobs.ashbyhq.com/nanonets/c3715ba7-2924-4432-b78e-3acc56b8e823
+- **Your match:** FastAPI, REST, React/TypeScript, end-to-end product ownership. **Customer-facing FDE and RAG/agent orchestration as primary work are ramps.**
+
+## 52. Amazon — SDE I, Amazon Rewards (Bengaluru)
+
+- **Job ID:** 10523331 · **Permanent** SDE I (not FTC)
+- **Posted YOE:** **1+ years** non-internship professional software development
+- **Official apply:** https://www.amazon.jobs/en/jobs/10523331
+- **Your match:** 2y2m Python/Rails REST, SQL, Docker, K8s, CI. **Rewards domain and Java-as-primary are ramps.** Best Amazon product SDE I in this batch.
+
+---
+
+# Already given — batch 8 (#32–42)
 
 Named-company hunt (Barclays, JLR, BNY Mellon, ICICI Lombard, Cisco) plus ten other live product roles. Official pages re-opened **14 Sep 2026**. Not mill. Not #1–31.
 
