@@ -2,7 +2,9 @@
 
 Do not search the repo. Click a file name — GitHub opens the PDF. Use **Download** on that page if you need to upload it to a job form.
 
-Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf)
+Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/rabbitmq-skill-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/rabbitmq-skill-2ec1/career-kit/cover-letters/pdf)
+
+**Master (all skills, including RabbitMQ):** [Atul_Banyal_Resume_Master.pdf](https://github.com/duggi20/ticketing/blob/cursor/rabbitmq-skill-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Master.pdf)
 
 ## Batch 9 — apply these first (#43–52)
 
