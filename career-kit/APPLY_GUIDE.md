@@ -4,13 +4,97 @@ Fill your **phone number** on every PDF. LinkedIn showed Skyach as **Jun 2024 �
 
 Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** you apply. Recruiters open the profile the same hour they open the PDF.
 
-You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #32–42 first** (Barclays referral + ten other live product jobs). Batches 1–7 (#1–31) were already given — do not treat those as new. Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #43–52 first.** Batches 1–8 (#1–42) were already given — do not treat those as new. **3+ YOE will not work.** Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. **Barclays #32 is resume only** (referral). Do not upload the `.md` files.
 
-**Open PDFs by click (no repo search):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/PDF_LINKS.md) · [all resumes](https://github.com/duggi20/ticketing/tree/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf)
+**Open PDFs by click (no repo search):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/PDF_LINKS.md) · [all resumes](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf)
 
-## New this round (batch 8 — not #1–31)
+## New this round (batch 9 — not #1–42)
+
+Prefer **#52 Amazon Rewards SDE I**, then **#50 CUBE**, **#51 Nanonets**, **#49 Amazon SDE I L4** (test-automation lean — honest). Then **#47 Accenture Python Pune**. **#43/#44** are Amazon FTC (contract). **#48** is GitLab Support, not backend. **#46** is Mumbai. Food / PhonePe / Razorpay / CRED / Paytm / Meesho SDE I had no live official ≤2 URL.
+
+### 43. Amazon — SDE-1 (FTC), Cross Border Tech
+
+[Apply 10525643](https://www.amazon.jobs/en/jobs/10525643)
+
+- Resume: [Atul_Banyal_Resume_Amazon_FTC_CrossBorder.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_FTC_CrossBorder.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_FTC_CrossBorder.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_FTC_CrossBorder.pdf)
+- Posted **1+ years**. **Fixed-term contract.** Java-as-primary is a ramp.
+
+### 44. Amazon — SDE (Fixed Term), International FBA Tech
+
+[Apply 10492771](https://www.amazon.jobs/en/jobs/10492771)
+
+- Resume: [Atul_Banyal_Resume_Amazon_FTC_FBA.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_FTC_FBA.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_FTC_FBA.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_FTC_FBA.pdf)
+- Posted **1+ years**. Contractual. Different team from #43.
+
+### 45. Amazon — Programmer Analyst I
+
+[Apply 10375986](https://www.amazon.jobs/en/jobs/10375986)
+
+- Resume: [Atul_Banyal_Resume_Amazon_PAI.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_PAI.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_PAI.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_PAI.pdf)
+- Preferred **1+**. Java/C++/C# preferred = ramps. Weaker title than #49/#52.
+
+### 46. Accenture — Web Developer Associate (Mumbai)
+
+[Apply AIOC-S01652011](https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01652011_en)
+
+- Resume: [Atul_Banyal_Resume_Accenture_Web_Mumbai.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Web_Mumbai.pdf)
+- Cover: [Atul_Banyal_Cover_Accenture_Web_Mumbai.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Web_Mumbai.pdf)
+- **0–2 / 1–3** React. Office is **Mumbai**. CMS / rotational shifts are ramps.
+
+### 47. Accenture — Application Developer, Python (Pune)
+
+[Apply ATCI-5180677-S1905710](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5180677-S1905710_en)
+
+- Resume: [Atul_Banyal_Resume_Accenture_Python_Pune.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Python_Pune.pdf)
+- Cover: [Atul_Banyal_Cover_Accenture_Python_Pune.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Python_Pune.pdf)
+- **Minimum 2 years Python.** Office is **Pune**. Django/Flask are ramps.
+
+### 48. GitLab — Intermediate Support Engineer (Bangalore)
+
+[Apply 8687026002](https://job-boards.greenhouse.io/gitlab/jobs/8687026002)
+
+- Resume: [Atul_Banyal_Resume_GitLab_Support.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GitLab_Support.pdf)
+- Cover: [Atul_Banyal_Cover_GitLab_Support.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GitLab_Support.pdf)
+- Intermediate. **Support track, not backend SWE.** Rails/Linux/logs match.
+
+### 49. Amazon — Software Dev Engineer I, L4 (Bengaluru)
+
+[Apply 10531567](https://www.amazon.jobs/en/jobs/10531567)
+
+- Resume: [Atul_Banyal_Resume_Amazon_SDEI_L4.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_SDEI_L4.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_SDEI_L4.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_SDEI_L4.pdf)
+- **1 to 3 years as an SDE.** Permanent. JD leans **test automation** — cover is honest.
+
+### 50. CUBE — Software Engineer (Bangalore)
+
+[Apply](https://jobs.ashbyhq.com/cube/39e748ee-3c02-4608-ad4a-ebacff139eb4)
+
+- Resume: [Atul_Banyal_Resume_Cube.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Cube.pdf)
+- Cover: [Atul_Banyal_Cover_Cube.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Cube.pdf)
+- **2–3 years** Python FastAPI. RegTech product. LangChain/Scrapy/Celery are ramps.
+
+### 51. Nanonets — Forward Deployed Engineer (Bangalore, on-site)
+
+[Apply](https://jobs.ashbyhq.com/nanonets/c3715ba7-2924-4432-b78e-3acc56b8e823)
+
+- Resume: [Atul_Banyal_Resume_Nanonets.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Nanonets.pdf)
+- Cover: [Atul_Banyal_Cover_Nanonets.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Nanonets.pdf)
+- **2+ years.** On-site Bangalore. FDE / RAG-agents are ramps.
+
+### 52. Amazon — SDE I, Amazon Rewards (Bengaluru)
+
+[Apply 10523331](https://www.amazon.jobs/en/jobs/10523331)
+
+- Resume: [Atul_Banyal_Resume_Amazon_Rewards.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_Rewards.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_Rewards.pdf](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_Rewards.pdf)
+- Posted **1+ years**. Permanent SDE I. Best Amazon product seat in this batch.
+
+## Already given (batch 8 — not #1–31)
 
 Prefer **#32** for the Barclays Bengaluru referral. Then **#33 AiPrise** and **#34 LG Ads**. Infineon **#35** is a **temporary trainee**. **#36–42** are extra Canonical reqs (not 3752633 / 5703396).
 

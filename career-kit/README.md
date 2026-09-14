@@ -8,9 +8,28 @@ Phone **+91 63518 06327** is on his actual CVs. No GitHub URL.
 
 **Before you apply:** paste the text in [`LINKEDIN.md`](LINKEDIN.md) into LinkedIn (headline, About, Skyach bullets). Do not add a GitHub link. Recruiters will open that profile the same day they open your PDF.
 
-**Click PDFs here (do not search the repo):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/barclays-product-jobs-2ec1/career-kit/PDF_LINKS.md)
+**Click PDFs here (do not search the repo):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/PDF_LINKS.md)
 
-## Apply these first (batch 8 — named five + 10 others, not #1–31)
+## Apply these first (batch 9 — MNC / service / fintech / Indian product, not #1–42)
+
+Ten live official seats with posted floor **≤2 years** (or 1–3 with floor 1). **3+ will not work.** Food brands (Swiggy/Zomato/Zepto/Flipkart) and PhonePe/Razorpay/CRED/Paytm/Meesho SDE I had **no live official ≤2 URL**. No Canonical filler.
+
+Prefer **#52 Amazon Rewards SDE I**, **#50 CUBE FastAPI**, **#51 Nanonets**, then **#49 Amazon SDE I L4** (test-automation-leaning JD). Accenture **#47 Pune Python**. **#43/#44** are Amazon FTC (contract). **#48** is GitLab Support, not backend. **#46** is Mumbai. **#45** is Programmer Analyst I, not SDE.
+
+| # | Company | Role | Posted YOE | Resume PDF | Cover PDF | Apply |
+|---|---------|------|------------|------------|-----------|-------|
+| 43 | Amazon | SDE-1 (FTC), Cross Border Tech | **1+ years** (contract) | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_FTC_CrossBorder.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_FTC_CrossBorder.pdf) | [10525643](https://www.amazon.jobs/en/jobs/10525643) |
+| 44 | Amazon | SDE (Fixed Term), International FBA Tech | **1+ years** (contract) | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_FTC_FBA.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_FTC_FBA.pdf) | [10492771](https://www.amazon.jobs/en/jobs/10492771) |
+| 45 | Amazon | Programmer Analyst I | Preferred **1+** | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_PAI.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_PAI.pdf) | [10375986](https://www.amazon.jobs/en/jobs/10375986) |
+| 46 | Accenture | Web Developer Associate | **0–2 / 1–3** React | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Web_Mumbai.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Web_Mumbai.pdf) | [AIOC-S01652011](https://www.accenture.com/in-en/careers/jobdetails?id=AIOC-S01652011_en) |
+| 47 | Accenture | Application Developer (Python) | **Min 2 years Python** | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Python_Pune.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Python_Pune.pdf) | [ATCI-5180677](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5180677-S1905710_en) |
+| 48 | GitLab | Intermediate Support Engineer | Intermediate | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GitLab_Support.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GitLab_Support.pdf) | [8687026002](https://job-boards.greenhouse.io/gitlab/jobs/8687026002) |
+| 49 | Amazon | Software Dev Engineer I, L4 | **1 to 3 years** | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_SDEI_L4.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_SDEI_L4.pdf) | [10531567](https://www.amazon.jobs/en/jobs/10531567) |
+| 50 | CUBE | Software Engineer (FastAPI) | **2–3 years** Python | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Cube.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Cube.pdf) | [39e748ee](https://jobs.ashbyhq.com/cube/39e748ee-3c02-4608-ad4a-ebacff139eb4) |
+| 51 | Nanonets | Forward Deployed Engineer | **2+ years** | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Nanonets.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Nanonets.pdf) | [c3715ba7](https://jobs.ashbyhq.com/nanonets/c3715ba7-2924-4432-b78e-3acc56b8e823) |
+| 52 | Amazon | SDE I, Amazon Rewards | **1+ years** | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_Rewards.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_Rewards.pdf) | [10523331](https://www.amazon.jobs/en/jobs/10523331) |
+
+## Already given (batch 8 — named five + 10 others, not #1–31)
 
 **Referral (resume + job link only):** Barclays BA4 Bengaluru. JLR / BNY / ICICI Lombard / new Cisco SWE I were not live matches.
 

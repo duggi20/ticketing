@@ -2,9 +2,26 @@
 
 Do not search the repo. Click a file name — GitHub opens the PDF. Use **Download** on that page if you need to upload it to a job form.
 
-Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/barclays-product-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/barclays-product-jobs-2ec1/career-kit/cover-letters/pdf)
+Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf)
 
-## Batch 8 — apply these first (#32–42)
+## Batch 9 — apply these first (#43–52)
+
+MNC / service / fintech-adjacent / Indian product. Posted floor ≤2. Not #1–42. No Canonical filler.
+
+| # | Role | Resume | Cover |
+|---|------|--------|-------|
+| 43 | Amazon SDE-1 FTC Cross Border (Bengaluru) | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_FTC_CrossBorder.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_FTC_CrossBorder.pdf) |
+| 44 | Amazon SDE FTC International FBA Tech | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_FTC_FBA.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_FTC_FBA.pdf) |
+| 45 | Amazon Programmer Analyst I | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_PAI.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_PAI.pdf) |
+| 46 | Accenture Web Developer Associate (Mumbai) | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Web_Mumbai.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Web_Mumbai.pdf) |
+| 47 | Accenture Application Developer Python (Pune) | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Python_Pune.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Python_Pune.pdf) |
+| 48 | GitLab Intermediate Support Engineer | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GitLab_Support.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GitLab_Support.pdf) |
+| 49 | Amazon Software Dev Engineer I, L4 | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_SDEI_L4.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_SDEI_L4.pdf) |
+| 50 | CUBE Software Engineer (FastAPI, Bangalore) | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Cube.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Cube.pdf) |
+| 51 | Nanonets Forward Deployed Engineer | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Nanonets.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Nanonets.pdf) |
+| 52 | Amazon SDE I, Amazon Rewards | [resume](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_Rewards.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_Rewards.pdf) |
+
+## Batch 8 — already given (#32–42)
 
 Named-company referral + ten other live product jobs. Not #1–31.
 
