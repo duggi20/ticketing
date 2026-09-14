@@ -2,11 +2,26 @@
 
 Do not search the repo. Click a file name — GitHub opens the PDF. Use **Download** on that page if you need to upload it to a job form.
 
-Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/rabbitmq-skill-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/rabbitmq-skill-2ec1/career-kit/cover-letters/pdf)
+Folders: [all resumes](https://github.com/duggi20/ticketing/tree/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf)
 
 **Master (all skills, including RabbitMQ):** [Atul_Banyal_Resume_Master.pdf](https://github.com/duggi20/ticketing/blob/cursor/rabbitmq-skill-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Master.pdf)
 
-## Batch 9 — apply these first (#43–52)
+## Batch 10 — apply these first (#53–60)
+
+Product + MNC. Posted floor ≤2. Not #1–52. No Canonical filler. No extra Amazon FTC clones.
+
+| # | Role | Resume | Cover |
+|---|------|--------|-------|
+| 53 | Handshake Software Engineer I, International Expansion (Bengaluru on-site) | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Handshake.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Handshake.pdf) |
+| 54 | GitLab AI Engineer (Remote Bangalore) | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GitLab_AI.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GitLab_AI.pdf) |
+| 55 | Accenture Custom Software Engineer Python (Bengaluru) | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Python_BLR.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Python_BLR.pdf) |
+| 56 | Amazon Data Engineer I, SmartCommerce | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_DE.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_DE.pdf) |
+| 57 | Amazon Database Engineer I, PESDB (Hyderabad) | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_DB.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_DB.pdf) |
+| 58 | Accenture Application Support Engineer (Mumbai) | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Support_Mumbai.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Support_Mumbai.pdf) |
+| 59 | Deloitte DEC Executive Full stack (Bengaluru) | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Deloitte_Fullstack.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Fullstack.pdf) |
+| 60 | Amazon System Development Engineer I (Chennai) | [resume](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_SysDE.pdf) | [cover](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_SysDE.pdf) |
+
+## Batch 9 — already given (#43–52)
 
 MNC / service / fintech-adjacent / Indian product. Posted floor ≤2. Not #1–42. No Canonical filler.
 
