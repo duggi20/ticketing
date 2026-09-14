@@ -1,12 +1,80 @@
 # Jobs — apply only where the posted floor is 2 years or less
 
-You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every JD on **13 Sep 2026**. **Do not apply** where the posting says **3+ / 3–5 / minimum 3 years**. Intermediate / SDE I with no numeric 3+ floor is in.
+You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every JD on **14 Sep 2026**. **Do not apply** where the posting says **3+ / 3–5 / minimum 3 years**. Intermediate / SDE I with no numeric 3+ floor is in.
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-**Already given:** batches 1–6 (#1–28). Do not re-send those as “new.” GitLab’s extra India Intermediate Backend (8775507002) is **dead** (Greenhouse error redirect).
+**Already given:** batches 1–7 (#1–31). Do not re-send those as “new.” GitLab’s extra India Intermediate Backend (8775507002) is **dead** (Greenhouse error redirect).
 
-# New this round — batch 7 (#29–31)
+# New this round — batch 8 (#32–42)
+
+Named-company hunt (Barclays, JLR, BNY Mellon, ICICI Lombard, Cisco) plus ten other live product roles. Official pages re-opened **14 Sep 2026**. Not mill. Not #1–31.
+
+**Named five:** only **Barclays BA4 Bengaluru** is a live ≤2 / Analyst stack-overlap seat. Resume + job link for referral (no cover). JLR is MATLAB/ISO 26262. BNY/ICICI had no live official associate SWE URL. Cisco 56214 was already #12; other Cisco India seats are C/C++ wireless or closed.
+
+**Other ten:** AiPrise, LG Ad Solutions, Infineon (temporary trainee — honest), then seven additional Canonical reqs (different IDs from #29–30). Nike / Intuit / Autodesk / Rippling / Circles I/II official URLs were 404 or `postingAvailable: false`.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 32 | **Barclays — Software Engineer BA4** (referral) | Analyst / BA4 (no numeric 3+ floor) | Bengaluru | [97476073696](https://search.jobs.barclays/job/bengaluru/software-engineer/13015/97476073696) | `Atul_Banyal_Resume_Barclays.pdf` | *(referral — resume only)* |
+| 33 | **AiPrise — Software Engineer I** | **0–2 years** | Bengaluru | [3763c791](https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6) | `Atul_Banyal_Resume_Aiprise.pdf` | `Atul_Banyal_Cover_Aiprise.pdf` |
+| 34 | **LG Ad Solutions — Software Engineer I** | Early career (no 3+ floor) | Bangalore | [02b11bae](https://jobs.ashbyhq.com/lgads/02b11bae-83d2-47f5-9ff2-6114f13ee360) | `Atul_Banyal_Resume_LGAds.pdf` | `Atul_Banyal_Cover_LGAds.pdf` |
+| 35 | **Infineon — Young Graduate Trainee, Automation Engineer** | **0–2 years** | Bangalore BTP | [HRC1715365](https://jobs.infineon.com/careers/job/563808971773350?domain=infineon.com) | `Atul_Banyal_Resume_Infineon.pdf` | `Atul_Banyal_Cover_Infineon.pdf` |
+| 36 | **Canonical — Python Engineer** | No 3+ floor | Remote worldwide | [5143074](https://canonical.com/careers/5143074) | `Atul_Banyal_Resume_Canonical_Python.pdf` | `Atul_Banyal_Cover_Canonical_Python.pdf` |
+| 37 | **Canonical — Web Frontend Engineer (JS/CSS/React/Flutter)** | No 3+ floor | Remote worldwide | [5150422](https://canonical.com/careers/5150422) | `Atul_Banyal_Resume_Canonical_Frontend.pdf` | `Atul_Banyal_Cover_Canonical_Frontend.pdf` |
+| 38 | **Canonical — Python Container Images** | No 3+ floor | Remote APAC | [6222476](https://canonical.com/careers/6222476) | `Atul_Banyal_Resume_Canonical_Containers.pdf` | `Atul_Banyal_Cover_Canonical_Containers.pdf` |
+| 39 | **Canonical — Software Engineer, App Stores** | No 3+ floor | Remote worldwide | [3159992](https://canonical.com/careers/3159992) | `Atul_Banyal_Resume_Canonical_AppStores.pdf` | `Atul_Banyal_Cover_Canonical_AppStores.pdf` |
+| 40 | **Canonical — Solutions Engineering** | No 3+ floor | Remote worldwide | [3290946](https://canonical.com/careers/3290946) | `Atul_Banyal_Resume_Canonical_Solutions.pdf` | `Atul_Banyal_Cover_Canonical_Solutions.pdf` |
+| 41 | **Canonical — Cloud Sustaining Engineering** | No 3+ floor | Remote worldwide | [3062022](https://canonical.com/careers/3062022) | `Atul_Banyal_Resume_Canonical_CloudSustaining.pdf` | `Atul_Banyal_Cover_Canonical_CloudSustaining.pdf` |
+| 42 | **Canonical — Sustaining Engineering** | No 3+ floor | Remote worldwide | [3326693](https://canonical.com/careers/3326693) | `Atul_Banyal_Resume_Canonical_Sustaining.pdf` | `Atul_Banyal_Cover_Canonical_Sustaining.pdf` |
+
+## 32. Barclays — Software Engineer BA4 (Bengaluru) — referral pack
+
+- **Job:** Software Engineer BA4 · Customer Digital and Data · live 07/07/2026 · permanent · Bengaluru
+- **Posted YOE:** Analyst / BA4. No numeric 3+ floor. Not the Pune Python **AVP** posting.
+- **JD:** Java 17/21 + Spring required; also React, JavaScript, REST, SQL, Docker/K8s/OpenShift, AWS.
+- **Official apply:** https://search.jobs.barclays/job/bengaluru/software-engineer/13015/97476073696
+- **Your match:** React/JS, REST, SQL, Docker, Kubernetes, AWS, Git/CI are real. **Java 17, Spring Boot, Maven/Gradle, JUnit, CloudFormation/Terraform, OpenShift, Oracle/SQL Server are ramps.**
+- **Pack:** resume only (referral). Cover not written.
+
+## 33. AiPrise — Software Engineer I (Bengaluru)
+
+- **Posted YOE:** **0–2 years** shipping production systems
+- **JD:** Python/Go/Java/Node; REST APIs; PostgreSQL/MySQL; Git, CI/CD, Docker. Nice: React/TypeScript, Kubernetes, third-party APIs.
+- **Official apply:** https://jobs.ashbyhq.com/aiprise/3763c791-a387-4078-9ca4-00cbfbf9b1a6
+- **Your match:** Python FastAPI, REST, Postgres/MySQL, Docker, CI, React/TS. **Kafka, MongoDB, KYC/AML domain are ramps.**
+
+## 34. LG Ad Solutions — Software Engineer I (Bangalore)
+
+- **Posted YOE:** Early career / SWE I (no 3+ floor)
+- **JD:** Python or JavaScript; MySQL/Redis; AWS/K8s learning; React preferred.
+- **Official apply:** https://jobs.ashbyhq.com/lgads/02b11bae-83d2-47f5-9ff2-6114f13ee360
+- **Your match:** Python, JS/TS, MySQL, Redis, AWS, K8s, React. **Scala, Spark/Databricks, CTV ad-serving are ramps.**
+
+## 35. Infineon — Young Graduate Trainee, Automation Engineer (Bangalore BTP)
+
+- **Job ID:** HRC1715365 · Eightfold 563808971773350 · **temporary trainee**
+- **Posted YOE:** **0–2 years** automation / Python
+- **Official apply:** https://jobs.infineon.com/careers/job/563808971773350?domain=infineon.com
+- **Your match:** Python, REST, Git, CI. **Wi-Fi/IoT validation labs are ramps.** Cover states the trainee/temporary track honestly.
+
+## 36–42. Canonical (new IDs — not #29 3752633 or #30 5703396)
+
+All home-based; India OK. No numeric 3+ floor except none of these list 3+. Debian packaging, Flutter, Golang, OpenStack, Ceph, gdb, C/C++ are ramps as named on each PDF.
+
+- 36 Python Engineer https://canonical.com/careers/5143074 · Greenhouse https://job-boards.greenhouse.io/canonical/jobs/5143074
+- 37 Web Frontend https://canonical.com/careers/5150422 · https://job-boards.greenhouse.io/canonical/jobs/5150422
+- 38 Python Container Images (APAC) https://canonical.com/careers/6222476 · https://job-boards.greenhouse.io/canonical/jobs/6222476
+- 39 App Stores https://canonical.com/careers/3159992 · https://job-boards.greenhouse.io/canonical/jobs/3159992
+- 40 Solutions Engineering https://canonical.com/careers/3290946 · https://job-boards.greenhouse.io/canonical/jobs/3290946
+- 41 Cloud Sustaining https://canonical.com/careers/3062022 · https://job-boards.greenhouse.io/canonical/jobs/3062022
+- 42 Sustaining Engineering https://canonical.com/careers/3326693 · https://job-boards.greenhouse.io/canonical/jobs/3326693
+
+Form boxes: still paste from [`canonical-form-answers.md`](canonical-form-answers.md).
+
+---
+
+# Already given — batch 7 (#29–31)
 
 Remote product firms that hire India, plus **Goldman Sachs Helios** (the big-campus Bengaluru seat). Official JDs re-opened **13 Sep 2026**. Not mill. Not #1–28.
 
