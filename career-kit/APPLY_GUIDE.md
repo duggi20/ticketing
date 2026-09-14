@@ -4,13 +4,81 @@ Fill your **phone number** on every PDF. LinkedIn showed Skyach as **Jun 2024 �
 
 Do the LinkedIn paste in [`LINKEDIN.md`](LINKEDIN.md) **before** you apply. Recruiters open the profile the same hour they open the PDF.
 
-You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #43–52 first.** Batches 1–8 (#1–42) were already given — do not treat those as new. **3+ YOE will not work.** Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
+You have **2 years 2 months**. JPMorgan is dropped. **This round: apply #53–60 first.** Batches 1–9 (#1–52) were already given — do not treat those as new. **3+ YOE will not work.** Do **not** apply to JumpCloud LDAP, Okta, Accenture ATCI-5218598, GitLab Senior, or Cisco IQ 2023390 — those say **3+ years** or Senior. Re-open each link the day you apply.
 
 Upload **two PDFs** on every form that allows a cover letter: resume + cover. **Barclays #32 is resume only** (referral). Do not upload the `.md` files.
 
-**Open PDFs by click (no repo search):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/mnc-service-jobs-2ec1/career-kit/PDF_LINKS.md) · [all resumes](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/mnc-service-jobs-2ec1/career-kit/cover-letters/pdf)
+**Open PDFs by click (no repo search):** [`PDF_LINKS.md`](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/PDF_LINKS.md) · [all resumes](https://github.com/duggi20/ticketing/tree/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf) · [all covers](https://github.com/duggi20/ticketing/tree/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf)
 
-## New this round (batch 9 — not #1–42)
+## New this round (batch 10 — not #1–52)
+
+Prefer **#53 Handshake SWE I**, then **#55 Accenture Bengaluru Python**, **#59 Deloitte fullstack**, **#56 Amazon DE I**. **#54 GitLab AI** is Python/TS/REST (LLM product engineering is not on the CV). **#57** is Hyderabad. **#58** is Mumbai support. **#60** is Chennai SysDE. Food / PhonePe / Razorpay / CRED / Paytm / Groww / Meesho SDE I had no live official ≤2 URL. No Canonical filler. No extra Amazon FTC.
+
+### 53. Handshake — Software Engineer I, International Expansion (Bengaluru, on-site)
+
+[Apply](https://jobs.ashbyhq.com/handshake/91733641-0e01-4c04-a5ce-95a7faad1d1c)
+
+- Resume: [Atul_Banyal_Resume_Handshake.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Handshake.pdf)
+- Cover: [Atul_Banyal_Cover_Handshake.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Handshake.pdf)
+- Posted **1–3+ years**. On-site Bengaluru. Do not claim a prior player-coach title.
+
+### 54. GitLab — AI Engineer (Remote, Bangalore)
+
+[Apply 8556658002](https://job-boards.greenhouse.io/gitlab/jobs/8556658002)
+
+- Resume: [Atul_Banyal_Resume_GitLab_AI.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_GitLab_AI.pdf)
+- Cover: [Atul_Banyal_Cover_GitLab_AI.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_GitLab_AI.pdf)
+- No numeric 3+ floor. Production Python/TS/REST. LLM/agent product work is **not** on the CV.
+
+### 55. Accenture — Custom Software Engineer, Python (Bengaluru)
+
+[Apply ATCI-5383577-S1962511](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5383577-S1962511_en)
+
+- Resume: [Atul_Banyal_Resume_Accenture_Python_BLR.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Python_BLR.pdf)
+- Cover: [Atul_Banyal_Cover_Accenture_Python_BLR.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Python_BLR.pdf)
+- **Minimum 2 years Python.** Bengaluru office. React.js is good-to-have (real).
+
+### 56. Amazon — Data Engineer I, SmartCommerce (Bengaluru)
+
+[Apply 10506604](https://www.amazon.jobs/en/jobs/10506604)
+
+- Resume: [Atul_Banyal_Resume_Amazon_DE.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_DE.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_DE.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_DE.pdf)
+- Posted **1+ years**. Python/SQL/Airbyte/Snowflake/dbt. Do not list Spark/Hadoop.
+
+### 57. Amazon — Database Engineer I, PESDB (Hyderabad)
+
+[Apply 10469433](https://www.amazon.jobs/en/jobs/10469433)
+
+- Resume: [Atul_Banyal_Resume_Amazon_DB.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_DB.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_DB.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_DB.pdf)
+- Posted **1+** RDS PostgreSQL/MySQL. **Office is Hyderabad.**
+
+### 58. Accenture — Application Support Engineer (Mumbai)
+
+[Apply ATCI-5715393-S2063558](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5715393-S2063558_en)
+
+- Resume: [Atul_Banyal_Resume_Accenture_Support_Mumbai.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Accenture_Support_Mumbai.pdf)
+- Cover: [Atul_Banyal_Cover_Accenture_Support_Mumbai.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Accenture_Support_Mumbai.pdf)
+- **0–2 years Python.** **Mumbai.** Support track, not backend SWE.
+
+### 59. Deloitte — DEC Executive, Full stack Development (Bengaluru)
+
+[Apply req 107592](https://southasiacareers.deloitte.com/job/Bengaluru-Enabling-Areas-DEC-Executive-Full-stack-Development-Bengaluru/58386144/)
+
+- Resume: [Atul_Banyal_Resume_Deloitte_Fullstack.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Deloitte_Fullstack.pdf)
+- Cover: [Atul_Banyal_Cover_Deloitte_Fullstack.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Deloitte_Fullstack.pdf)
+- Posted **1–2 years**. FastAPI + React + Python/TS/SQL. Do not list Node.js as experience.
+
+### 60. Amazon — System Development Engineer I (Chennai)
+
+[Apply 10522139](https://www.amazon.jobs/en/jobs/10522139)
+
+- Resume: [Atul_Banyal_Resume_Amazon_SysDE.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/resumes/pdf/Atul_Banyal_Resume_Amazon_SysDE.pdf)
+- Cover: [Atul_Banyal_Cover_Amazon_SysDE.pdf](https://github.com/duggi20/ticketing/blob/cursor/batch10-jobs-2ec1/career-kit/cover-letters/pdf/Atul_Banyal_Cover_Amazon_SysDE.pdf)
+- Python/Ruby/Linux. **Office is Chennai.** Not FTC.
+
+## Already given (batch 9 — not #1–42)
 
 Prefer **#52 Amazon Rewards SDE I**, then **#50 CUBE**, **#51 Nanonets**, **#49 Amazon SDE I L4** (test-automation lean — honest). Then **#47 Accenture Python Pune**. **#43/#44** are Amazon FTC (contract). **#48** is GitLab Support, not backend. **#46** is Mumbai. Food / PhonePe / Razorpay / CRED / Paytm / Meesho SDE I had no live official ≤2 URL.
 

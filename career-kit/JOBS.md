@@ -6,9 +6,86 @@ You have **2 years 2 months** (Skyach **Jun 2024 – Aug 2026**). Re-read every 
 
 Upload the matching **resume PDF** from `career-kit/resumes/pdf/` and the matching **cover-letter PDF** from `career-kit/cover-letters/pdf/`. Do not use the `.md` drafts.
 
-**Already given:** batches 1–8 (#1–42). Do not re-send those as “new.” Do **not** pad extra Canonical IDs.
+**Already given:** batches 1–9 (#1–52). Do not re-send those as “new.” Do **not** pad extra Canonical IDs or Amazon FTC clones.
 
-# New this round — batch 9 (#43–52)
+# New this round — batch 10 (#53–60)
+
+Eight live official seats whose posted floor is **2 years or less**. Mix: Handshake product (Bengaluru on-site), GitLab AI Engineer (remote Bangalore), Accenture Python SWE (Bengaluru), Deloitte fullstack Executive (Bengaluru), Amazon DE I / DB Engineer I / SysDE I, Accenture application support (Mumbai). Official pages re-opened **14 Sep 2026**. Not mill. Not #1–52. Did **not** pad Canonical or Amazon FTC.
+
+**Could not lock:** Swiggy / Zomato / Eternal / Flipkart / PhonePe / Razorpay / CRED / Paytm / Groww / Meesho SDE I — no live official ≤2 SWE URL. Postman Bengaluru SWE is Senior 6+. Accenture ATCI-5629484 (Bengaluru 0–1/0–2 Python) returned no jobs. GitLab 8721229002 / 8623751002 404. Handshake FDE I India is **3+**. Infosys / TCS / Wipro / Thoughtworks experienced-hire ≤2 SWE — not locked.
+
+Prefer **#53 Handshake SWE I**, then **#55 Accenture Bengaluru Python**, then **#59 Deloitte fullstack**, then **#56 Amazon DE I**. **#54 GitLab AI** is production Python/TS/REST — LLM product engineering is not on the CV. **#57** is Hyderabad. **#58** is Mumbai **support**. **#60** is Chennai SysDE.
+
+| # | Company / role | Posted YOE | Location | Apply | Resume PDF | Cover PDF |
+|---|----------------|------------|----------|-------|------------|-----------|
+| 53 | **Handshake — Software Engineer I, International Expansion** | **1–3+ years** | Bengaluru (on-site) | [91733641](https://jobs.ashbyhq.com/handshake/91733641-0e01-4c04-a5ce-95a7faad1d1c) | `Atul_Banyal_Resume_Handshake.pdf` | `Atul_Banyal_Cover_Handshake.pdf` |
+| 54 | **GitLab — AI Engineer** | No numeric 3+ floor | Remote, Bangalore | [8556658002](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) | `Atul_Banyal_Resume_GitLab_AI.pdf` | `Atul_Banyal_Cover_GitLab_AI.pdf` |
+| 55 | **Accenture — Custom Software Engineer (Python)** | **Min 2 years Python** (listing 2–5) | **Bengaluru** | [ATCI-5383577-S1962511](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5383577-S1962511_en) | `Atul_Banyal_Resume_Accenture_Python_BLR.pdf` | `Atul_Banyal_Cover_Accenture_Python_BLR.pdf` |
+| 56 | **Amazon — Data Engineer I, SmartCommerce** | **1+ years** DE, SQL, ETL, Python | Bengaluru | [10506604](https://www.amazon.jobs/en/jobs/10506604) | `Atul_Banyal_Resume_Amazon_DE.pdf` | `Atul_Banyal_Cover_Amazon_DE.pdf` |
+| 57 | **Amazon — Database Engineer I, PESDB** | **1+** RDS PostgreSQL/MySQL | **Hyderabad** | [10469433](https://www.amazon.jobs/en/jobs/10469433) | `Atul_Banyal_Resume_Amazon_DB.pdf` | `Atul_Banyal_Cover_Amazon_DB.pdf` |
+| 58 | **Accenture — Application Support Engineer** | **0–2 years Python** | **Mumbai** | [ATCI-5715393-S2063558](https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5715393-S2063558_en) | `Atul_Banyal_Resume_Accenture_Support_Mumbai.pdf` | `Atul_Banyal_Cover_Accenture_Support_Mumbai.pdf` |
+| 59 | **Deloitte — DEC Executive, Full stack Development** | **1–2 years** | Bengaluru | [107592](https://southasiacareers.deloitte.com/job/Bengaluru-Enabling-Areas-DEC-Executive-Full-stack-Development-Bengaluru/58386144/) | `Atul_Banyal_Resume_Deloitte_Fullstack.pdf` | `Atul_Banyal_Cover_Deloitte_Fullstack.pdf` |
+| 60 | **Amazon — System Development Engineer I** | Python/Ruby/Linux (no 3+ floor) | **Chennai** | [10522139](https://www.amazon.jobs/en/jobs/10522139) | `Atul_Banyal_Resume_Amazon_SysDE.pdf` | `Atul_Banyal_Cover_Amazon_SysDE.pdf` |
+
+## 53. Handshake — Software Engineer I, International Expansion (Bengaluru, on-site)
+
+- **Ashby:** 91733641-0e01-4c04-a5ce-95a7faad1d1c · **On-site Bengaluru**
+- **Posted YOE:** **1–3+ years** owning production systems end-to-end
+- **Official apply:** https://jobs.ashbyhq.com/handshake/91733641-0e01-4c04-a5ce-95a7faad1d1c
+- **Your match:** 2y2m Python/TS/React/REST/SQL/Docker, end-to-end product ownership. **Do not claim a prior player-coach / multi-contributor lead title.** No language list on the JD — do not invent GraphQL/Java.
+
+## 54. GitLab — AI Engineer (Remote, Bangalore)
+
+- **Greenhouse:** 8556658002 · Enterprise Applications / internal AI solutions
+- **Posted YOE:** no numeric 3+ floor; “varying levels of experience”
+- **Official apply:** https://job-boards.greenhouse.io/gitlab/jobs/8556658002
+- **Your match:** production Python, JS/TS, REST APIs, Cursor in daily workflow. **LLM/agent/GraphQL/OpenAI product engineering is not production for you — keep it off the CV.** Cover states that honestly.
+
+## 55. Accenture — Custom Software Engineer, Python (Bengaluru)
+
+- **Job:** ATCI-5383577-S1962511 · **Bengaluru office**
+- **Posted YOE:** **Minimum 2 years Python** (listing also shows 2–5)
+- **Official apply:** https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5383577-S1962511_en
+- **Your match:** 2y2m production FastAPI, Git, SQL, React.js (good-to-have). **SQL Server as primary store is a ramp.**
+
+## 56. Amazon — Data Engineer I, SmartCommerce (Bengaluru)
+
+- **Job ID:** 10506604 · SmartBiz / Indian sellers
+- **Posted YOE:** **1+ years** data engineering, SQL, ETL, Python
+- **Official apply:** https://www.amazon.jobs/en/jobs/10506604
+- **Your match:** Python, SQL, Airbyte CDC, Snowflake, dbt. **Do not list Spark/Hadoop/Informatica as skills.** One Amazon DE I only — no CMT/SPS clones.
+
+## 57. Amazon — Database Engineer I, PESDB (Hyderabad)
+
+- **Job ID:** 10469433 · Fulfillment Technologies / PESDB
+- **Posted YOE:** **1+** RDS PostgreSQL/MySQL; Python/Ruby
+- **Official apply:** https://www.amazon.jobs/en/jobs/10469433
+- **Your match:** production Postgres/MySQL/Python/Ruby. **Office is Hyderabad — relocate honestly.**
+
+## 58. Accenture — Application Support Engineer (Mumbai)
+
+- **Job:** ATCI-5715393-S2063558 · **Mumbai office**
+- **Posted YOE:** **0–2 years Python**
+- **Official apply:** https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5715393-S2063558_en
+- **Your match:** production Python + debugging. **This is a support track, not backend SWE.** Willing to relocate to Mumbai.
+
+## 59. Deloitte — DEC Executive, Full stack Development (Bengaluru)
+
+- **Req:** 107592 · Entity: Deloitte Touche Tohmatsu India LLP
+- **Posted YOE:** **1–2 years**
+- **Official apply:** https://southasiacareers.deloitte.com/job/Bengaluru-Enabling-Areas-DEC-Executive-Full-stack-Development-Bengaluru/58386144/
+- **Your match:** Python, JS/TS, SQL, REST, FastAPI, React. **Do not list Node.js as experience.** FastAPI + React + Python/TS/SQL are real.
+
+## 60. Amazon — System Development Engineer I (Chennai)
+
+- **Job ID:** 10522139 · ASCS / Catalog Support
+- **Posted YOE:** Python/Ruby/Linux; preferred CI/CD. No numeric 3+ floor
+- **Official apply:** https://www.amazon.jobs/en/jobs/10522139
+- **Your match:** Python/Ruby, Docker/K8s, CI. **Office is Chennai — relocate honestly.** Not FTC. Ticket/deploy support is the day job.
+
+---
+
+# Already given — batch 9 (#43–52)
 
 Ten live official seats whose posted floor is **2 years or less**. Mix: Amazon MNC (permanent SDE I + FTC + PAI), Accenture service (Mumbai/Pune), GitLab Support, CUBE RegTech (fintech-adjacent product), Nanonets (Indian product). Official pages re-opened **14 Sep 2026**. Not mill. Not #1–42.
 
