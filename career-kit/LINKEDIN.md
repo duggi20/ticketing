@@ -102,6 +102,8 @@ You can skip YouTube-gestures (it is a fork) and the 2018 ML notebooks unless a 
 9. JavaScript  
 10. TypeScript / SQL (whichever LinkedIn lets you pin)
 
+Also add **RabbitMQ** to Skills (do not need to pin it in the top 10).
+
 Leave CNN / TensorFlow / “machine learning techniques” **unpinned**. They are real college work; they should not be the first thing a GitLab or Groww recruiter sees.
 
 Ask 3–5 SkyAch or college people for endorsements on Rails, React, REST, Docker.

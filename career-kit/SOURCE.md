@@ -35,21 +35,23 @@ Extracted text: `source-resumes/*.extracted.txt`
 ### Skills (union)
 
 - Languages: Ruby, Python, JavaScript, TypeScript, Shell Script
-- Backend: Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq
+- Backend: Ruby on Rails, FastAPI, RESTful APIs, microservices, Sidekiq, RabbitMQ
 - Frontend: **Vue.js, React.js, Next.js, TypeScript** (Vue is in experience bullets; React/Next/TS are professional frontend)
 - AI: Cursor, AI-assisted coding, AI academic specialization
 - Blockchain/APIs: Ethereum, Bitcoin, Solana, TRON, Web3, Node Setup; Binance, Kraken, CoinMarketCap
 - Data (from `Atul_Banyal.pdf`): Snowflake (OLAP), Airbyte CDC, dbt, ETL/ELT, OLTP/OLAP
-- DevOps/DBs: Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; MySQL, PostgreSQL, Redis
+- DevOps/DBs: Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS; MySQL, PostgreSQL, Redis, RabbitMQ
 - Tools: Openware Stack, Postman, Apidog
 
-Honest ATS aliases: **SQL** (MySQL/PostgreSQL/Snowflake), **REST APIs**, **CI/CD**, **fullstack**, **Python**, **Ruby**.
+**Atul-confirmed add:** **RabbitMQ** (message broker). List it with Sidekiq / Redis. Do not invent Kafka.
+
+Honest ATS aliases: **SQL** (MySQL/PostgreSQL/Snowflake), **REST APIs**, **CI/CD**, **fullstack**, **Python**, **Ruby**, **RabbitMQ**.
 
 ## Do not invent (still not on any of the three)
 
 - Angular, Node.js/Express, MongoDB, NATS, Stripe ticketing
 - Personal GitHub projects, MediaPipe, TensorFlow as work
-- Java, Go, C++, Kafka, Terraform, Ansible, Grafana as experience
+- Java, Go, C++, Kafka, Terraform, Ansible, Grafana as experience (RabbitMQ is on the CVs — Kafka is not)
 
 React.js / Next.js / Vue.js **are** on his CVs. Do not treat them as ramps. Vue is the frontend named on the tree-care job bullets; React/Next are in skills and summary. **TypeScript** is experience (with React/Next), not a ramp — even though the three PDFs print “JavaScript” in the languages line.
 
@@ -57,7 +59,7 @@ React.js / Next.js / Vue.js **are** on his CVs. Do not treat them as ramps. Vue 
 
 1. Start from this file + `Atul_Banyal_Resume_Master.html`. Keep Skyach products; do not replace them with a ticketing app.
 2. Read the JD. Put overlapping skills **first**. Add one summary clause that names the role and the overlapping tools from this union.
-3. Repeat true JD words that already exist (Python, FastAPI, Rails, Vue.js, React.js, Next.js, TypeScript, REST, SQL, Docker, Kubernetes, GitHub Actions, AWS, Snowflake, dbt).
+3. Repeat true JD words that already exist (Python, FastAPI, Rails, Vue.js, React.js, Next.js, TypeScript, REST, SQL, Docker, Kubernetes, GitHub Actions, AWS, Snowflake, dbt, Redis, RabbitMQ).
 4. If the JD’s main language is Java / C++ / Go / Angular and it is not on the CVs, **do not put that gap on the resume**. Skip the job, or apply only on the overlapping stack. Never add a “Ramps:” line to a CV.
 5. Apply only where the posted floor is **2 years or less**. Prefer Bengaluru or remote India. Hyderabad is OK when the stack matches.
 6. One page. Phone + email + LinkedIn. No GitHub URL.
@@ -65,7 +67,7 @@ React.js / Next.js / Vue.js **are** on his CVs. Do not treat them as ramps. Vue 
 ## Prefer these JDs next
 
 Fullstack / frontend: **Vue.js, React.js, Next.js, JavaScript, REST**  
-Backend / API: **Python FastAPI, Ruby on Rails, REST, MySQL/PostgreSQL, Redis**  
+Backend / API: **Python FastAPI, Ruby on Rails, REST, MySQL/PostgreSQL, Redis, RabbitMQ**  
 Data: **Snowflake, dbt, Airbyte/CDC, SQL, ETL**  
 Platform: **Docker, Kubernetes, GitHub Actions, AWS, Git**
 

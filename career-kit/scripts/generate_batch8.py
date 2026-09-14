@@ -122,9 +122,9 @@ def cover(title, loc_line, re_line, company, body_ps):
 
 
 SKILLS_CORE = """    <p class="skills"><b>Languages:</b> Python, Ruby, JavaScript, TypeScript, Shell Script</p>
-    <p class="skills"><b>Backend:</b> FastAPI, Ruby on Rails, RESTful APIs, microservices, Sidekiq</p>
+    <p class="skills"><b>Backend:</b> FastAPI, Ruby on Rails, RESTful APIs, microservices, Sidekiq, RabbitMQ</p>
     <p class="skills"><b>Frontend:</b> Vue.js, React.js, Next.js</p>
-    <p class="skills"><b>Data:</b> MySQL, PostgreSQL, Redis, Snowflake, Airbyte CDC, dbt, SQL</p>
+    <p class="skills"><b>Data:</b> MySQL, PostgreSQL, Redis, RabbitMQ, Snowflake, Airbyte CDC, dbt, SQL</p>
     <p class="skills"><b>DevOps:</b> Docker, Kubernetes, GitHub Actions (CI/CD), Git, AWS</p>"""
 
 BULLETS_FS = [
